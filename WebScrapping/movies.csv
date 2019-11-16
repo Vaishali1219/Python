@@ -1,0 +1,4455 @@
+Movie_Name, Release_Year, IMdb_Ratings, Meta_Score, Votes
+Whiskey River, NYC,2000,8.2,1.0,5
+Bone,2000,4.6,2.0,5
+Chocolate com Mostarda,2000,4.8,3.0,5
+Aliendog: Life as it is,2000,4.0,4.0,5
+Dreamland,2000,7.2,5.0,5
+Sirens of the Deep,2000,6.2,6.0,5
+HLA identique,2000,8.6,7.0,5
+Dernière invention,2000,8.0,8.0,5
+Inventing a Girl: An Experience in Homeschooling,2000,4.0,9.0,5
+On the Road,2000,6.2,10.0,5
+Senso di colpa,2000,3.8,11.0,5
+When the Time Comes,2000,6.6,12.0,5
+Consecration,2000,7.6,13.0,5
+Standing by,2000,9.2,14.0,5
+The Big Menarski,2000,7.2,15.0,5
+Banjo Frogs,2000,5.8,16.0,5
+ Doppelter Einsatz,1994,7.6,17.0,5
+A Dupla Viagem,2000,5.2,18.0,5
+Fotoquic,2000,6.0,19.0,5
+Land of 1,000 Dances,2000,7.0,20.0,5
+Jacinto Durante, representante,2000,7.4,21.0,5
+ L'histoire du samedi,1995,6.8,22.0,5
+Tailing the Millennium,2000,4.6,23.0,5
+Born to Kill,2000,7.2,24.0,5
+Hotel Elfie,2000,8.6,25.0,5
+Fugues,2000,8.2,26.0,5
+King Lear,2000,3.8,27.0,5
+Bob, Verushka & the Pursuit of Happiness,2000,7.8,28.0,5
+Threads of Hope,2000,7.2,29.0,5
+The Mystery of Cobblestone Way,2000,9.6,30.0,5
+Petit matin sanglant,2000,6.6,31.0,5
+Eine Synagoge zwischen Tal und Hügel,2000,8.2,32.0,5
+Natures mortes,2000,5.8,33.0,5
+The Pie's the Limit,2000,9.2,34.0,5
+Biebabeloela,2000,4.8,35.0,5
+Anacronías,2000,9.0,36.0,5
+ Im Fadenkreuz,2000,4.8,37.0,5
+Petite soeur,2000,6.8,38.0,5
+ Im Fadenkreuz,2000,4.4,39.0,5
+The Bataan Death March,2000,9.2,40.0,5
+Behind Closed Doors: The Dark Legacy of the Johns Committee,2000,7.4,41.0,5
+Hillbrow Kids,2000,8.2,42.0,5
+The Big Schmooze,2000,5.8,43.0,5
+Från opium till krysantemum,2000,5.6,44.0,5
+Citizen Kaye,2000,6.0,45.0,5
+Fraud,2000,5.6,46.0,5
+Rudis Suchmaschine,2000,2.8,47.0,5
+Vzlety a pády,2000,7.0,48.0,5
+Höre nie auf anzufangen - Der Ufa-Star Carola Höhn,2000,8.6,49.0,5
+Rheged: The Lost Kingdom,2000,7.4,50.0,5
+Whiskey River, NYC,2000,8.2,1.0,5
+Bone,2000,4.6,2.0,5
+Chocolate com Mostarda,2000,4.8,3.0,5
+Aliendog: Life as it is,2000,4.0,4.0,5
+Dreamland,2000,7.2,5.0,5
+Sirens of the Deep,2000,6.2,6.0,5
+HLA identique,2000,8.6,7.0,5
+Dernière invention,2000,8.0,8.0,5
+Inventing a Girl: An Experience in Homeschooling,2000,4.0,9.0,5
+On the Road,2000,6.2,10.0,5
+Senso di colpa,2000,3.8,11.0,5
+When the Time Comes,2000,6.6,12.0,5
+Consecration,2000,7.6,13.0,5
+Standing by,2000,9.2,14.0,5
+The Big Menarski,2000,7.2,15.0,5
+Banjo Frogs,2000,5.8,16.0,5
+ Doppelter Einsatz,1994,7.6,17.0,5
+A Dupla Viagem,2000,5.2,18.0,5
+Fotoquic,2000,6.0,19.0,5
+Land of 1,000 Dances,2000,7.0,20.0,5
+Jacinto Durante, representante,2000,7.4,21.0,5
+ L'histoire du samedi,1995,6.8,22.0,5
+Tailing the Millennium,2000,4.6,23.0,5
+Born to Kill,2000,7.2,24.0,5
+Hotel Elfie,2000,8.6,25.0,5
+Fugues,2000,8.2,26.0,5
+King Lear,2000,3.8,27.0,5
+Bob, Verushka & the Pursuit of Happiness,2000,7.8,28.0,5
+Threads of Hope,2000,7.2,29.0,5
+The Mystery of Cobblestone Way,2000,9.6,30.0,5
+Petit matin sanglant,2000,6.6,31.0,5
+Eine Synagoge zwischen Tal und Hügel,2000,8.2,32.0,5
+Natures mortes,2000,5.8,33.0,5
+The Pie's the Limit,2000,9.2,34.0,5
+Biebabeloela,2000,4.8,35.0,5
+Anacronías,2000,9.0,36.0,5
+ Im Fadenkreuz,2000,4.8,37.0,5
+Petite soeur,2000,6.8,38.0,5
+ Im Fadenkreuz,2000,4.4,39.0,5
+The Bataan Death March,2000,9.2,40.0,5
+Behind Closed Doors: The Dark Legacy of the Johns Committee,2000,7.4,41.0,5
+Hillbrow Kids,2000,8.2,42.0,5
+The Big Schmooze,2000,5.8,43.0,5
+Från opium till krysantemum,2000,5.6,44.0,5
+Citizen Kaye,2000,6.0,45.0,5
+Fraud,2000,5.6,46.0,5
+Rudis Suchmaschine,2000,2.8,47.0,5
+Vzlety a pády,2000,7.0,48.0,5
+Höre nie auf anzufangen - Der Ufa-Star Carola Höhn,2000,8.6,49.0,5
+Rheged: The Lost Kingdom,2000,7.4,50.0,5
+Whiskey River, NYC,2000,8.2,1.0,5
+Bone,2000,4.6,2.0,5
+Chocolate com Mostarda,2000,4.8,3.0,5
+Aliendog: Life as it is,2000,4.0,4.0,5
+Dreamland,2000,7.2,5.0,5
+Sirens of the Deep,2000,6.2,6.0,5
+HLA identique,2000,8.6,7.0,5
+Dernière invention,2000,8.0,8.0,5
+Inventing a Girl: An Experience in Homeschooling,2000,4.0,9.0,5
+On the Road,2000,6.2,10.0,5
+Senso di colpa,2000,3.8,11.0,5
+When the Time Comes,2000,6.6,12.0,5
+Consecration,2000,7.6,13.0,5
+Standing by,2000,9.2,14.0,5
+The Big Menarski,2000,7.2,15.0,5
+Banjo Frogs,2000,5.8,16.0,5
+ Doppelter Einsatz,1994,7.6,17.0,5
+A Dupla Viagem,2000,5.2,18.0,5
+Fotoquic,2000,6.0,19.0,5
+Land of 1,000 Dances,2000,7.0,20.0,5
+Jacinto Durante, representante,2000,7.4,21.0,5
+ L'histoire du samedi,1995,6.8,22.0,5
+Tailing the Millennium,2000,4.6,23.0,5
+Born to Kill,2000,7.2,24.0,5
+Hotel Elfie,2000,8.6,25.0,5
+Fugues,2000,8.2,26.0,5
+King Lear,2000,3.8,27.0,5
+Bob, Verushka & the Pursuit of Happiness,2000,7.8,28.0,5
+Threads of Hope,2000,7.2,29.0,5
+The Mystery of Cobblestone Way,2000,9.6,30.0,5
+Petit matin sanglant,2000,6.6,31.0,5
+Eine Synagoge zwischen Tal und Hügel,2000,8.2,32.0,5
+Natures mortes,2000,5.8,33.0,5
+The Pie's the Limit,2000,9.2,34.0,5
+Biebabeloela,2000,4.8,35.0,5
+Anacronías,2000,9.0,36.0,5
+ Im Fadenkreuz,2000,4.8,37.0,5
+Petite soeur,2000,6.8,38.0,5
+ Im Fadenkreuz,2000,4.4,39.0,5
+The Bataan Death March,2000,9.2,40.0,5
+Behind Closed Doors: The Dark Legacy of the Johns Committee,2000,7.4,41.0,5
+Hillbrow Kids,2000,8.2,42.0,5
+The Big Schmooze,2000,5.8,43.0,5
+Från opium till krysantemum,2000,5.6,44.0,5
+Citizen Kaye,2000,6.0,45.0,5
+Fraud,2000,5.6,46.0,5
+Rudis Suchmaschine,2000,2.8,47.0,5
+Vzlety a pády,2000,7.0,48.0,5
+Höre nie auf anzufangen - Der Ufa-Star Carola Höhn,2000,8.6,49.0,5
+Rheged: The Lost Kingdom,2000,7.4,50.0,5
+Whiskey River, NYC,2000,8.2,1.0,5
+Bone,2000,4.6,2.0,5
+Chocolate com Mostarda,2000,4.8,3.0,5
+Aliendog: Life as it is,2000,4.0,4.0,5
+Dreamland,2000,7.2,5.0,5
+Sirens of the Deep,2000,6.2,6.0,5
+HLA identique,2000,8.6,7.0,5
+Dernière invention,2000,8.0,8.0,5
+Inventing a Girl: An Experience in Homeschooling,2000,4.0,9.0,5
+On the Road,2000,6.2,10.0,5
+Senso di colpa,2000,3.8,11.0,5
+When the Time Comes,2000,6.6,12.0,5
+Consecration,2000,7.6,13.0,5
+Standing by,2000,9.2,14.0,5
+The Big Menarski,2000,7.2,15.0,5
+Banjo Frogs,2000,5.8,16.0,5
+ Doppelter Einsatz,1994,7.6,17.0,5
+A Dupla Viagem,2000,5.2,18.0,5
+Fotoquic,2000,6.0,19.0,5
+Land of 1,000 Dances,2000,7.0,20.0,5
+Jacinto Durante, representante,2000,7.4,21.0,5
+ L'histoire du samedi,1995,6.8,22.0,5
+Tailing the Millennium,2000,4.6,23.0,5
+Born to Kill,2000,7.2,24.0,5
+Hotel Elfie,2000,8.6,25.0,5
+Fugues,2000,8.2,26.0,5
+King Lear,2000,3.8,27.0,5
+Bob, Verushka & the Pursuit of Happiness,2000,7.8,28.0,5
+Threads of Hope,2000,7.2,29.0,5
+The Mystery of Cobblestone Way,2000,9.6,30.0,5
+Petit matin sanglant,2000,6.6,31.0,5
+Eine Synagoge zwischen Tal und Hügel,2000,8.2,32.0,5
+Natures mortes,2000,5.8,33.0,5
+The Pie's the Limit,2000,9.2,34.0,5
+Biebabeloela,2000,4.8,35.0,5
+Anacronías,2000,9.0,36.0,5
+ Im Fadenkreuz,2000,4.8,37.0,5
+Petite soeur,2000,6.8,38.0,5
+ Im Fadenkreuz,2000,4.4,39.0,5
+The Bataan Death March,2000,9.2,40.0,5
+Behind Closed Doors: The Dark Legacy of the Johns Committee,2000,7.4,41.0,5
+Hillbrow Kids,2000,8.2,42.0,5
+The Big Schmooze,2000,5.8,43.0,5
+Från opium till krysantemum,2000,5.6,44.0,5
+Citizen Kaye,2000,6.0,45.0,5
+Fraud,2000,5.6,46.0,5
+Rudis Suchmaschine,2000,2.8,47.0,5
+Vzlety a pády,2000,7.0,48.0,5
+Höre nie auf anzufangen - Der Ufa-Star Carola Höhn,2000,8.6,49.0,5
+Rheged: The Lost Kingdom,2000,7.4,50.0,5
+Whiskey River, NYC,2000,8.2,1.0,5
+Bone,2000,4.6,2.0,5
+Chocolate com Mostarda,2000,4.8,3.0,5
+Aliendog: Life as it is,2000,4.0,4.0,5
+Dreamland,2000,7.2,5.0,5
+Sirens of the Deep,2000,6.2,6.0,5
+HLA identique,2000,8.6,7.0,5
+Dernière invention,2000,8.0,8.0,5
+Inventing a Girl: An Experience in Homeschooling,2000,4.0,9.0,5
+On the Road,2000,6.2,10.0,5
+Senso di colpa,2000,3.8,11.0,5
+When the Time Comes,2000,6.6,12.0,5
+Consecration,2000,7.6,13.0,5
+Standing by,2000,9.2,14.0,5
+The Big Menarski,2000,7.2,15.0,5
+Banjo Frogs,2000,5.8,16.0,5
+ Doppelter Einsatz,1994,7.6,17.0,5
+A Dupla Viagem,2000,5.2,18.0,5
+Fotoquic,2000,6.0,19.0,5
+Land of 1,000 Dances,2000,7.0,20.0,5
+Jacinto Durante, representante,2000,7.4,21.0,5
+ L'histoire du samedi,1995,6.8,22.0,5
+Tailing the Millennium,2000,4.6,23.0,5
+Born to Kill,2000,7.2,24.0,5
+Hotel Elfie,2000,8.6,25.0,5
+Fugues,2000,8.2,26.0,5
+King Lear,2000,3.8,27.0,5
+Bob, Verushka & the Pursuit of Happiness,2000,7.8,28.0,5
+Threads of Hope,2000,7.2,29.0,5
+The Mystery of Cobblestone Way,2000,9.6,30.0,5
+Petit matin sanglant,2000,6.6,31.0,5
+Eine Synagoge zwischen Tal und Hügel,2000,8.2,32.0,5
+Natures mortes,2000,5.8,33.0,5
+The Pie's the Limit,2000,9.2,34.0,5
+Biebabeloela,2000,4.8,35.0,5
+Anacronías,2000,9.0,36.0,5
+ Im Fadenkreuz,2000,4.8,37.0,5
+Petite soeur,2000,6.8,38.0,5
+ Im Fadenkreuz,2000,4.4,39.0,5
+The Bataan Death March,2000,9.2,40.0,5
+Behind Closed Doors: The Dark Legacy of the Johns Committee,2000,7.4,41.0,5
+Hillbrow Kids,2000,8.2,42.0,5
+The Big Schmooze,2000,5.8,43.0,5
+Från opium till krysantemum,2000,5.6,44.0,5
+Citizen Kaye,2000,6.0,45.0,5
+Fraud,2000,5.6,46.0,5
+Rudis Suchmaschine,2000,2.8,47.0,5
+Vzlety a pády,2000,7.0,48.0,5
+Höre nie auf anzufangen - Der Ufa-Star Carola Höhn,2000,8.6,49.0,5
+Rheged: The Lost Kingdom,2000,7.4,50.0,5
+Quartzite's Fall: A Wilderness Tale,2001,7.0,1.0,5
+Sins of the Mother,2001,8.2,2.0,5
+Otaola o la república del exilio,2001,3.8,3.0,5
+Judicaël,2001,6.6,4.0,5
+Drinking Apart: Families Under the Influence,2001,7.2,5.0,5
+Nouvel ordre mondial... quelque part en Afrique,2001,8.4,6.0,5
+Rhode Island Blue,2001,7.0,7.0,5
+My Son,2001,4.2,8.0,5
+Oklahoma Tragedy,2001,6.4,9.0,5
+The Gay Riviera,2001,5.6,10.0,5
+Mon meilleur amour,2001,6.0,11.0,5
+Three Shots,2001,8.2,12.0,5
+Faber,2001,9.2,13.0,5
+Layar hidup: Tanjang priok/Jakarta,2001,6.4,14.0,5
+À bicyclette,2001,5.6,15.0,5
+Snowed in Weekend 2001 Dream Concert,2001,5.8,16.0,5
+The World Sports Awards,2001,7.2,17.0,5
+Avoir su...,2001,6.0,18.0,5
+Dans la gueule du loup,2001,3.6,19.0,5
+ Great Performances: Dance in America,1976,8.8,20.0,5
+Les filles à papa,2001,6.2,21.0,5
+La nota final,2001,7.0,22.0,5
+Los rebeldes,2001,7.6,23.0,5
+Pink Film,2001,8.4,24.0,5
+ Vertiges,1997,3.4,25.0,5
+Le parisien du village,2001,5.2,26.0,5
+La crociera,2001,6.6,27.0,5
+Two Grey Hills,2001,6.8,28.0,5
+Two Unknown Photographers,2001,9.2,29.0,5
+Philosophale,2001,1.2,30.0,5
+Zugvögel der Liebe,2001,2.8,31.0,5
+Geisters,2001,5.8,32.0,5
+Wie angelt man sich einen Müllmann?,2001,4.8,33.0,5
+Goo,2001,3.4,34.0,5
+ Ground Force,1998,9.2,35.0,5
+How Time Flies,2001,8.8,36.0,5
+Militärisches Sperrgebiet,2001,8.0,37.0,5
+A Perfect Two Ronnies Show,2001,7.2,38.0,5
+The Joke's on Thee,2001,4.2,39.0,5
+A Sensible Obsession,2001,3.8,40.0,5
+Things Girls Do...,2001,8.2,41.0,5
+Istanbul New York,2001,7.0,42.0,5
+Web Girl,2001,6.6,43.0,5
+ E! Mysteries & Scandals,1998,7.6,44.0,5
+Pressing the Flesh,2001,6.6,45.0,5
+Rymningen,2001,4.0,46.0,5
+Valèria,2001,6.0,47.0,5
+Fly Past,2001,8.6,48.0,5
+Die achte Todsünde: Gespensterjagd,2001,5.4,49.0,5
+Heaven on Earth,I) (,7.0,50.0,5
+Quartzite's Fall: A Wilderness Tale,2001,7.0,1.0,5
+Sins of the Mother,2001,8.2,2.0,5
+Otaola o la república del exilio,2001,3.8,3.0,5
+Judicaël,2001,6.6,4.0,5
+Drinking Apart: Families Under the Influence,2001,7.2,5.0,5
+Nouvel ordre mondial... quelque part en Afrique,2001,8.4,6.0,5
+Rhode Island Blue,2001,7.0,7.0,5
+My Son,2001,4.2,8.0,5
+Oklahoma Tragedy,2001,6.4,9.0,5
+The Gay Riviera,2001,5.6,10.0,5
+Mon meilleur amour,2001,6.0,11.0,5
+Three Shots,2001,8.2,12.0,5
+Faber,2001,9.2,13.0,5
+Layar hidup: Tanjang priok/Jakarta,2001,6.4,14.0,5
+À bicyclette,2001,5.6,15.0,5
+Snowed in Weekend 2001 Dream Concert,2001,5.8,16.0,5
+The World Sports Awards,2001,7.2,17.0,5
+Avoir su...,2001,6.0,18.0,5
+Dans la gueule du loup,2001,3.6,19.0,5
+ Great Performances: Dance in America,1976,8.8,20.0,5
+Les filles à papa,2001,6.2,21.0,5
+La nota final,2001,7.0,22.0,5
+Los rebeldes,2001,7.6,23.0,5
+Pink Film,2001,8.4,24.0,5
+ Vertiges,1997,3.4,25.0,5
+Le parisien du village,2001,5.2,26.0,5
+La crociera,2001,6.6,27.0,5
+Two Grey Hills,2001,6.8,28.0,5
+Two Unknown Photographers,2001,9.2,29.0,5
+Philosophale,2001,1.2,30.0,5
+Zugvögel der Liebe,2001,2.8,31.0,5
+Geisters,2001,5.8,32.0,5
+Wie angelt man sich einen Müllmann?,2001,4.8,33.0,5
+Goo,2001,3.4,34.0,5
+ Ground Force,1998,9.2,35.0,5
+How Time Flies,2001,8.8,36.0,5
+Militärisches Sperrgebiet,2001,8.0,37.0,5
+A Perfect Two Ronnies Show,2001,7.2,38.0,5
+The Joke's on Thee,2001,4.2,39.0,5
+A Sensible Obsession,2001,3.8,40.0,5
+Things Girls Do...,2001,8.2,41.0,5
+Istanbul New York,2001,7.0,42.0,5
+Web Girl,2001,6.6,43.0,5
+ E! Mysteries & Scandals,1998,7.6,44.0,5
+Pressing the Flesh,2001,6.6,45.0,5
+Rymningen,2001,4.0,46.0,5
+Valèria,2001,6.0,47.0,5
+Fly Past,2001,8.6,48.0,5
+Die achte Todsünde: Gespensterjagd,2001,5.4,49.0,5
+Heaven on Earth,I) (,7.0,50.0,5
+Quartzite's Fall: A Wilderness Tale,2001,7.0,1.0,5
+Sins of the Mother,2001,8.2,2.0,5
+Otaola o la república del exilio,2001,3.8,3.0,5
+Judicaël,2001,6.6,4.0,5
+Drinking Apart: Families Under the Influence,2001,7.2,5.0,5
+Nouvel ordre mondial... quelque part en Afrique,2001,8.4,6.0,5
+Rhode Island Blue,2001,7.0,7.0,5
+My Son,2001,4.2,8.0,5
+Oklahoma Tragedy,2001,6.4,9.0,5
+The Gay Riviera,2001,5.6,10.0,5
+Mon meilleur amour,2001,6.0,11.0,5
+Three Shots,2001,8.2,12.0,5
+Faber,2001,9.2,13.0,5
+Layar hidup: Tanjang priok/Jakarta,2001,6.4,14.0,5
+À bicyclette,2001,5.6,15.0,5
+Snowed in Weekend 2001 Dream Concert,2001,5.8,16.0,5
+The World Sports Awards,2001,7.2,17.0,5
+Avoir su...,2001,6.0,18.0,5
+Dans la gueule du loup,2001,3.6,19.0,5
+ Great Performances: Dance in America,1976,8.8,20.0,5
+Les filles à papa,2001,6.2,21.0,5
+La nota final,2001,7.0,22.0,5
+Los rebeldes,2001,7.6,23.0,5
+Pink Film,2001,8.4,24.0,5
+ Vertiges,1997,3.4,25.0,5
+Le parisien du village,2001,5.2,26.0,5
+La crociera,2001,6.6,27.0,5
+Two Grey Hills,2001,6.8,28.0,5
+Two Unknown Photographers,2001,9.2,29.0,5
+Philosophale,2001,1.2,30.0,5
+Zugvögel der Liebe,2001,2.8,31.0,5
+Geisters,2001,5.8,32.0,5
+Wie angelt man sich einen Müllmann?,2001,4.8,33.0,5
+Goo,2001,3.4,34.0,5
+ Ground Force,1998,9.2,35.0,5
+How Time Flies,2001,8.8,36.0,5
+Militärisches Sperrgebiet,2001,8.0,37.0,5
+A Perfect Two Ronnies Show,2001,7.2,38.0,5
+The Joke's on Thee,2001,4.2,39.0,5
+A Sensible Obsession,2001,3.8,40.0,5
+Things Girls Do...,2001,8.2,41.0,5
+Istanbul New York,2001,7.0,42.0,5
+Web Girl,2001,6.6,43.0,5
+ E! Mysteries & Scandals,1998,7.6,44.0,5
+Pressing the Flesh,2001,6.6,45.0,5
+Rymningen,2001,4.0,46.0,5
+Valèria,2001,6.0,47.0,5
+Fly Past,2001,8.6,48.0,5
+Die achte Todsünde: Gespensterjagd,2001,5.4,49.0,5
+Heaven on Earth,I) (,7.0,50.0,5
+Quartzite's Fall: A Wilderness Tale,2001,7.0,1.0,5
+Sins of the Mother,2001,8.2,2.0,5
+Otaola o la república del exilio,2001,3.8,3.0,5
+Judicaël,2001,6.6,4.0,5
+Drinking Apart: Families Under the Influence,2001,7.2,5.0,5
+Nouvel ordre mondial... quelque part en Afrique,2001,8.4,6.0,5
+Rhode Island Blue,2001,7.0,7.0,5
+My Son,2001,4.2,8.0,5
+Oklahoma Tragedy,2001,6.4,9.0,5
+The Gay Riviera,2001,5.6,10.0,5
+Mon meilleur amour,2001,6.0,11.0,5
+Three Shots,2001,8.2,12.0,5
+Faber,2001,9.2,13.0,5
+Layar hidup: Tanjang priok/Jakarta,2001,6.4,14.0,5
+À bicyclette,2001,5.6,15.0,5
+Snowed in Weekend 2001 Dream Concert,2001,5.8,16.0,5
+The World Sports Awards,2001,7.2,17.0,5
+Avoir su...,2001,6.0,18.0,5
+Dans la gueule du loup,2001,3.6,19.0,5
+ Great Performances: Dance in America,1976,8.8,20.0,5
+Les filles à papa,2001,6.2,21.0,5
+La nota final,2001,7.0,22.0,5
+Los rebeldes,2001,7.6,23.0,5
+Pink Film,2001,8.4,24.0,5
+ Vertiges,1997,3.4,25.0,5
+Le parisien du village,2001,5.2,26.0,5
+La crociera,2001,6.6,27.0,5
+Two Grey Hills,2001,6.8,28.0,5
+Two Unknown Photographers,2001,9.2,29.0,5
+Philosophale,2001,1.2,30.0,5
+Zugvögel der Liebe,2001,2.8,31.0,5
+Geisters,2001,5.8,32.0,5
+Wie angelt man sich einen Müllmann?,2001,4.8,33.0,5
+Goo,2001,3.4,34.0,5
+ Ground Force,1998,9.2,35.0,5
+How Time Flies,2001,8.8,36.0,5
+Militärisches Sperrgebiet,2001,8.0,37.0,5
+A Perfect Two Ronnies Show,2001,7.2,38.0,5
+The Joke's on Thee,2001,4.2,39.0,5
+A Sensible Obsession,2001,3.8,40.0,5
+Things Girls Do...,2001,8.2,41.0,5
+Istanbul New York,2001,7.0,42.0,5
+Web Girl,2001,6.6,43.0,5
+ E! Mysteries & Scandals,1998,7.6,44.0,5
+Pressing the Flesh,2001,6.6,45.0,5
+Rymningen,2001,4.0,46.0,5
+Valèria,2001,6.0,47.0,5
+Fly Past,2001,8.6,48.0,5
+Die achte Todsünde: Gespensterjagd,2001,5.4,49.0,5
+Heaven on Earth,I) (,7.0,50.0,5
+Quartzite's Fall: A Wilderness Tale,2001,7.0,1.0,5
+Sins of the Mother,2001,8.2,2.0,5
+Otaola o la república del exilio,2001,3.8,3.0,5
+Judicaël,2001,6.6,4.0,5
+Drinking Apart: Families Under the Influence,2001,7.2,5.0,5
+Nouvel ordre mondial... quelque part en Afrique,2001,8.4,6.0,5
+Rhode Island Blue,2001,7.0,7.0,5
+My Son,2001,4.2,8.0,5
+Oklahoma Tragedy,2001,6.4,9.0,5
+The Gay Riviera,2001,5.6,10.0,5
+Mon meilleur amour,2001,6.0,11.0,5
+Three Shots,2001,8.2,12.0,5
+Faber,2001,9.2,13.0,5
+Layar hidup: Tanjang priok/Jakarta,2001,6.4,14.0,5
+À bicyclette,2001,5.6,15.0,5
+Snowed in Weekend 2001 Dream Concert,2001,5.8,16.0,5
+The World Sports Awards,2001,7.2,17.0,5
+Avoir su...,2001,6.0,18.0,5
+Dans la gueule du loup,2001,3.6,19.0,5
+ Great Performances: Dance in America,1976,8.8,20.0,5
+Les filles à papa,2001,6.2,21.0,5
+La nota final,2001,7.0,22.0,5
+Los rebeldes,2001,7.6,23.0,5
+Pink Film,2001,8.4,24.0,5
+ Vertiges,1997,3.4,25.0,5
+Le parisien du village,2001,5.2,26.0,5
+La crociera,2001,6.6,27.0,5
+Two Grey Hills,2001,6.8,28.0,5
+Two Unknown Photographers,2001,9.2,29.0,5
+Philosophale,2001,1.2,30.0,5
+Zugvögel der Liebe,2001,2.8,31.0,5
+Geisters,2001,5.8,32.0,5
+Wie angelt man sich einen Müllmann?,2001,4.8,33.0,5
+Goo,2001,3.4,34.0,5
+ Ground Force,1998,9.2,35.0,5
+How Time Flies,2001,8.8,36.0,5
+Militärisches Sperrgebiet,2001,8.0,37.0,5
+A Perfect Two Ronnies Show,2001,7.2,38.0,5
+The Joke's on Thee,2001,4.2,39.0,5
+A Sensible Obsession,2001,3.8,40.0,5
+Things Girls Do...,2001,8.2,41.0,5
+Istanbul New York,2001,7.0,42.0,5
+Web Girl,2001,6.6,43.0,5
+ E! Mysteries & Scandals,1998,7.6,44.0,5
+Pressing the Flesh,2001,6.6,45.0,5
+Rymningen,2001,4.0,46.0,5
+Valèria,2001,6.0,47.0,5
+Fly Past,2001,8.6,48.0,5
+Die achte Todsünde: Gespensterjagd,2001,5.4,49.0,5
+Heaven on Earth,I) (,7.0,50.0,5
+Im Visier der Zielfahnder,2002,6.6,1.0,5
+Honeyrun,2002,6.0,2.0,5
+Woman on Fire,2002,5.8,3.0,5
+Ingrid Jonker: Her Lives and Time ...,2002,8.6,4.0,5
+Bulldog,2002,5.4,5.0,5
+When Sunday Comes,2002,7.2,6.0,5
+Que vivent les femmes!,2002,7.8,7.0,5
+Survivor,2002,2.8,8.0,5
+A Dalmatians Point of View,2002,5.8,9.0,5
+645 Wellington,2002,6.8,10.0,5
+The Long Grey Line,2002,7.8,11.0,5
+Curve,I) (,5.2,12.0,5
+Hot Dog,II) ,5.0,13.0,5
+Ninas Geschichte,2002,6.6,14.0,5
+The Secret Life of Richard Nixon,2002,7.8,15.0,5
+Love Without Borders,2002,6.4,16.0,5
+The Migration of Clouds,2002,7.2,17.0,5
+Agua y aceite,2002,7.2,18.0,5
+Retro,2002,6.4,19.0,5
+When Girls Do It: An Examination of Female Sexual Offenders,2002,7.2,20.0,5
+The Rift,2002,4.8,21.0,5
+Stan the Man,2002,6.4,22.0,5
+En mai, fais ce qu'il te plaît,2002,5.8,23.0,5
+Der Freiheit,2002,4.2,24.0,5
+Minister,2002,7.4,25.0,5
+T.A.To.E,2002,6.2,26.0,5
+Occupation,I) (,7.6,27.0,5
+6horts #2: Friday,2002,5.8,28.0,5
+Expedition,2002,8.0,29.0,5
+The 2002 IFP/West Independent Spirit Awards Nomination Show,2002,6.2,30.0,5
+Fiona,2002,6.0,31.0,5
+Radimi: Who Stole the Dream,2002,6.2,32.0,5
+Spinster,2002,4.4,33.0,5
+Mademoiselle Charlotte,2002,7.4,34.0,5
+The Path,2002,6.0,35.0,5
+Temps afegit,2002,7.6,36.0,5
+Verhör und Tod in Winterthur,2002,7.6,37.0,5
+Condensed Classics with Dave Shaw,2002,6.0,38.0,5
+Pass the Buck,2002,5.0,39.0,5
+Bakshis,2002,9.0,40.0,5
+Big Mac Small World,2002,5.2,41.0,5
+Inherent Darkness and Enlightenment,2002,5.4,42.0,5
+Judge Is God,2002,8.6,43.0,5
+Mero Hajur,2002,7.0,44.0,5
+ Die Männer vom K3,1988,4.4,45.0,5
+Sami and Binx,2002,9.0,46.0,5
+Teeth,2002,7.4,47.0,5
+For My Children,2002,5.8,48.0,5
+Footlong,2002,9.4,49.0,5
+The Hot Show,2002,7.6,50.0,5
+Im Visier der Zielfahnder,2002,6.6,1.0,5
+Honeyrun,2002,6.0,2.0,5
+Woman on Fire,2002,5.8,3.0,5
+Ingrid Jonker: Her Lives and Time ...,2002,8.6,4.0,5
+Bulldog,2002,5.4,5.0,5
+When Sunday Comes,2002,7.2,6.0,5
+Que vivent les femmes!,2002,7.8,7.0,5
+Survivor,2002,2.8,8.0,5
+A Dalmatians Point of View,2002,5.8,9.0,5
+645 Wellington,2002,6.8,10.0,5
+The Long Grey Line,2002,7.8,11.0,5
+Curve,I) (,5.2,12.0,5
+Hot Dog,II) ,5.0,13.0,5
+Ninas Geschichte,2002,6.6,14.0,5
+The Secret Life of Richard Nixon,2002,7.8,15.0,5
+Love Without Borders,2002,6.4,16.0,5
+The Migration of Clouds,2002,7.2,17.0,5
+Agua y aceite,2002,7.2,18.0,5
+Retro,2002,6.4,19.0,5
+When Girls Do It: An Examination of Female Sexual Offenders,2002,7.2,20.0,5
+The Rift,2002,4.8,21.0,5
+Stan the Man,2002,6.4,22.0,5
+En mai, fais ce qu'il te plaît,2002,5.8,23.0,5
+Der Freiheit,2002,4.2,24.0,5
+Minister,2002,7.4,25.0,5
+T.A.To.E,2002,6.2,26.0,5
+Occupation,I) (,7.6,27.0,5
+6horts #2: Friday,2002,5.8,28.0,5
+Expedition,2002,8.0,29.0,5
+The 2002 IFP/West Independent Spirit Awards Nomination Show,2002,6.2,30.0,5
+Fiona,2002,6.0,31.0,5
+Radimi: Who Stole the Dream,2002,6.2,32.0,5
+Spinster,2002,4.4,33.0,5
+Mademoiselle Charlotte,2002,7.4,34.0,5
+The Path,2002,6.0,35.0,5
+Temps afegit,2002,7.6,36.0,5
+Verhör und Tod in Winterthur,2002,7.6,37.0,5
+Condensed Classics with Dave Shaw,2002,6.0,38.0,5
+Pass the Buck,2002,5.0,39.0,5
+Bakshis,2002,9.0,40.0,5
+Big Mac Small World,2002,5.2,41.0,5
+Inherent Darkness and Enlightenment,2002,5.4,42.0,5
+Judge Is God,2002,8.6,43.0,5
+Mero Hajur,2002,7.0,44.0,5
+ Die Männer vom K3,1988,4.4,45.0,5
+Sami and Binx,2002,9.0,46.0,5
+Teeth,2002,7.4,47.0,5
+For My Children,2002,5.8,48.0,5
+Footlong,2002,9.4,49.0,5
+The Hot Show,2002,7.6,50.0,5
+Im Visier der Zielfahnder,2002,6.6,1.0,5
+Honeyrun,2002,6.0,2.0,5
+Woman on Fire,2002,5.8,3.0,5
+Ingrid Jonker: Her Lives and Time ...,2002,8.6,4.0,5
+Bulldog,2002,5.4,5.0,5
+When Sunday Comes,2002,7.2,6.0,5
+Que vivent les femmes!,2002,7.8,7.0,5
+Survivor,2002,2.8,8.0,5
+A Dalmatians Point of View,2002,5.8,9.0,5
+645 Wellington,2002,6.8,10.0,5
+The Long Grey Line,2002,7.8,11.0,5
+Curve,I) (,5.2,12.0,5
+Hot Dog,II) ,5.0,13.0,5
+Ninas Geschichte,2002,6.6,14.0,5
+The Secret Life of Richard Nixon,2002,7.8,15.0,5
+Love Without Borders,2002,6.4,16.0,5
+The Migration of Clouds,2002,7.2,17.0,5
+Agua y aceite,2002,7.2,18.0,5
+Retro,2002,6.4,19.0,5
+When Girls Do It: An Examination of Female Sexual Offenders,2002,7.2,20.0,5
+The Rift,2002,4.8,21.0,5
+Stan the Man,2002,6.4,22.0,5
+En mai, fais ce qu'il te plaît,2002,5.8,23.0,5
+Der Freiheit,2002,4.2,24.0,5
+Minister,2002,7.4,25.0,5
+T.A.To.E,2002,6.2,26.0,5
+Occupation,I) (,7.6,27.0,5
+6horts #2: Friday,2002,5.8,28.0,5
+Expedition,2002,8.0,29.0,5
+The 2002 IFP/West Independent Spirit Awards Nomination Show,2002,6.2,30.0,5
+Fiona,2002,6.0,31.0,5
+Radimi: Who Stole the Dream,2002,6.2,32.0,5
+Spinster,2002,4.4,33.0,5
+Mademoiselle Charlotte,2002,7.4,34.0,5
+The Path,2002,6.0,35.0,5
+Temps afegit,2002,7.6,36.0,5
+Verhör und Tod in Winterthur,2002,7.6,37.0,5
+Condensed Classics with Dave Shaw,2002,6.0,38.0,5
+Pass the Buck,2002,5.0,39.0,5
+Bakshis,2002,9.0,40.0,5
+Big Mac Small World,2002,5.2,41.0,5
+Inherent Darkness and Enlightenment,2002,5.4,42.0,5
+Judge Is God,2002,8.6,43.0,5
+Mero Hajur,2002,7.0,44.0,5
+ Die Männer vom K3,1988,4.4,45.0,5
+Sami and Binx,2002,9.0,46.0,5
+Teeth,2002,7.4,47.0,5
+For My Children,2002,5.8,48.0,5
+Footlong,2002,9.4,49.0,5
+The Hot Show,2002,7.6,50.0,5
+Im Visier der Zielfahnder,2002,6.6,1.0,5
+Honeyrun,2002,6.0,2.0,5
+Woman on Fire,2002,5.8,3.0,5
+Ingrid Jonker: Her Lives and Time ...,2002,8.6,4.0,5
+Bulldog,2002,5.4,5.0,5
+When Sunday Comes,2002,7.2,6.0,5
+Que vivent les femmes!,2002,7.8,7.0,5
+Survivor,2002,2.8,8.0,5
+A Dalmatians Point of View,2002,5.8,9.0,5
+645 Wellington,2002,6.8,10.0,5
+The Long Grey Line,2002,7.8,11.0,5
+Curve,I) (,5.2,12.0,5
+Hot Dog,II) ,5.0,13.0,5
+Ninas Geschichte,2002,6.6,14.0,5
+The Secret Life of Richard Nixon,2002,7.8,15.0,5
+Love Without Borders,2002,6.4,16.0,5
+The Migration of Clouds,2002,7.2,17.0,5
+Agua y aceite,2002,7.2,18.0,5
+Retro,2002,6.4,19.0,5
+When Girls Do It: An Examination of Female Sexual Offenders,2002,7.2,20.0,5
+The Rift,2002,4.8,21.0,5
+Stan the Man,2002,6.4,22.0,5
+En mai, fais ce qu'il te plaît,2002,5.8,23.0,5
+Der Freiheit,2002,4.2,24.0,5
+Minister,2002,7.4,25.0,5
+T.A.To.E,2002,6.2,26.0,5
+Occupation,I) (,7.6,27.0,5
+6horts #2: Friday,2002,5.8,28.0,5
+Expedition,2002,8.0,29.0,5
+The 2002 IFP/West Independent Spirit Awards Nomination Show,2002,6.2,30.0,5
+Fiona,2002,6.0,31.0,5
+Radimi: Who Stole the Dream,2002,6.2,32.0,5
+Spinster,2002,4.4,33.0,5
+Mademoiselle Charlotte,2002,7.4,34.0,5
+The Path,2002,6.0,35.0,5
+Temps afegit,2002,7.6,36.0,5
+Verhör und Tod in Winterthur,2002,7.6,37.0,5
+Condensed Classics with Dave Shaw,2002,6.0,38.0,5
+Pass the Buck,2002,5.0,39.0,5
+Bakshis,2002,9.0,40.0,5
+Big Mac Small World,2002,5.2,41.0,5
+Inherent Darkness and Enlightenment,2002,5.4,42.0,5
+Judge Is God,2002,8.6,43.0,5
+Mero Hajur,2002,7.0,44.0,5
+ Die Männer vom K3,1988,4.4,45.0,5
+Sami and Binx,2002,9.0,46.0,5
+Teeth,2002,7.4,47.0,5
+For My Children,2002,5.8,48.0,5
+Footlong,2002,9.4,49.0,5
+The Hot Show,2002,7.6,50.0,5
+Im Visier der Zielfahnder,2002,6.6,1.0,5
+Honeyrun,2002,6.0,2.0,5
+Woman on Fire,2002,5.8,3.0,5
+Ingrid Jonker: Her Lives and Time ...,2002,8.6,4.0,5
+Bulldog,2002,5.4,5.0,5
+When Sunday Comes,2002,7.2,6.0,5
+Que vivent les femmes!,2002,7.8,7.0,5
+Survivor,2002,2.8,8.0,5
+A Dalmatians Point of View,2002,5.8,9.0,5
+645 Wellington,2002,6.8,10.0,5
+The Long Grey Line,2002,7.8,11.0,5
+Curve,I) (,5.2,12.0,5
+Hot Dog,II) ,5.0,13.0,5
+Ninas Geschichte,2002,6.6,14.0,5
+The Secret Life of Richard Nixon,2002,7.8,15.0,5
+Love Without Borders,2002,6.4,16.0,5
+The Migration of Clouds,2002,7.2,17.0,5
+Agua y aceite,2002,7.2,18.0,5
+Retro,2002,6.4,19.0,5
+When Girls Do It: An Examination of Female Sexual Offenders,2002,7.2,20.0,5
+The Rift,2002,4.8,21.0,5
+Stan the Man,2002,6.4,22.0,5
+En mai, fais ce qu'il te plaît,2002,5.8,23.0,5
+Der Freiheit,2002,4.2,24.0,5
+Minister,2002,7.4,25.0,5
+T.A.To.E,2002,6.2,26.0,5
+Occupation,I) (,7.6,27.0,5
+6horts #2: Friday,2002,5.8,28.0,5
+Expedition,2002,8.0,29.0,5
+The 2002 IFP/West Independent Spirit Awards Nomination Show,2002,6.2,30.0,5
+Fiona,2002,6.0,31.0,5
+Radimi: Who Stole the Dream,2002,6.2,32.0,5
+Spinster,2002,4.4,33.0,5
+Mademoiselle Charlotte,2002,7.4,34.0,5
+The Path,2002,6.0,35.0,5
+Temps afegit,2002,7.6,36.0,5
+Verhör und Tod in Winterthur,2002,7.6,37.0,5
+Condensed Classics with Dave Shaw,2002,6.0,38.0,5
+Pass the Buck,2002,5.0,39.0,5
+Bakshis,2002,9.0,40.0,5
+Big Mac Small World,2002,5.2,41.0,5
+Inherent Darkness and Enlightenment,2002,5.4,42.0,5
+Judge Is God,2002,8.6,43.0,5
+Mero Hajur,2002,7.0,44.0,5
+ Die Männer vom K3,1988,4.4,45.0,5
+Sami and Binx,2002,9.0,46.0,5
+Teeth,2002,7.4,47.0,5
+For My Children,2002,5.8,48.0,5
+Footlong,2002,9.4,49.0,5
+The Hot Show,2002,7.6,50.0,5
+Terror in the Darkness,2003,3.0,1.0,5
+The Life Between,2003,7.0,2.0,5
+Freedom Song,2003,5.4,3.0,5
+The Three Stages of Stan,2003,8.6,4.0,5
+He's Having a Baby,2003,5.0,5.0,5
+With You in Spirit,2003,5.2,6.0,5
+Secuestrados en Georgia,2003,3.2,7.0,5
+Arbor Vitae,2003,5.8,8.0,5
+Night Creep,2003,6.2,9.0,5
+Mermaids of Brooklyn,2003,6.2,10.0,5
+Atomic Love,2003,7.0,11.0,5
+A Freudian Image,2003,6.6,12.0,5
+Gelbe Tage,2003,6.0,13.0,5
+Insel der Schildkröte,2003,6.2,14.0,5
+It's the Number One Party,2003,7.0,15.0,5
+Un momento,2003,7.0,16.0,5
+Die Perle in der Kacke,2003,9.4,17.0,5
+Rettet Berlin!,2003,5.4,18.0,5
+The Visitor,2003,6.2,19.0,5
+L'aubaine,2003,5.2,20.0,5
+ Sauveur Giordano,2001,6.6,21.0,5
+Descent,I) (,6.8,22.0,5
+Especial Míster Bean,2003,8.6,23.0,5
+Love Letters from a War,2003,9.0,24.0,5
+Franck Keller,2003,6.4,25.0,5
+Vegas Showgirls: Nearly Famous,2003,6.6,26.0,5
+Cold Turkey,I) (,6.2,27.0,5
+The Luvvies,2003,3.6,28.0,5
+Bergen Binnen,2003,7.6,29.0,5
+My Life Is a Sitcom,2003,4.6,30.0,5
+Boot Hill Blind Dead,2003,5.8,31.0,5
+The Federation of Black Cowboys,2003,8.6,32.0,5
+Il gatto nero,2003,7.8,33.0,5
+Kukk Khata Khuni,2003,6.2,34.0,5
+Racines,2003,7.6,35.0,5
+Fragile,II) ,4.6,36.0,5
+Kofi Annan: Center of the Storm,2003,5.2,37.0,5
+Tres padres solteros,2003,6.4,38.0,5
+Zoobichos,2003,6.6,39.0,5
+Hilfe, ich bin Millionär,2003,7.8,40.0,5
+ Vertiges,1997,6.0,41.0,5
+Salaam Bombay!: No Guts, No Glory,2003,7.4,42.0,5
+Statsministerens nytårstale,2003,5.0,43.0,5
+La vie en gros,2003,7.0,44.0,5
+Le retour du printemps,2003,7.2,45.0,5
+Terrorism,2003,8.6,46.0,5
+Beauty School,2003,5.8,47.0,5
+Im Labyrinth,2003,5.4,48.0,5
+Guillem,2003,8.0,49.0,5
+Our Friend Saddam,2003,7.8,50.0,5
+Terror in the Darkness,2003,3.0,1.0,5
+The Life Between,2003,7.0,2.0,5
+Freedom Song,2003,5.4,3.0,5
+The Three Stages of Stan,2003,8.6,4.0,5
+He's Having a Baby,2003,5.0,5.0,5
+With You in Spirit,2003,5.2,6.0,5
+Secuestrados en Georgia,2003,3.2,7.0,5
+Arbor Vitae,2003,5.8,8.0,5
+Night Creep,2003,6.2,9.0,5
+Mermaids of Brooklyn,2003,6.2,10.0,5
+Atomic Love,2003,7.0,11.0,5
+A Freudian Image,2003,6.6,12.0,5
+Gelbe Tage,2003,6.0,13.0,5
+Insel der Schildkröte,2003,6.2,14.0,5
+It's the Number One Party,2003,7.0,15.0,5
+Un momento,2003,7.0,16.0,5
+Die Perle in der Kacke,2003,9.4,17.0,5
+Rettet Berlin!,2003,5.4,18.0,5
+The Visitor,2003,6.2,19.0,5
+L'aubaine,2003,5.2,20.0,5
+ Sauveur Giordano,2001,6.6,21.0,5
+Descent,I) (,6.8,22.0,5
+Especial Míster Bean,2003,8.6,23.0,5
+Love Letters from a War,2003,9.0,24.0,5
+Franck Keller,2003,6.4,25.0,5
+Vegas Showgirls: Nearly Famous,2003,6.6,26.0,5
+Cold Turkey,I) (,6.2,27.0,5
+The Luvvies,2003,3.6,28.0,5
+Bergen Binnen,2003,7.6,29.0,5
+My Life Is a Sitcom,2003,4.6,30.0,5
+Boot Hill Blind Dead,2003,5.8,31.0,5
+The Federation of Black Cowboys,2003,8.6,32.0,5
+Il gatto nero,2003,7.8,33.0,5
+Kukk Khata Khuni,2003,6.2,34.0,5
+Racines,2003,7.6,35.0,5
+Fragile,II) ,4.6,36.0,5
+Kofi Annan: Center of the Storm,2003,5.2,37.0,5
+Tres padres solteros,2003,6.4,38.0,5
+Zoobichos,2003,6.6,39.0,5
+Hilfe, ich bin Millionär,2003,7.8,40.0,5
+ Vertiges,1997,6.0,41.0,5
+Salaam Bombay!: No Guts, No Glory,2003,7.4,42.0,5
+Statsministerens nytårstale,2003,5.0,43.0,5
+La vie en gros,2003,7.0,44.0,5
+Le retour du printemps,2003,7.2,45.0,5
+Terrorism,2003,8.6,46.0,5
+Beauty School,2003,5.8,47.0,5
+Im Labyrinth,2003,5.4,48.0,5
+Guillem,2003,8.0,49.0,5
+Our Friend Saddam,2003,7.8,50.0,5
+Terror in the Darkness,2003,3.0,1.0,5
+The Life Between,2003,7.0,2.0,5
+Freedom Song,2003,5.4,3.0,5
+The Three Stages of Stan,2003,8.6,4.0,5
+He's Having a Baby,2003,5.0,5.0,5
+With You in Spirit,2003,5.2,6.0,5
+Secuestrados en Georgia,2003,3.2,7.0,5
+Arbor Vitae,2003,5.8,8.0,5
+Night Creep,2003,6.2,9.0,5
+Mermaids of Brooklyn,2003,6.2,10.0,5
+Atomic Love,2003,7.0,11.0,5
+A Freudian Image,2003,6.6,12.0,5
+Gelbe Tage,2003,6.0,13.0,5
+Insel der Schildkröte,2003,6.2,14.0,5
+It's the Number One Party,2003,7.0,15.0,5
+Un momento,2003,7.0,16.0,5
+Die Perle in der Kacke,2003,9.4,17.0,5
+Rettet Berlin!,2003,5.4,18.0,5
+The Visitor,2003,6.2,19.0,5
+L'aubaine,2003,5.2,20.0,5
+ Sauveur Giordano,2001,6.6,21.0,5
+Descent,I) (,6.8,22.0,5
+Especial Míster Bean,2003,8.6,23.0,5
+Love Letters from a War,2003,9.0,24.0,5
+Franck Keller,2003,6.4,25.0,5
+Vegas Showgirls: Nearly Famous,2003,6.6,26.0,5
+Cold Turkey,I) (,6.2,27.0,5
+The Luvvies,2003,3.6,28.0,5
+Bergen Binnen,2003,7.6,29.0,5
+My Life Is a Sitcom,2003,4.6,30.0,5
+Boot Hill Blind Dead,2003,5.8,31.0,5
+The Federation of Black Cowboys,2003,8.6,32.0,5
+Il gatto nero,2003,7.8,33.0,5
+Kukk Khata Khuni,2003,6.2,34.0,5
+Racines,2003,7.6,35.0,5
+Fragile,II) ,4.6,36.0,5
+Kofi Annan: Center of the Storm,2003,5.2,37.0,5
+Tres padres solteros,2003,6.4,38.0,5
+Zoobichos,2003,6.6,39.0,5
+Hilfe, ich bin Millionär,2003,7.8,40.0,5
+ Vertiges,1997,6.0,41.0,5
+Salaam Bombay!: No Guts, No Glory,2003,7.4,42.0,5
+Statsministerens nytårstale,2003,5.0,43.0,5
+La vie en gros,2003,7.0,44.0,5
+Le retour du printemps,2003,7.2,45.0,5
+Terrorism,2003,8.6,46.0,5
+Beauty School,2003,5.8,47.0,5
+Im Labyrinth,2003,5.4,48.0,5
+Guillem,2003,8.0,49.0,5
+Our Friend Saddam,2003,7.8,50.0,5
+Terror in the Darkness,2003,3.0,1.0,5
+The Life Between,2003,7.0,2.0,5
+Freedom Song,2003,5.4,3.0,5
+The Three Stages of Stan,2003,8.6,4.0,5
+He's Having a Baby,2003,5.0,5.0,5
+With You in Spirit,2003,5.2,6.0,5
+Secuestrados en Georgia,2003,3.2,7.0,5
+Arbor Vitae,2003,5.8,8.0,5
+Night Creep,2003,6.2,9.0,5
+Mermaids of Brooklyn,2003,6.2,10.0,5
+Atomic Love,2003,7.0,11.0,5
+A Freudian Image,2003,6.6,12.0,5
+Gelbe Tage,2003,6.0,13.0,5
+Insel der Schildkröte,2003,6.2,14.0,5
+It's the Number One Party,2003,7.0,15.0,5
+Un momento,2003,7.0,16.0,5
+Die Perle in der Kacke,2003,9.4,17.0,5
+Rettet Berlin!,2003,5.4,18.0,5
+The Visitor,2003,6.2,19.0,5
+L'aubaine,2003,5.2,20.0,5
+ Sauveur Giordano,2001,6.6,21.0,5
+Descent,I) (,6.8,22.0,5
+Especial Míster Bean,2003,8.6,23.0,5
+Love Letters from a War,2003,9.0,24.0,5
+Franck Keller,2003,6.4,25.0,5
+Vegas Showgirls: Nearly Famous,2003,6.6,26.0,5
+Cold Turkey,I) (,6.2,27.0,5
+The Luvvies,2003,3.6,28.0,5
+Bergen Binnen,2003,7.6,29.0,5
+My Life Is a Sitcom,2003,4.6,30.0,5
+Boot Hill Blind Dead,2003,5.8,31.0,5
+The Federation of Black Cowboys,2003,8.6,32.0,5
+Il gatto nero,2003,7.8,33.0,5
+Kukk Khata Khuni,2003,6.2,34.0,5
+Racines,2003,7.6,35.0,5
+Fragile,II) ,4.6,36.0,5
+Kofi Annan: Center of the Storm,2003,5.2,37.0,5
+Tres padres solteros,2003,6.4,38.0,5
+Zoobichos,2003,6.6,39.0,5
+Hilfe, ich bin Millionär,2003,7.8,40.0,5
+ Vertiges,1997,6.0,41.0,5
+Salaam Bombay!: No Guts, No Glory,2003,7.4,42.0,5
+Statsministerens nytårstale,2003,5.0,43.0,5
+La vie en gros,2003,7.0,44.0,5
+Le retour du printemps,2003,7.2,45.0,5
+Terrorism,2003,8.6,46.0,5
+Beauty School,2003,5.8,47.0,5
+Im Labyrinth,2003,5.4,48.0,5
+Guillem,2003,8.0,49.0,5
+Our Friend Saddam,2003,7.8,50.0,5
+Terror in the Darkness,2003,3.0,1.0,5
+The Life Between,2003,7.0,2.0,5
+Freedom Song,2003,5.4,3.0,5
+The Three Stages of Stan,2003,8.6,4.0,5
+He's Having a Baby,2003,5.0,5.0,5
+With You in Spirit,2003,5.2,6.0,5
+Secuestrados en Georgia,2003,3.2,7.0,5
+Arbor Vitae,2003,5.8,8.0,5
+Night Creep,2003,6.2,9.0,5
+Mermaids of Brooklyn,2003,6.2,10.0,5
+Atomic Love,2003,7.0,11.0,5
+A Freudian Image,2003,6.6,12.0,5
+Gelbe Tage,2003,6.0,13.0,5
+Insel der Schildkröte,2003,6.2,14.0,5
+It's the Number One Party,2003,7.0,15.0,5
+Un momento,2003,7.0,16.0,5
+Die Perle in der Kacke,2003,9.4,17.0,5
+Rettet Berlin!,2003,5.4,18.0,5
+The Visitor,2003,6.2,19.0,5
+L'aubaine,2003,5.2,20.0,5
+ Sauveur Giordano,2001,6.6,21.0,5
+Descent,I) (,6.8,22.0,5
+Especial Míster Bean,2003,8.6,23.0,5
+Love Letters from a War,2003,9.0,24.0,5
+Franck Keller,2003,6.4,25.0,5
+Vegas Showgirls: Nearly Famous,2003,6.6,26.0,5
+Cold Turkey,I) (,6.2,27.0,5
+The Luvvies,2003,3.6,28.0,5
+Bergen Binnen,2003,7.6,29.0,5
+My Life Is a Sitcom,2003,4.6,30.0,5
+Boot Hill Blind Dead,2003,5.8,31.0,5
+The Federation of Black Cowboys,2003,8.6,32.0,5
+Il gatto nero,2003,7.8,33.0,5
+Kukk Khata Khuni,2003,6.2,34.0,5
+Racines,2003,7.6,35.0,5
+Fragile,II) ,4.6,36.0,5
+Kofi Annan: Center of the Storm,2003,5.2,37.0,5
+Tres padres solteros,2003,6.4,38.0,5
+Zoobichos,2003,6.6,39.0,5
+Hilfe, ich bin Millionär,2003,7.8,40.0,5
+ Vertiges,1997,6.0,41.0,5
+Salaam Bombay!: No Guts, No Glory,2003,7.4,42.0,5
+Statsministerens nytårstale,2003,5.0,43.0,5
+La vie en gros,2003,7.0,44.0,5
+Le retour du printemps,2003,7.2,45.0,5
+Terrorism,2003,8.6,46.0,5
+Beauty School,2003,5.8,47.0,5
+Im Labyrinth,2003,5.4,48.0,5
+Guillem,2003,8.0,49.0,5
+Our Friend Saddam,2003,7.8,50.0,5
+Responso,2004,7.4,1.0,5
+La tresse d'Aminata,2004,6.8,2.0,5
+Le choix de Macha,2004,5.4,3.0,5
+US Poker Championship,2004,6.4,4.0,5
+ Die schnelle Gerdi,1989,3.2,5.0,5
+Route 66 Road Trip,2004,7.0,6.0,5
+Cruising Antarctica,2004,8.8,7.0,5
+Crying Foul,2004,8.6,8.0,5
+Morphine,2004,6.6,9.0,5
+Thunder Perfect Mind,2004,7.6,10.0,5
+Teratoma,2004,4.8,11.0,5
+Eurovizijos dainø konkursas 2004,2004,7.2,12.0,5
+Little Man,I) (,8.8,13.0,5
+Just Another Day in the Homeland,2004,7.6,14.0,5
+Marc Dutroux - De verklaring,2004,4.8,15.0,5
+Danish Music Awards 2004,2004,7.2,16.0,5
+In Hot Water,2004,5.2,17.0,5
+The Runaround,2004,9.0,18.0,5
+Sad Spanish Song,2004,5.8,19.0,5
+Sunday on the Rocks,2004,6.4,20.0,5
+Comme un poisson dans l'eau,2004,5.8,21.0,5
+La Ronde des Flandres,2004,5.6,22.0,5
+Jesús, el heredero,2004,5.0,23.0,5
+The Life and Times of Arthur Erickson,2004,7.8,24.0,5
+Bird, Bath and Beyond,2004,5.0,25.0,5
+Celebrities Exposed,2004,1.6,26.0,5
+Tears Before Bedtime,2004,7.0,27.0,5
+Dedans-dehors,2004,4.2,28.0,5
+Le secret de Fatima,2004,5.2,29.0,5
+Making 'Gretchen',2004,4.4,30.0,5
+Mirror Mirror,2004,3.0,31.0,5
+Les cheveux de ma mère,2004,6.8,32.0,5
+Toni Wirtanen Undercover,2004,6.0,33.0,5
+Eternal Bliss,2004,6.4,34.0,5
+Határontúl,2004,6.4,35.0,5
+In the Back of My Mind,2004,6.2,36.0,5
+Scammers,2004,8.4,37.0,5
+La sposa,2004,6.2,38.0,5
+Travels with My Unfit Mother,2004,7.6,39.0,5
+ Aspe,2004,7.4,40.0,5
+ E! True Hollywood Story,1996,4.6,41.0,5
+Fanáticos,2004,8.6,42.0,5
+Major League Baseball 2005,2004,7.2,43.0,5
+Prohibido dormir,2004,8.2,44.0,5
+The Push,2004,5.4,45.0,5
+Who Stole Bob Monkhouse's Jokes?,2004,6.2,46.0,5
+Words,2004,8.8,47.0,5
+Mathilde au matin,2004,6.0,48.0,5
+Idole: Harald Juhnke,2004,5.2,49.0,5
+Zaha Hadid: Behind the Facade,2004,8.0,50.0,5
+Responso,2004,7.4,1.0,5
+La tresse d'Aminata,2004,6.8,2.0,5
+Le choix de Macha,2004,5.4,3.0,5
+US Poker Championship,2004,6.4,4.0,5
+ Die schnelle Gerdi,1989,3.2,5.0,5
+Route 66 Road Trip,2004,7.0,6.0,5
+Cruising Antarctica,2004,8.8,7.0,5
+Crying Foul,2004,8.6,8.0,5
+Morphine,2004,6.6,9.0,5
+Thunder Perfect Mind,2004,7.6,10.0,5
+Teratoma,2004,4.8,11.0,5
+Eurovizijos dainø konkursas 2004,2004,7.2,12.0,5
+Little Man,I) (,8.8,13.0,5
+Just Another Day in the Homeland,2004,7.6,14.0,5
+Marc Dutroux - De verklaring,2004,4.8,15.0,5
+Danish Music Awards 2004,2004,7.2,16.0,5
+In Hot Water,2004,5.2,17.0,5
+The Runaround,2004,9.0,18.0,5
+Sad Spanish Song,2004,5.8,19.0,5
+Sunday on the Rocks,2004,6.4,20.0,5
+Comme un poisson dans l'eau,2004,5.8,21.0,5
+La Ronde des Flandres,2004,5.6,22.0,5
+Jesús, el heredero,2004,5.0,23.0,5
+The Life and Times of Arthur Erickson,2004,7.8,24.0,5
+Bird, Bath and Beyond,2004,5.0,25.0,5
+Celebrities Exposed,2004,1.6,26.0,5
+Tears Before Bedtime,2004,7.0,27.0,5
+Dedans-dehors,2004,4.2,28.0,5
+Le secret de Fatima,2004,5.2,29.0,5
+Making 'Gretchen',2004,4.4,30.0,5
+Mirror Mirror,2004,3.0,31.0,5
+Les cheveux de ma mère,2004,6.8,32.0,5
+Toni Wirtanen Undercover,2004,6.0,33.0,5
+Eternal Bliss,2004,6.4,34.0,5
+Határontúl,2004,6.4,35.0,5
+In the Back of My Mind,2004,6.2,36.0,5
+Scammers,2004,8.4,37.0,5
+La sposa,2004,6.2,38.0,5
+Travels with My Unfit Mother,2004,7.6,39.0,5
+ Aspe,2004,7.4,40.0,5
+ E! True Hollywood Story,1996,4.6,41.0,5
+Fanáticos,2004,8.6,42.0,5
+Major League Baseball 2005,2004,7.2,43.0,5
+Prohibido dormir,2004,8.2,44.0,5
+The Push,2004,5.4,45.0,5
+Who Stole Bob Monkhouse's Jokes?,2004,6.2,46.0,5
+Words,2004,8.8,47.0,5
+Mathilde au matin,2004,6.0,48.0,5
+Idole: Harald Juhnke,2004,5.2,49.0,5
+Zaha Hadid: Behind the Facade,2004,8.0,50.0,5
+Responso,2004,7.4,1.0,5
+La tresse d'Aminata,2004,6.8,2.0,5
+Le choix de Macha,2004,5.4,3.0,5
+US Poker Championship,2004,6.4,4.0,5
+ Die schnelle Gerdi,1989,3.2,5.0,5
+Route 66 Road Trip,2004,7.0,6.0,5
+Cruising Antarctica,2004,8.8,7.0,5
+Crying Foul,2004,8.6,8.0,5
+Morphine,2004,6.6,9.0,5
+Thunder Perfect Mind,2004,7.6,10.0,5
+Teratoma,2004,4.8,11.0,5
+Eurovizijos dainø konkursas 2004,2004,7.2,12.0,5
+Little Man,I) (,8.8,13.0,5
+Just Another Day in the Homeland,2004,7.6,14.0,5
+Marc Dutroux - De verklaring,2004,4.8,15.0,5
+Danish Music Awards 2004,2004,7.2,16.0,5
+In Hot Water,2004,5.2,17.0,5
+The Runaround,2004,9.0,18.0,5
+Sad Spanish Song,2004,5.8,19.0,5
+Sunday on the Rocks,2004,6.4,20.0,5
+Comme un poisson dans l'eau,2004,5.8,21.0,5
+La Ronde des Flandres,2004,5.6,22.0,5
+Jesús, el heredero,2004,5.0,23.0,5
+The Life and Times of Arthur Erickson,2004,7.8,24.0,5
+Bird, Bath and Beyond,2004,5.0,25.0,5
+Celebrities Exposed,2004,1.6,26.0,5
+Tears Before Bedtime,2004,7.0,27.0,5
+Dedans-dehors,2004,4.2,28.0,5
+Le secret de Fatima,2004,5.2,29.0,5
+Making 'Gretchen',2004,4.4,30.0,5
+Mirror Mirror,2004,3.0,31.0,5
+Les cheveux de ma mère,2004,6.8,32.0,5
+Toni Wirtanen Undercover,2004,6.0,33.0,5
+Eternal Bliss,2004,6.4,34.0,5
+Határontúl,2004,6.4,35.0,5
+In the Back of My Mind,2004,6.2,36.0,5
+Scammers,2004,8.4,37.0,5
+La sposa,2004,6.2,38.0,5
+Travels with My Unfit Mother,2004,7.6,39.0,5
+ Aspe,2004,7.4,40.0,5
+ E! True Hollywood Story,1996,4.6,41.0,5
+Fanáticos,2004,8.6,42.0,5
+Major League Baseball 2005,2004,7.2,43.0,5
+Prohibido dormir,2004,8.2,44.0,5
+The Push,2004,5.4,45.0,5
+Who Stole Bob Monkhouse's Jokes?,2004,6.2,46.0,5
+Words,2004,8.8,47.0,5
+Mathilde au matin,2004,6.0,48.0,5
+Idole: Harald Juhnke,2004,5.2,49.0,5
+Zaha Hadid: Behind the Facade,2004,8.0,50.0,5
+Responso,2004,7.4,1.0,5
+La tresse d'Aminata,2004,6.8,2.0,5
+Le choix de Macha,2004,5.4,3.0,5
+US Poker Championship,2004,6.4,4.0,5
+ Die schnelle Gerdi,1989,3.2,5.0,5
+Route 66 Road Trip,2004,7.0,6.0,5
+Cruising Antarctica,2004,8.8,7.0,5
+Crying Foul,2004,8.6,8.0,5
+Morphine,2004,6.6,9.0,5
+Thunder Perfect Mind,2004,7.6,10.0,5
+Teratoma,2004,4.8,11.0,5
+Eurovizijos dainø konkursas 2004,2004,7.2,12.0,5
+Little Man,I) (,8.8,13.0,5
+Just Another Day in the Homeland,2004,7.6,14.0,5
+Marc Dutroux - De verklaring,2004,4.8,15.0,5
+Danish Music Awards 2004,2004,7.2,16.0,5
+In Hot Water,2004,5.2,17.0,5
+The Runaround,2004,9.0,18.0,5
+Sad Spanish Song,2004,5.8,19.0,5
+Sunday on the Rocks,2004,6.4,20.0,5
+Comme un poisson dans l'eau,2004,5.8,21.0,5
+La Ronde des Flandres,2004,5.6,22.0,5
+Jesús, el heredero,2004,5.0,23.0,5
+The Life and Times of Arthur Erickson,2004,7.8,24.0,5
+Bird, Bath and Beyond,2004,5.0,25.0,5
+Celebrities Exposed,2004,1.6,26.0,5
+Tears Before Bedtime,2004,7.0,27.0,5
+Dedans-dehors,2004,4.2,28.0,5
+Le secret de Fatima,2004,5.2,29.0,5
+Making 'Gretchen',2004,4.4,30.0,5
+Mirror Mirror,2004,3.0,31.0,5
+Les cheveux de ma mère,2004,6.8,32.0,5
+Toni Wirtanen Undercover,2004,6.0,33.0,5
+Eternal Bliss,2004,6.4,34.0,5
+Határontúl,2004,6.4,35.0,5
+In the Back of My Mind,2004,6.2,36.0,5
+Scammers,2004,8.4,37.0,5
+La sposa,2004,6.2,38.0,5
+Travels with My Unfit Mother,2004,7.6,39.0,5
+ Aspe,2004,7.4,40.0,5
+ E! True Hollywood Story,1996,4.6,41.0,5
+Fanáticos,2004,8.6,42.0,5
+Major League Baseball 2005,2004,7.2,43.0,5
+Prohibido dormir,2004,8.2,44.0,5
+The Push,2004,5.4,45.0,5
+Who Stole Bob Monkhouse's Jokes?,2004,6.2,46.0,5
+Words,2004,8.8,47.0,5
+Mathilde au matin,2004,6.0,48.0,5
+Idole: Harald Juhnke,2004,5.2,49.0,5
+Zaha Hadid: Behind the Facade,2004,8.0,50.0,5
+Responso,2004,7.4,1.0,5
+La tresse d'Aminata,2004,6.8,2.0,5
+Le choix de Macha,2004,5.4,3.0,5
+US Poker Championship,2004,6.4,4.0,5
+ Die schnelle Gerdi,1989,3.2,5.0,5
+Route 66 Road Trip,2004,7.0,6.0,5
+Cruising Antarctica,2004,8.8,7.0,5
+Crying Foul,2004,8.6,8.0,5
+Morphine,2004,6.6,9.0,5
+Thunder Perfect Mind,2004,7.6,10.0,5
+Teratoma,2004,4.8,11.0,5
+Eurovizijos dainø konkursas 2004,2004,7.2,12.0,5
+Little Man,I) (,8.8,13.0,5
+Just Another Day in the Homeland,2004,7.6,14.0,5
+Marc Dutroux - De verklaring,2004,4.8,15.0,5
+Danish Music Awards 2004,2004,7.2,16.0,5
+In Hot Water,2004,5.2,17.0,5
+The Runaround,2004,9.0,18.0,5
+Sad Spanish Song,2004,5.8,19.0,5
+Sunday on the Rocks,2004,6.4,20.0,5
+Comme un poisson dans l'eau,2004,5.8,21.0,5
+La Ronde des Flandres,2004,5.6,22.0,5
+Jesús, el heredero,2004,5.0,23.0,5
+The Life and Times of Arthur Erickson,2004,7.8,24.0,5
+Bird, Bath and Beyond,2004,5.0,25.0,5
+Celebrities Exposed,2004,1.6,26.0,5
+Tears Before Bedtime,2004,7.0,27.0,5
+Dedans-dehors,2004,4.2,28.0,5
+Le secret de Fatima,2004,5.2,29.0,5
+Making 'Gretchen',2004,4.4,30.0,5
+Mirror Mirror,2004,3.0,31.0,5
+Les cheveux de ma mère,2004,6.8,32.0,5
+Toni Wirtanen Undercover,2004,6.0,33.0,5
+Eternal Bliss,2004,6.4,34.0,5
+Határontúl,2004,6.4,35.0,5
+In the Back of My Mind,2004,6.2,36.0,5
+Scammers,2004,8.4,37.0,5
+La sposa,2004,6.2,38.0,5
+Travels with My Unfit Mother,2004,7.6,39.0,5
+ Aspe,2004,7.4,40.0,5
+ E! True Hollywood Story,1996,4.6,41.0,5
+Fanáticos,2004,8.6,42.0,5
+Major League Baseball 2005,2004,7.2,43.0,5
+Prohibido dormir,2004,8.2,44.0,5
+The Push,2004,5.4,45.0,5
+Who Stole Bob Monkhouse's Jokes?,2004,6.2,46.0,5
+Words,2004,8.8,47.0,5
+Mathilde au matin,2004,6.0,48.0,5
+Idole: Harald Juhnke,2004,5.2,49.0,5
+Zaha Hadid: Behind the Facade,2004,8.0,50.0,5
+Pannon halom,2005,7.4,1.0,5
+Give It Up,2005,4.6,2.0,5
+El fuego y el soñador,2005,7.6,3.0,5
+El jardín de las hespérides,2005,7.0,4.0,5
+Des fleurs pour Irma,2005,6.2,5.0,5
+The Observation Room,2005,5.6,6.0,5
+Unbridled,2005,8.0,7.0,5
+Deutsche in Amerika,2005,7.8,8.0,5
+Modern Girl's Guide to Life,2005,6.4,9.0,5
+Thatta Kedona: The Toy Village of Pakistan,2005,7.4,10.0,5
+El tigre escondido,2005,6.0,11.0,5
+Voodoo Secrets,2005,5.8,12.0,5
+A Place of Our Own: Los Niños en Su Casa,2005,9.0,13.0,5
+After Tomorrow,2005,7.2,14.0,5
+My Comfortable Stranger,2005,4.6,15.0,5
+Sommerfuglekvinden,2005,5.6,16.0,5
+101,2005,7.0,17.0,5
+Seconde chance,2005,5.6,18.0,5
+Nocturnal,2005,8.0,19.0,5
+The Mystery of the Afghan Gold,2005,5.6,20.0,5
+Tage aus Nacht,2005,5.4,21.0,5
+Hockey's Greatest Era: 1942-1967,2005,6.6,22.0,5
+Det gode liv,2005,4.8,23.0,5
+DM i stand-up 2004,2005,5.2,24.0,5
+Berocca,2005,3.6,25.0,5
+Un dia en la vida,2005,4.6,26.0,5
+Let the Good Times Roll,2005,6.6,27.0,5
+Raw,2005,3.6,28.0,5
+Santiago,2005,8.0,29.0,5
+Jardin secret,2005,3.0,30.0,5
+Gala TP de Oro 2004,2005,8.2,31.0,5
+Dakar Rally,2005,5.2,32.0,5
+ E! Live from the Red Carpet,1995,4.8,33.0,5
+Szörnyek ebédje,2005,6.4,34.0,5
+Pills Profits Protest,2005,7.0,35.0,5
+Making of 'Anjas Engel',2005,6.0,36.0,5
+Amantul marii doamne Dracula,2005,5.2,37.0,5
+Projecte Cassandra,2005,5.6,38.0,5
+Venla 2004,2005,4.2,39.0,5
+True Crime,2005,6.2,40.0,5
+Summer Dreams,2005,8.2,41.0,5
+Les courants,2005,4.2,42.0,5
+Ingrid, Palle og lydene,2005,7.2,43.0,5
+The Last Known Documentary,2005,6.4,44.0,5
+Ne dites pas à ma mère,2005,7.4,45.0,5
+40 Celebrity Weddings and a Funeral,2005,7.6,46.0,5
+American Express Jam Sessions,2005,6.2,47.0,5
+Two Minute Warning,2005,6.4,48.0,5
+Attract Opposites,2005,8.2,49.0,5
+Hitting the High Notes: 2004 High Sierra Music Festival,2005,9.2,50.0,5
+Pannon halom,2005,7.4,1.0,5
+Give It Up,2005,4.6,2.0,5
+El fuego y el soñador,2005,7.6,3.0,5
+El jardín de las hespérides,2005,7.0,4.0,5
+Des fleurs pour Irma,2005,6.2,5.0,5
+The Observation Room,2005,5.6,6.0,5
+Unbridled,2005,8.0,7.0,5
+Deutsche in Amerika,2005,7.8,8.0,5
+Modern Girl's Guide to Life,2005,6.4,9.0,5
+Thatta Kedona: The Toy Village of Pakistan,2005,7.4,10.0,5
+El tigre escondido,2005,6.0,11.0,5
+Voodoo Secrets,2005,5.8,12.0,5
+A Place of Our Own: Los Niños en Su Casa,2005,9.0,13.0,5
+After Tomorrow,2005,7.2,14.0,5
+My Comfortable Stranger,2005,4.6,15.0,5
+Sommerfuglekvinden,2005,5.6,16.0,5
+101,2005,7.0,17.0,5
+Seconde chance,2005,5.6,18.0,5
+Nocturnal,2005,8.0,19.0,5
+The Mystery of the Afghan Gold,2005,5.6,20.0,5
+Tage aus Nacht,2005,5.4,21.0,5
+Hockey's Greatest Era: 1942-1967,2005,6.6,22.0,5
+Det gode liv,2005,4.8,23.0,5
+DM i stand-up 2004,2005,5.2,24.0,5
+Berocca,2005,3.6,25.0,5
+Un dia en la vida,2005,4.6,26.0,5
+Let the Good Times Roll,2005,6.6,27.0,5
+Raw,2005,3.6,28.0,5
+Santiago,2005,8.0,29.0,5
+Jardin secret,2005,3.0,30.0,5
+Gala TP de Oro 2004,2005,8.2,31.0,5
+Dakar Rally,2005,5.2,32.0,5
+ E! Live from the Red Carpet,1995,4.8,33.0,5
+Szörnyek ebédje,2005,6.4,34.0,5
+Pills Profits Protest,2005,7.0,35.0,5
+Making of 'Anjas Engel',2005,6.0,36.0,5
+Amantul marii doamne Dracula,2005,5.2,37.0,5
+Projecte Cassandra,2005,5.6,38.0,5
+Venla 2004,2005,4.2,39.0,5
+True Crime,2005,6.2,40.0,5
+Summer Dreams,2005,8.2,41.0,5
+Les courants,2005,4.2,42.0,5
+Ingrid, Palle og lydene,2005,7.2,43.0,5
+The Last Known Documentary,2005,6.4,44.0,5
+Ne dites pas à ma mère,2005,7.4,45.0,5
+40 Celebrity Weddings and a Funeral,2005,7.6,46.0,5
+American Express Jam Sessions,2005,6.2,47.0,5
+Two Minute Warning,2005,6.4,48.0,5
+Attract Opposites,2005,8.2,49.0,5
+Hitting the High Notes: 2004 High Sierra Music Festival,2005,9.2,50.0,5
+Pannon halom,2005,7.4,1.0,5
+Give It Up,2005,4.6,2.0,5
+El fuego y el soñador,2005,7.6,3.0,5
+El jardín de las hespérides,2005,7.0,4.0,5
+Des fleurs pour Irma,2005,6.2,5.0,5
+The Observation Room,2005,5.6,6.0,5
+Unbridled,2005,8.0,7.0,5
+Deutsche in Amerika,2005,7.8,8.0,5
+Modern Girl's Guide to Life,2005,6.4,9.0,5
+Thatta Kedona: The Toy Village of Pakistan,2005,7.4,10.0,5
+El tigre escondido,2005,6.0,11.0,5
+Voodoo Secrets,2005,5.8,12.0,5
+A Place of Our Own: Los Niños en Su Casa,2005,9.0,13.0,5
+After Tomorrow,2005,7.2,14.0,5
+My Comfortable Stranger,2005,4.6,15.0,5
+Sommerfuglekvinden,2005,5.6,16.0,5
+101,2005,7.0,17.0,5
+Seconde chance,2005,5.6,18.0,5
+Nocturnal,2005,8.0,19.0,5
+The Mystery of the Afghan Gold,2005,5.6,20.0,5
+Tage aus Nacht,2005,5.4,21.0,5
+Hockey's Greatest Era: 1942-1967,2005,6.6,22.0,5
+Det gode liv,2005,4.8,23.0,5
+DM i stand-up 2004,2005,5.2,24.0,5
+Berocca,2005,3.6,25.0,5
+Un dia en la vida,2005,4.6,26.0,5
+Let the Good Times Roll,2005,6.6,27.0,5
+Raw,2005,3.6,28.0,5
+Santiago,2005,8.0,29.0,5
+Jardin secret,2005,3.0,30.0,5
+Gala TP de Oro 2004,2005,8.2,31.0,5
+Dakar Rally,2005,5.2,32.0,5
+ E! Live from the Red Carpet,1995,4.8,33.0,5
+Szörnyek ebédje,2005,6.4,34.0,5
+Pills Profits Protest,2005,7.0,35.0,5
+Making of 'Anjas Engel',2005,6.0,36.0,5
+Amantul marii doamne Dracula,2005,5.2,37.0,5
+Projecte Cassandra,2005,5.6,38.0,5
+Venla 2004,2005,4.2,39.0,5
+True Crime,2005,6.2,40.0,5
+Summer Dreams,2005,8.2,41.0,5
+Les courants,2005,4.2,42.0,5
+Ingrid, Palle og lydene,2005,7.2,43.0,5
+The Last Known Documentary,2005,6.4,44.0,5
+Ne dites pas à ma mère,2005,7.4,45.0,5
+40 Celebrity Weddings and a Funeral,2005,7.6,46.0,5
+American Express Jam Sessions,2005,6.2,47.0,5
+Two Minute Warning,2005,6.4,48.0,5
+Attract Opposites,2005,8.2,49.0,5
+Hitting the High Notes: 2004 High Sierra Music Festival,2005,9.2,50.0,5
+Pannon halom,2005,7.4,1.0,5
+Give It Up,2005,4.6,2.0,5
+El fuego y el soñador,2005,7.6,3.0,5
+El jardín de las hespérides,2005,7.0,4.0,5
+Des fleurs pour Irma,2005,6.2,5.0,5
+The Observation Room,2005,5.6,6.0,5
+Unbridled,2005,8.0,7.0,5
+Deutsche in Amerika,2005,7.8,8.0,5
+Modern Girl's Guide to Life,2005,6.4,9.0,5
+Thatta Kedona: The Toy Village of Pakistan,2005,7.4,10.0,5
+El tigre escondido,2005,6.0,11.0,5
+Voodoo Secrets,2005,5.8,12.0,5
+A Place of Our Own: Los Niños en Su Casa,2005,9.0,13.0,5
+After Tomorrow,2005,7.2,14.0,5
+My Comfortable Stranger,2005,4.6,15.0,5
+Sommerfuglekvinden,2005,5.6,16.0,5
+101,2005,7.0,17.0,5
+Seconde chance,2005,5.6,18.0,5
+Nocturnal,2005,8.0,19.0,5
+The Mystery of the Afghan Gold,2005,5.6,20.0,5
+Tage aus Nacht,2005,5.4,21.0,5
+Hockey's Greatest Era: 1942-1967,2005,6.6,22.0,5
+Det gode liv,2005,4.8,23.0,5
+DM i stand-up 2004,2005,5.2,24.0,5
+Berocca,2005,3.6,25.0,5
+Un dia en la vida,2005,4.6,26.0,5
+Let the Good Times Roll,2005,6.6,27.0,5
+Raw,2005,3.6,28.0,5
+Santiago,2005,8.0,29.0,5
+Jardin secret,2005,3.0,30.0,5
+Gala TP de Oro 2004,2005,8.2,31.0,5
+Dakar Rally,2005,5.2,32.0,5
+ E! Live from the Red Carpet,1995,4.8,33.0,5
+Szörnyek ebédje,2005,6.4,34.0,5
+Pills Profits Protest,2005,7.0,35.0,5
+Making of 'Anjas Engel',2005,6.0,36.0,5
+Amantul marii doamne Dracula,2005,5.2,37.0,5
+Projecte Cassandra,2005,5.6,38.0,5
+Venla 2004,2005,4.2,39.0,5
+True Crime,2005,6.2,40.0,5
+Summer Dreams,2005,8.2,41.0,5
+Les courants,2005,4.2,42.0,5
+Ingrid, Palle og lydene,2005,7.2,43.0,5
+The Last Known Documentary,2005,6.4,44.0,5
+Ne dites pas à ma mère,2005,7.4,45.0,5
+40 Celebrity Weddings and a Funeral,2005,7.6,46.0,5
+American Express Jam Sessions,2005,6.2,47.0,5
+Two Minute Warning,2005,6.4,48.0,5
+Attract Opposites,2005,8.2,49.0,5
+Hitting the High Notes: 2004 High Sierra Music Festival,2005,9.2,50.0,5
+Pannon halom,2005,7.4,1.0,5
+Give It Up,2005,4.6,2.0,5
+El fuego y el soñador,2005,7.6,3.0,5
+El jardín de las hespérides,2005,7.0,4.0,5
+Des fleurs pour Irma,2005,6.2,5.0,5
+The Observation Room,2005,5.6,6.0,5
+Unbridled,2005,8.0,7.0,5
+Deutsche in Amerika,2005,7.8,8.0,5
+Modern Girl's Guide to Life,2005,6.4,9.0,5
+Thatta Kedona: The Toy Village of Pakistan,2005,7.4,10.0,5
+El tigre escondido,2005,6.0,11.0,5
+Voodoo Secrets,2005,5.8,12.0,5
+A Place of Our Own: Los Niños en Su Casa,2005,9.0,13.0,5
+After Tomorrow,2005,7.2,14.0,5
+My Comfortable Stranger,2005,4.6,15.0,5
+Sommerfuglekvinden,2005,5.6,16.0,5
+101,2005,7.0,17.0,5
+Seconde chance,2005,5.6,18.0,5
+Nocturnal,2005,8.0,19.0,5
+The Mystery of the Afghan Gold,2005,5.6,20.0,5
+Tage aus Nacht,2005,5.4,21.0,5
+Hockey's Greatest Era: 1942-1967,2005,6.6,22.0,5
+Det gode liv,2005,4.8,23.0,5
+DM i stand-up 2004,2005,5.2,24.0,5
+Berocca,2005,3.6,25.0,5
+Un dia en la vida,2005,4.6,26.0,5
+Let the Good Times Roll,2005,6.6,27.0,5
+Raw,2005,3.6,28.0,5
+Santiago,2005,8.0,29.0,5
+Jardin secret,2005,3.0,30.0,5
+Gala TP de Oro 2004,2005,8.2,31.0,5
+Dakar Rally,2005,5.2,32.0,5
+ E! Live from the Red Carpet,1995,4.8,33.0,5
+Szörnyek ebédje,2005,6.4,34.0,5
+Pills Profits Protest,2005,7.0,35.0,5
+Making of 'Anjas Engel',2005,6.0,36.0,5
+Amantul marii doamne Dracula,2005,5.2,37.0,5
+Projecte Cassandra,2005,5.6,38.0,5
+Venla 2004,2005,4.2,39.0,5
+True Crime,2005,6.2,40.0,5
+Summer Dreams,2005,8.2,41.0,5
+Les courants,2005,4.2,42.0,5
+Ingrid, Palle og lydene,2005,7.2,43.0,5
+The Last Known Documentary,2005,6.4,44.0,5
+Ne dites pas à ma mère,2005,7.4,45.0,5
+40 Celebrity Weddings and a Funeral,2005,7.6,46.0,5
+American Express Jam Sessions,2005,6.2,47.0,5
+Two Minute Warning,2005,6.4,48.0,5
+Attract Opposites,2005,8.2,49.0,5
+Hitting the High Notes: 2004 High Sierra Music Festival,2005,9.2,50.0,5
+Old Man,2006,9.2,1.0,5
+Pain and Suffering,2006,3.2,2.0,5
+Verschwinden,2006,7.8,3.0,5
+Palabras verdaderas,2006,6.4,4.0,5
+Sherm!,2006,6.6,5.0,5
+Mercy Street,2006,8.8,6.0,5
+Andhakarer Shabdo,2006,6.4,7.0,5
+Pecados,2006,7.0,8.0,5
+Wyclef Jean in America,2006,5.8,9.0,5
+ Festival Internacional de la Canción de Viña del Mar,1963,6.4,10.0,5
+Last Call,I) (,8.4,11.0,5
+Third Degree,2006,7.2,12.0,5
+The Spot,2006,6.4,13.0,5
+What I Love About Dying,2006,9.0,14.0,5
+Blindfolded,2006,7.2,15.0,5
+Bewilderness,2006,8.2,16.0,5
+Lagot ka sa kuya ko,2006,7.6,17.0,5
+Nandini,2006,8.2,18.0,5
+Pepe O'Inglés,2006,8.8,19.0,5
+ Doppelter Einsatz,1994,5.4,20.0,5
+My RV Life,2006,6.2,21.0,5
+Les mitterrand's',2006,6.8,22.0,5
+A vida por diante,2006,5.0,23.0,5
+Les hommes s'en souviendront...,2006,6.6,24.0,5
+ 12 corazones,2004,8.2,25.0,5
+ 7 vidas,1999,6.2,26.0,5
+ The Bedford Diaries,2006,5.6,27.0,5
+ The Bedford Diaries,2006,5.8,28.0,5
+ The Bedford Diaries,2006,4.2,29.0,5
+ The Bill,1984,8.8,30.0,5
+ Campus Ladies,2006,8.6,31.0,5
+ Campus Ladies,2006,7.2,32.0,5
+ Cuéntame,2001,8.2,33.0,5
+ Dr. Vegas,2004,8.8,34.0,5
+ E! True Hollywood Story,1996,6.8,35.0,5
+ Der Elefant: Mord verjährt nie,2004,7.4,36.0,5
+ Der Elefant: Mord verjährt nie,2004,7.4,37.0,5
+ Flikken,1999,7.2,38.0,5
+ Flikken,1999,7.4,39.0,5
+ In Justice,2006,7.6,40.0,5
+ Martha,2005,4.4,41.0,5
+ Neighbours,1985,7.6,42.0,5
+ Schillerstraße,2004,7.0,43.0,5
+ Schillerstraße,2004,5.8,44.0,5
+ The Secret Life of Us,2001,7.8,45.0,5
+ The Secret Life of Us,2001,7.0,46.0,5
+ Sons & Daughters,2006,7.8,47.0,5
+ South Beach,2006,3.2,48.0,5
+ South Beach,2006,5.0,49.0,5
+ Twins,2005,8.6,50.0,5
+Old Man,2006,9.2,1.0,5
+Pain and Suffering,2006,3.2,2.0,5
+Verschwinden,2006,7.8,3.0,5
+Palabras verdaderas,2006,6.4,4.0,5
+Sherm!,2006,6.6,5.0,5
+Mercy Street,2006,8.8,6.0,5
+Andhakarer Shabdo,2006,6.4,7.0,5
+Pecados,2006,7.0,8.0,5
+Wyclef Jean in America,2006,5.8,9.0,5
+ Festival Internacional de la Canción de Viña del Mar,1963,6.4,10.0,5
+Last Call,I) (,8.4,11.0,5
+Third Degree,2006,7.2,12.0,5
+The Spot,2006,6.4,13.0,5
+What I Love About Dying,2006,9.0,14.0,5
+Blindfolded,2006,7.2,15.0,5
+Bewilderness,2006,8.2,16.0,5
+Lagot ka sa kuya ko,2006,7.6,17.0,5
+Nandini,2006,8.2,18.0,5
+Pepe O'Inglés,2006,8.8,19.0,5
+ Doppelter Einsatz,1994,5.4,20.0,5
+My RV Life,2006,6.2,21.0,5
+Les mitterrand's',2006,6.8,22.0,5
+A vida por diante,2006,5.0,23.0,5
+Les hommes s'en souviendront...,2006,6.6,24.0,5
+ 12 corazones,2004,8.2,25.0,5
+ 7 vidas,1999,6.2,26.0,5
+ The Bedford Diaries,2006,5.6,27.0,5
+ The Bedford Diaries,2006,5.8,28.0,5
+ The Bedford Diaries,2006,4.2,29.0,5
+ The Bill,1984,8.8,30.0,5
+ Campus Ladies,2006,8.6,31.0,5
+ Campus Ladies,2006,7.2,32.0,5
+ Cuéntame,2001,8.2,33.0,5
+ Dr. Vegas,2004,8.8,34.0,5
+ E! True Hollywood Story,1996,6.8,35.0,5
+ Der Elefant: Mord verjährt nie,2004,7.4,36.0,5
+ Der Elefant: Mord verjährt nie,2004,7.4,37.0,5
+ Flikken,1999,7.2,38.0,5
+ Flikken,1999,7.4,39.0,5
+ In Justice,2006,7.6,40.0,5
+ Martha,2005,4.4,41.0,5
+ Neighbours,1985,7.6,42.0,5
+ Schillerstraße,2004,7.0,43.0,5
+ Schillerstraße,2004,5.8,44.0,5
+ The Secret Life of Us,2001,7.8,45.0,5
+ The Secret Life of Us,2001,7.0,46.0,5
+ Sons & Daughters,2006,7.8,47.0,5
+ South Beach,2006,3.2,48.0,5
+ South Beach,2006,5.0,49.0,5
+ Twins,2005,8.6,50.0,5
+Old Man,2006,9.2,1.0,5
+Pain and Suffering,2006,3.2,2.0,5
+Verschwinden,2006,7.8,3.0,5
+Palabras verdaderas,2006,6.4,4.0,5
+Sherm!,2006,6.6,5.0,5
+Mercy Street,2006,8.8,6.0,5
+Andhakarer Shabdo,2006,6.4,7.0,5
+Pecados,2006,7.0,8.0,5
+Wyclef Jean in America,2006,5.8,9.0,5
+ Festival Internacional de la Canción de Viña del Mar,1963,6.4,10.0,5
+Last Call,I) (,8.4,11.0,5
+Third Degree,2006,7.2,12.0,5
+The Spot,2006,6.4,13.0,5
+What I Love About Dying,2006,9.0,14.0,5
+Blindfolded,2006,7.2,15.0,5
+Bewilderness,2006,8.2,16.0,5
+Lagot ka sa kuya ko,2006,7.6,17.0,5
+Nandini,2006,8.2,18.0,5
+Pepe O'Inglés,2006,8.8,19.0,5
+ Doppelter Einsatz,1994,5.4,20.0,5
+My RV Life,2006,6.2,21.0,5
+Les mitterrand's',2006,6.8,22.0,5
+A vida por diante,2006,5.0,23.0,5
+Les hommes s'en souviendront...,2006,6.6,24.0,5
+ 12 corazones,2004,8.2,25.0,5
+ 7 vidas,1999,6.2,26.0,5
+ The Bedford Diaries,2006,5.6,27.0,5
+ The Bedford Diaries,2006,5.8,28.0,5
+ The Bedford Diaries,2006,4.2,29.0,5
+ The Bill,1984,8.8,30.0,5
+ Campus Ladies,2006,8.6,31.0,5
+ Campus Ladies,2006,7.2,32.0,5
+ Cuéntame,2001,8.2,33.0,5
+ Dr. Vegas,2004,8.8,34.0,5
+ E! True Hollywood Story,1996,6.8,35.0,5
+ Der Elefant: Mord verjährt nie,2004,7.4,36.0,5
+ Der Elefant: Mord verjährt nie,2004,7.4,37.0,5
+ Flikken,1999,7.2,38.0,5
+ Flikken,1999,7.4,39.0,5
+ In Justice,2006,7.6,40.0,5
+ Martha,2005,4.4,41.0,5
+ Neighbours,1985,7.6,42.0,5
+ Schillerstraße,2004,7.0,43.0,5
+ Schillerstraße,2004,5.8,44.0,5
+ The Secret Life of Us,2001,7.8,45.0,5
+ The Secret Life of Us,2001,7.0,46.0,5
+ Sons & Daughters,2006,7.8,47.0,5
+ South Beach,2006,3.2,48.0,5
+ South Beach,2006,5.0,49.0,5
+ Twins,2005,8.6,50.0,5
+Old Man,2006,9.2,1.0,5
+Pain and Suffering,2006,3.2,2.0,5
+Verschwinden,2006,7.8,3.0,5
+Palabras verdaderas,2006,6.4,4.0,5
+Sherm!,2006,6.6,5.0,5
+Mercy Street,2006,8.8,6.0,5
+Andhakarer Shabdo,2006,6.4,7.0,5
+Pecados,2006,7.0,8.0,5
+Wyclef Jean in America,2006,5.8,9.0,5
+ Festival Internacional de la Canción de Viña del Mar,1963,6.4,10.0,5
+Last Call,I) (,8.4,11.0,5
+Third Degree,2006,7.2,12.0,5
+The Spot,2006,6.4,13.0,5
+What I Love About Dying,2006,9.0,14.0,5
+Blindfolded,2006,7.2,15.0,5
+Bewilderness,2006,8.2,16.0,5
+Lagot ka sa kuya ko,2006,7.6,17.0,5
+Nandini,2006,8.2,18.0,5
+Pepe O'Inglés,2006,8.8,19.0,5
+ Doppelter Einsatz,1994,5.4,20.0,5
+My RV Life,2006,6.2,21.0,5
+Les mitterrand's',2006,6.8,22.0,5
+A vida por diante,2006,5.0,23.0,5
+Les hommes s'en souviendront...,2006,6.6,24.0,5
+ 12 corazones,2004,8.2,25.0,5
+ 7 vidas,1999,6.2,26.0,5
+ The Bedford Diaries,2006,5.6,27.0,5
+ The Bedford Diaries,2006,5.8,28.0,5
+ The Bedford Diaries,2006,4.2,29.0,5
+ The Bill,1984,8.8,30.0,5
+ Campus Ladies,2006,8.6,31.0,5
+ Campus Ladies,2006,7.2,32.0,5
+ Cuéntame,2001,8.2,33.0,5
+ Dr. Vegas,2004,8.8,34.0,5
+ E! True Hollywood Story,1996,6.8,35.0,5
+ Der Elefant: Mord verjährt nie,2004,7.4,36.0,5
+ Der Elefant: Mord verjährt nie,2004,7.4,37.0,5
+ Flikken,1999,7.2,38.0,5
+ Flikken,1999,7.4,39.0,5
+ In Justice,2006,7.6,40.0,5
+ Martha,2005,4.4,41.0,5
+ Neighbours,1985,7.6,42.0,5
+ Schillerstraße,2004,7.0,43.0,5
+ Schillerstraße,2004,5.8,44.0,5
+ The Secret Life of Us,2001,7.8,45.0,5
+ The Secret Life of Us,2001,7.0,46.0,5
+ Sons & Daughters,2006,7.8,47.0,5
+ South Beach,2006,3.2,48.0,5
+ South Beach,2006,5.0,49.0,5
+ Twins,2005,8.6,50.0,5
+Old Man,2006,9.2,1.0,5
+Pain and Suffering,2006,3.2,2.0,5
+Verschwinden,2006,7.8,3.0,5
+Palabras verdaderas,2006,6.4,4.0,5
+Sherm!,2006,6.6,5.0,5
+Mercy Street,2006,8.8,6.0,5
+Andhakarer Shabdo,2006,6.4,7.0,5
+Pecados,2006,7.0,8.0,5
+Wyclef Jean in America,2006,5.8,9.0,5
+ Festival Internacional de la Canción de Viña del Mar,1963,6.4,10.0,5
+Last Call,I) (,8.4,11.0,5
+Third Degree,2006,7.2,12.0,5
+The Spot,2006,6.4,13.0,5
+What I Love About Dying,2006,9.0,14.0,5
+Blindfolded,2006,7.2,15.0,5
+Bewilderness,2006,8.2,16.0,5
+Lagot ka sa kuya ko,2006,7.6,17.0,5
+Nandini,2006,8.2,18.0,5
+Pepe O'Inglés,2006,8.8,19.0,5
+ Doppelter Einsatz,1994,5.4,20.0,5
+My RV Life,2006,6.2,21.0,5
+Les mitterrand's',2006,6.8,22.0,5
+A vida por diante,2006,5.0,23.0,5
+Les hommes s'en souviendront...,2006,6.6,24.0,5
+ 12 corazones,2004,8.2,25.0,5
+ 7 vidas,1999,6.2,26.0,5
+ The Bedford Diaries,2006,5.6,27.0,5
+ The Bedford Diaries,2006,5.8,28.0,5
+ The Bedford Diaries,2006,4.2,29.0,5
+ The Bill,1984,8.8,30.0,5
+ Campus Ladies,2006,8.6,31.0,5
+ Campus Ladies,2006,7.2,32.0,5
+ Cuéntame,2001,8.2,33.0,5
+ Dr. Vegas,2004,8.8,34.0,5
+ E! True Hollywood Story,1996,6.8,35.0,5
+ Der Elefant: Mord verjährt nie,2004,7.4,36.0,5
+ Der Elefant: Mord verjährt nie,2004,7.4,37.0,5
+ Flikken,1999,7.2,38.0,5
+ Flikken,1999,7.4,39.0,5
+ In Justice,2006,7.6,40.0,5
+ Martha,2005,4.4,41.0,5
+ Neighbours,1985,7.6,42.0,5
+ Schillerstraße,2004,7.0,43.0,5
+ Schillerstraße,2004,5.8,44.0,5
+ The Secret Life of Us,2001,7.8,45.0,5
+ The Secret Life of Us,2001,7.0,46.0,5
+ Sons & Daughters,2006,7.8,47.0,5
+ South Beach,2006,3.2,48.0,5
+ South Beach,2006,5.0,49.0,5
+ Twins,2005,8.6,50.0,5
+Dancing Into the Future,2007,7.2,1.0,5
+Sister's Keeper,I) (,7.8,2.0,5
+In Our Name,2007,7.2,3.0,5
+ Beyond the Break,2006,8.6,4.0,5
+ Sons & Daughters,2006,6.4,5.0,5
+Homestretch,2007,9.4,6.0,5
+Mommy, Mommy,2007,5.2,7.0,5
+ Greco,2007,6.8,8.0,5
+Motor Mansions 2,2007,8.8,9.0,5
+Carnaval Blues,2007,7.6,10.0,5
+The Trophy,2007,7.8,11.0,5
+ Holby Blue,2007,7.2,12.0,5
+ Holby Blue,2007,7.0,13.0,5
+ Billable Hours,2006,2.2,14.0,5
+ Billable Hours,2006,2.4,15.0,5
+ Billable Hours,2006,4.4,16.0,5
+ Der Alte,1977,6.4,17.0,5
+ Mania,2007,7.2,18.0,5
+Sally Gross: The Pleasure of Stillness,2007,7.4,19.0,5
+ Clean House,2003,9.2,20.0,5
+ Watch Over Me,2006,8.0,21.0,5
+ Watch Over Me,2006,8.0,22.0,5
+ Watch Over Me,2006,7.6,23.0,5
+ Watch Over Me,2006,8.0,24.0,5
+ Watch Over Me,2006,8.0,25.0,5
+ Watch Over Me,2006,8.0,26.0,5
+ Watch Over Me,2006,8.0,27.0,5
+ Watch Over Me,2006,8.0,28.0,5
+ Watch Over Me,2006,6.8,29.0,5
+ Watch Over Me,2006,8.0,30.0,5
+ Watch Over Me,2006,8.0,31.0,5
+ Supernanny,2005,6.4,32.0,5
+Hottest Mom in America,2007,3.8,33.0,5
+ Girlfriends,2000,9.6,34.0,5
+ Betsy's Kindergarten Adventures,2006,1.0,35.0,5
+ Inspector Mom,2006,6.0,36.0,5
+ The Game,2006,7.6,37.0,5
+ Inspector Mom,2006,8.2,38.0,5
+ Rough Diamond,2006,8.6,39.0,5
+ Großstadtrevier,1986,8.2,40.0,5
+ Großstadtrevier,1986,8.4,41.0,5
+ Großstadtrevier,1986,8.0,42.0,5
+ In aller Freundschaft,1998,3.6,43.0,5
+ Lindenstraße,1985,5.2,44.0,5
+ Lindenstraße,1985,6.2,45.0,5
+ The Best Years,2007,8.8,46.0,5
+ Undercover History,2006,8.4,47.0,5
+A Day Out,2007,5.4,48.0,5
+For a Swim with the Fish,2007,7.2,49.0,5
+ Live from Abbey Road,2006,8.2,50.0,5
+Dancing Into the Future,2007,7.2,1.0,5
+Sister's Keeper,I) (,7.8,2.0,5
+In Our Name,2007,7.2,3.0,5
+ Beyond the Break,2006,8.6,4.0,5
+ Sons & Daughters,2006,6.4,5.0,5
+Homestretch,2007,9.4,6.0,5
+Mommy, Mommy,2007,5.2,7.0,5
+ Greco,2007,6.8,8.0,5
+Motor Mansions 2,2007,8.8,9.0,5
+Carnaval Blues,2007,7.6,10.0,5
+The Trophy,2007,7.8,11.0,5
+ Holby Blue,2007,7.2,12.0,5
+ Holby Blue,2007,7.0,13.0,5
+ Billable Hours,2006,2.2,14.0,5
+ Billable Hours,2006,2.4,15.0,5
+ Billable Hours,2006,4.4,16.0,5
+ Der Alte,1977,6.4,17.0,5
+ Mania,2007,7.2,18.0,5
+Sally Gross: The Pleasure of Stillness,2007,7.4,19.0,5
+ Clean House,2003,9.2,20.0,5
+ Watch Over Me,2006,8.0,21.0,5
+ Watch Over Me,2006,8.0,22.0,5
+ Watch Over Me,2006,7.6,23.0,5
+ Watch Over Me,2006,8.0,24.0,5
+ Watch Over Me,2006,8.0,25.0,5
+ Watch Over Me,2006,8.0,26.0,5
+ Watch Over Me,2006,8.0,27.0,5
+ Watch Over Me,2006,8.0,28.0,5
+ Watch Over Me,2006,6.8,29.0,5
+ Watch Over Me,2006,8.0,30.0,5
+ Watch Over Me,2006,8.0,31.0,5
+ Supernanny,2005,6.4,32.0,5
+Hottest Mom in America,2007,3.8,33.0,5
+ Girlfriends,2000,9.6,34.0,5
+ Betsy's Kindergarten Adventures,2006,1.0,35.0,5
+ Inspector Mom,2006,6.0,36.0,5
+ The Game,2006,7.6,37.0,5
+ Inspector Mom,2006,8.2,38.0,5
+ Rough Diamond,2006,8.6,39.0,5
+ Großstadtrevier,1986,8.2,40.0,5
+ Großstadtrevier,1986,8.4,41.0,5
+ Großstadtrevier,1986,8.0,42.0,5
+ In aller Freundschaft,1998,3.6,43.0,5
+ Lindenstraße,1985,5.2,44.0,5
+ Lindenstraße,1985,6.2,45.0,5
+ The Best Years,2007,8.8,46.0,5
+ Undercover History,2006,8.4,47.0,5
+A Day Out,2007,5.4,48.0,5
+For a Swim with the Fish,2007,7.2,49.0,5
+ Live from Abbey Road,2006,8.2,50.0,5
+Dancing Into the Future,2007,7.2,1.0,5
+Sister's Keeper,I) (,7.8,2.0,5
+In Our Name,2007,7.2,3.0,5
+ Beyond the Break,2006,8.6,4.0,5
+ Sons & Daughters,2006,6.4,5.0,5
+Homestretch,2007,9.4,6.0,5
+Mommy, Mommy,2007,5.2,7.0,5
+ Greco,2007,6.8,8.0,5
+Motor Mansions 2,2007,8.8,9.0,5
+Carnaval Blues,2007,7.6,10.0,5
+The Trophy,2007,7.8,11.0,5
+ Holby Blue,2007,7.2,12.0,5
+ Holby Blue,2007,7.0,13.0,5
+ Billable Hours,2006,2.2,14.0,5
+ Billable Hours,2006,2.4,15.0,5
+ Billable Hours,2006,4.4,16.0,5
+ Der Alte,1977,6.4,17.0,5
+ Mania,2007,7.2,18.0,5
+Sally Gross: The Pleasure of Stillness,2007,7.4,19.0,5
+ Clean House,2003,9.2,20.0,5
+ Watch Over Me,2006,8.0,21.0,5
+ Watch Over Me,2006,8.0,22.0,5
+ Watch Over Me,2006,7.6,23.0,5
+ Watch Over Me,2006,8.0,24.0,5
+ Watch Over Me,2006,8.0,25.0,5
+ Watch Over Me,2006,8.0,26.0,5
+ Watch Over Me,2006,8.0,27.0,5
+ Watch Over Me,2006,8.0,28.0,5
+ Watch Over Me,2006,6.8,29.0,5
+ Watch Over Me,2006,8.0,30.0,5
+ Watch Over Me,2006,8.0,31.0,5
+ Supernanny,2005,6.4,32.0,5
+Hottest Mom in America,2007,3.8,33.0,5
+ Girlfriends,2000,9.6,34.0,5
+ Betsy's Kindergarten Adventures,2006,1.0,35.0,5
+ Inspector Mom,2006,6.0,36.0,5
+ The Game,2006,7.6,37.0,5
+ Inspector Mom,2006,8.2,38.0,5
+ Rough Diamond,2006,8.6,39.0,5
+ Großstadtrevier,1986,8.2,40.0,5
+ Großstadtrevier,1986,8.4,41.0,5
+ Großstadtrevier,1986,8.0,42.0,5
+ In aller Freundschaft,1998,3.6,43.0,5
+ Lindenstraße,1985,5.2,44.0,5
+ Lindenstraße,1985,6.2,45.0,5
+ The Best Years,2007,8.8,46.0,5
+ Undercover History,2006,8.4,47.0,5
+A Day Out,2007,5.4,48.0,5
+For a Swim with the Fish,2007,7.2,49.0,5
+ Live from Abbey Road,2006,8.2,50.0,5
+Dancing Into the Future,2007,7.2,1.0,5
+Sister's Keeper,I) (,7.8,2.0,5
+In Our Name,2007,7.2,3.0,5
+ Beyond the Break,2006,8.6,4.0,5
+ Sons & Daughters,2006,6.4,5.0,5
+Homestretch,2007,9.4,6.0,5
+Mommy, Mommy,2007,5.2,7.0,5
+ Greco,2007,6.8,8.0,5
+Motor Mansions 2,2007,8.8,9.0,5
+Carnaval Blues,2007,7.6,10.0,5
+The Trophy,2007,7.8,11.0,5
+ Holby Blue,2007,7.2,12.0,5
+ Holby Blue,2007,7.0,13.0,5
+ Billable Hours,2006,2.2,14.0,5
+ Billable Hours,2006,2.4,15.0,5
+ Billable Hours,2006,4.4,16.0,5
+ Der Alte,1977,6.4,17.0,5
+ Mania,2007,7.2,18.0,5
+Sally Gross: The Pleasure of Stillness,2007,7.4,19.0,5
+ Clean House,2003,9.2,20.0,5
+ Watch Over Me,2006,8.0,21.0,5
+ Watch Over Me,2006,8.0,22.0,5
+ Watch Over Me,2006,7.6,23.0,5
+ Watch Over Me,2006,8.0,24.0,5
+ Watch Over Me,2006,8.0,25.0,5
+ Watch Over Me,2006,8.0,26.0,5
+ Watch Over Me,2006,8.0,27.0,5
+ Watch Over Me,2006,8.0,28.0,5
+ Watch Over Me,2006,6.8,29.0,5
+ Watch Over Me,2006,8.0,30.0,5
+ Watch Over Me,2006,8.0,31.0,5
+ Supernanny,2005,6.4,32.0,5
+Hottest Mom in America,2007,3.8,33.0,5
+ Girlfriends,2000,9.6,34.0,5
+ Betsy's Kindergarten Adventures,2006,1.0,35.0,5
+ Inspector Mom,2006,6.0,36.0,5
+ The Game,2006,7.6,37.0,5
+ Inspector Mom,2006,8.2,38.0,5
+ Rough Diamond,2006,8.6,39.0,5
+ Großstadtrevier,1986,8.2,40.0,5
+ Großstadtrevier,1986,8.4,41.0,5
+ Großstadtrevier,1986,8.0,42.0,5
+ In aller Freundschaft,1998,3.6,43.0,5
+ Lindenstraße,1985,5.2,44.0,5
+ Lindenstraße,1985,6.2,45.0,5
+ The Best Years,2007,8.8,46.0,5
+ Undercover History,2006,8.4,47.0,5
+A Day Out,2007,5.4,48.0,5
+For a Swim with the Fish,2007,7.2,49.0,5
+ Live from Abbey Road,2006,8.2,50.0,5
+Dancing Into the Future,2007,7.2,1.0,5
+Sister's Keeper,I) (,7.8,2.0,5
+In Our Name,2007,7.2,3.0,5
+ Beyond the Break,2006,8.6,4.0,5
+ Sons & Daughters,2006,6.4,5.0,5
+Homestretch,2007,9.4,6.0,5
+Mommy, Mommy,2007,5.2,7.0,5
+ Greco,2007,6.8,8.0,5
+Motor Mansions 2,2007,8.8,9.0,5
+Carnaval Blues,2007,7.6,10.0,5
+The Trophy,2007,7.8,11.0,5
+ Holby Blue,2007,7.2,12.0,5
+ Holby Blue,2007,7.0,13.0,5
+ Billable Hours,2006,2.2,14.0,5
+ Billable Hours,2006,2.4,15.0,5
+ Billable Hours,2006,4.4,16.0,5
+ Der Alte,1977,6.4,17.0,5
+ Mania,2007,7.2,18.0,5
+Sally Gross: The Pleasure of Stillness,2007,7.4,19.0,5
+ Clean House,2003,9.2,20.0,5
+ Watch Over Me,2006,8.0,21.0,5
+ Watch Over Me,2006,8.0,22.0,5
+ Watch Over Me,2006,7.6,23.0,5
+ Watch Over Me,2006,8.0,24.0,5
+ Watch Over Me,2006,8.0,25.0,5
+ Watch Over Me,2006,8.0,26.0,5
+ Watch Over Me,2006,8.0,27.0,5
+ Watch Over Me,2006,8.0,28.0,5
+ Watch Over Me,2006,6.8,29.0,5
+ Watch Over Me,2006,8.0,30.0,5
+ Watch Over Me,2006,8.0,31.0,5
+ Supernanny,2005,6.4,32.0,5
+Hottest Mom in America,2007,3.8,33.0,5
+ Girlfriends,2000,9.6,34.0,5
+ Betsy's Kindergarten Adventures,2006,1.0,35.0,5
+ Inspector Mom,2006,6.0,36.0,5
+ The Game,2006,7.6,37.0,5
+ Inspector Mom,2006,8.2,38.0,5
+ Rough Diamond,2006,8.6,39.0,5
+ Großstadtrevier,1986,8.2,40.0,5
+ Großstadtrevier,1986,8.4,41.0,5
+ Großstadtrevier,1986,8.0,42.0,5
+ In aller Freundschaft,1998,3.6,43.0,5
+ Lindenstraße,1985,5.2,44.0,5
+ Lindenstraße,1985,6.2,45.0,5
+ The Best Years,2007,8.8,46.0,5
+ Undercover History,2006,8.4,47.0,5
+A Day Out,2007,5.4,48.0,5
+For a Swim with the Fish,2007,7.2,49.0,5
+ Live from Abbey Road,2006,8.2,50.0,5
+Big River Blues,2008,8.0,1.0,5
+Double Pleasure, Double Pain,2008,8.2,2.0,5
+Futuro Perfecto,2008,6.0,3.0,5
+Tokyo Joe: The Man Who Brought Down the Chicago Mob - Mafia wo utta otoko,2008,4.4,4.0,5
+Reflections,I) (,8.2,5.0,5
+Full Circle,I) (,5.8,6.0,5
+Behind the Scenes of 'Ghost Town: The Movie',2008,7.4,7.0,5
+ Those Damn Canadians,2008,8.4,8.0,5
+Los sentidos de la muerte,2008,5.8,9.0,5
+ Bad Girls Club,2006,7.4,10.0,5
+ Bad Girls Club,2006,6.8,11.0,5
+ Großstadtrevier,1986,7.4,12.0,5
+ Großstadtrevier,1986,7.8,13.0,5
+ Notes from the Underbelly,2007,7.4,14.0,5
+ Girlfriends,2000,8.4,15.0,5
+The Calling,II) ,8.4,16.0,5
+ Extreme Makeover: Home Edition,2003,6.0,17.0,5
+ Extreme Makeover: Home Edition,2003,5.8,18.0,5
+ Extreme Makeover: Home Edition,2003,6.4,19.0,5
+ Extreme Makeover: Home Edition,2003,4.2,20.0,5
+ Wife Swap,2004,4.0,21.0,5
+ Wife Swap,2004,5.0,22.0,5
+ Wife Swap,2004,4.2,23.0,5
+ Last Comic Standing,2003,9.6,24.0,5
+ Lisa Williams: Life Among the Dead,2006,9.0,25.0,5
+ America's Best Dance Crew,2008,7.4,26.0,5
+ Siska,1998,4.6,27.0,5
+Not Fade Away,2008,9.0,28.0,5
+Under,2008,6.4,29.0,5
+ Robson Arms,2005,7.8,30.0,5
+ Robson Arms,2005,7.8,31.0,5
+ Paris enquêtes criminelles,2007,6.0,32.0,5
+ Unschuldig,2008,8.4,33.0,5
+Out in India: A Family's Journey,2008,6.2,34.0,5
+ Mind of Mencia,2005,9.0,35.0,5
+ Mind of Mencia,2005,7.8,36.0,5
+ Mind of Mencia,2005,6.8,37.0,5
+Metal Church,2008,3.8,38.0,5
+ LA Ink,2007,6.6,39.0,5
+ LA Ink,2007,7.0,40.0,5
+ Supernanny,2005,5.8,41.0,5
+The Norton Avenue All-Stars,2008,6.4,42.0,5
+ Howard Stern on Demand,2005,8.2,43.0,5
+ Don Matteo,2000,9.0,44.0,5
+Waiting for the Guards,2008,6.8,45.0,5
+ SOKO München,1978,5.8,46.0,5
+Happy dâtsu,2008,4.6,47.0,5
+ Stubbe - Von Fall zu Fall,1995,5.6,48.0,5
+ Don Matteo,2000,6.8,49.0,5
+ The Big Gay Sketch Show,2006,6.6,50.0,5
+Big River Blues,2008,8.0,1.0,5
+Double Pleasure, Double Pain,2008,8.2,2.0,5
+Futuro Perfecto,2008,6.0,3.0,5
+Tokyo Joe: The Man Who Brought Down the Chicago Mob - Mafia wo utta otoko,2008,4.4,4.0,5
+Reflections,I) (,8.2,5.0,5
+Full Circle,I) (,5.8,6.0,5
+Behind the Scenes of 'Ghost Town: The Movie',2008,7.4,7.0,5
+ Those Damn Canadians,2008,8.4,8.0,5
+Los sentidos de la muerte,2008,5.8,9.0,5
+ Bad Girls Club,2006,7.4,10.0,5
+ Bad Girls Club,2006,6.8,11.0,5
+ Großstadtrevier,1986,7.4,12.0,5
+ Großstadtrevier,1986,7.8,13.0,5
+ Notes from the Underbelly,2007,7.4,14.0,5
+ Girlfriends,2000,8.4,15.0,5
+The Calling,II) ,8.4,16.0,5
+ Extreme Makeover: Home Edition,2003,6.0,17.0,5
+ Extreme Makeover: Home Edition,2003,5.8,18.0,5
+ Extreme Makeover: Home Edition,2003,6.4,19.0,5
+ Extreme Makeover: Home Edition,2003,4.2,20.0,5
+ Wife Swap,2004,4.0,21.0,5
+ Wife Swap,2004,5.0,22.0,5
+ Wife Swap,2004,4.2,23.0,5
+ Last Comic Standing,2003,9.6,24.0,5
+ Lisa Williams: Life Among the Dead,2006,9.0,25.0,5
+ America's Best Dance Crew,2008,7.4,26.0,5
+ Siska,1998,4.6,27.0,5
+Not Fade Away,2008,9.0,28.0,5
+Under,2008,6.4,29.0,5
+ Robson Arms,2005,7.8,30.0,5
+ Robson Arms,2005,7.8,31.0,5
+ Paris enquêtes criminelles,2007,6.0,32.0,5
+ Unschuldig,2008,8.4,33.0,5
+Out in India: A Family's Journey,2008,6.2,34.0,5
+ Mind of Mencia,2005,9.0,35.0,5
+ Mind of Mencia,2005,7.8,36.0,5
+ Mind of Mencia,2005,6.8,37.0,5
+Metal Church,2008,3.8,38.0,5
+ LA Ink,2007,6.6,39.0,5
+ LA Ink,2007,7.0,40.0,5
+ Supernanny,2005,5.8,41.0,5
+The Norton Avenue All-Stars,2008,6.4,42.0,5
+ Howard Stern on Demand,2005,8.2,43.0,5
+ Don Matteo,2000,9.0,44.0,5
+Waiting for the Guards,2008,6.8,45.0,5
+ SOKO München,1978,5.8,46.0,5
+Happy dâtsu,2008,4.6,47.0,5
+ Stubbe - Von Fall zu Fall,1995,5.6,48.0,5
+ Don Matteo,2000,6.8,49.0,5
+ The Big Gay Sketch Show,2006,6.6,50.0,5
+Big River Blues,2008,8.0,1.0,5
+Double Pleasure, Double Pain,2008,8.2,2.0,5
+Futuro Perfecto,2008,6.0,3.0,5
+Tokyo Joe: The Man Who Brought Down the Chicago Mob - Mafia wo utta otoko,2008,4.4,4.0,5
+Reflections,I) (,8.2,5.0,5
+Full Circle,I) (,5.8,6.0,5
+Behind the Scenes of 'Ghost Town: The Movie',2008,7.4,7.0,5
+ Those Damn Canadians,2008,8.4,8.0,5
+Los sentidos de la muerte,2008,5.8,9.0,5
+ Bad Girls Club,2006,7.4,10.0,5
+ Bad Girls Club,2006,6.8,11.0,5
+ Großstadtrevier,1986,7.4,12.0,5
+ Großstadtrevier,1986,7.8,13.0,5
+ Notes from the Underbelly,2007,7.4,14.0,5
+ Girlfriends,2000,8.4,15.0,5
+The Calling,II) ,8.4,16.0,5
+ Extreme Makeover: Home Edition,2003,6.0,17.0,5
+ Extreme Makeover: Home Edition,2003,5.8,18.0,5
+ Extreme Makeover: Home Edition,2003,6.4,19.0,5
+ Extreme Makeover: Home Edition,2003,4.2,20.0,5
+ Wife Swap,2004,4.0,21.0,5
+ Wife Swap,2004,5.0,22.0,5
+ Wife Swap,2004,4.2,23.0,5
+ Last Comic Standing,2003,9.6,24.0,5
+ Lisa Williams: Life Among the Dead,2006,9.0,25.0,5
+ America's Best Dance Crew,2008,7.4,26.0,5
+ Siska,1998,4.6,27.0,5
+Not Fade Away,2008,9.0,28.0,5
+Under,2008,6.4,29.0,5
+ Robson Arms,2005,7.8,30.0,5
+ Robson Arms,2005,7.8,31.0,5
+ Paris enquêtes criminelles,2007,6.0,32.0,5
+ Unschuldig,2008,8.4,33.0,5
+Out in India: A Family's Journey,2008,6.2,34.0,5
+ Mind of Mencia,2005,9.0,35.0,5
+ Mind of Mencia,2005,7.8,36.0,5
+ Mind of Mencia,2005,6.8,37.0,5
+Metal Church,2008,3.8,38.0,5
+ LA Ink,2007,6.6,39.0,5
+ LA Ink,2007,7.0,40.0,5
+ Supernanny,2005,5.8,41.0,5
+The Norton Avenue All-Stars,2008,6.4,42.0,5
+ Howard Stern on Demand,2005,8.2,43.0,5
+ Don Matteo,2000,9.0,44.0,5
+Waiting for the Guards,2008,6.8,45.0,5
+ SOKO München,1978,5.8,46.0,5
+Happy dâtsu,2008,4.6,47.0,5
+ Stubbe - Von Fall zu Fall,1995,5.6,48.0,5
+ Don Matteo,2000,6.8,49.0,5
+ The Big Gay Sketch Show,2006,6.6,50.0,5
+Big River Blues,2008,8.0,1.0,5
+Double Pleasure, Double Pain,2008,8.2,2.0,5
+Futuro Perfecto,2008,6.0,3.0,5
+Tokyo Joe: The Man Who Brought Down the Chicago Mob - Mafia wo utta otoko,2008,4.4,4.0,5
+Reflections,I) (,8.2,5.0,5
+Full Circle,I) (,5.8,6.0,5
+Behind the Scenes of 'Ghost Town: The Movie',2008,7.4,7.0,5
+ Those Damn Canadians,2008,8.4,8.0,5
+Los sentidos de la muerte,2008,5.8,9.0,5
+ Bad Girls Club,2006,7.4,10.0,5
+ Bad Girls Club,2006,6.8,11.0,5
+ Großstadtrevier,1986,7.4,12.0,5
+ Großstadtrevier,1986,7.8,13.0,5
+ Notes from the Underbelly,2007,7.4,14.0,5
+ Girlfriends,2000,8.4,15.0,5
+The Calling,II) ,8.4,16.0,5
+ Extreme Makeover: Home Edition,2003,6.0,17.0,5
+ Extreme Makeover: Home Edition,2003,5.8,18.0,5
+ Extreme Makeover: Home Edition,2003,6.4,19.0,5
+ Extreme Makeover: Home Edition,2003,4.2,20.0,5
+ Wife Swap,2004,4.0,21.0,5
+ Wife Swap,2004,5.0,22.0,5
+ Wife Swap,2004,4.2,23.0,5
+ Last Comic Standing,2003,9.6,24.0,5
+ Lisa Williams: Life Among the Dead,2006,9.0,25.0,5
+ America's Best Dance Crew,2008,7.4,26.0,5
+ Siska,1998,4.6,27.0,5
+Not Fade Away,2008,9.0,28.0,5
+Under,2008,6.4,29.0,5
+ Robson Arms,2005,7.8,30.0,5
+ Robson Arms,2005,7.8,31.0,5
+ Paris enquêtes criminelles,2007,6.0,32.0,5
+ Unschuldig,2008,8.4,33.0,5
+Out in India: A Family's Journey,2008,6.2,34.0,5
+ Mind of Mencia,2005,9.0,35.0,5
+ Mind of Mencia,2005,7.8,36.0,5
+ Mind of Mencia,2005,6.8,37.0,5
+Metal Church,2008,3.8,38.0,5
+ LA Ink,2007,6.6,39.0,5
+ LA Ink,2007,7.0,40.0,5
+ Supernanny,2005,5.8,41.0,5
+The Norton Avenue All-Stars,2008,6.4,42.0,5
+ Howard Stern on Demand,2005,8.2,43.0,5
+ Don Matteo,2000,9.0,44.0,5
+Waiting for the Guards,2008,6.8,45.0,5
+ SOKO München,1978,5.8,46.0,5
+Happy dâtsu,2008,4.6,47.0,5
+ Stubbe - Von Fall zu Fall,1995,5.6,48.0,5
+ Don Matteo,2000,6.8,49.0,5
+ The Big Gay Sketch Show,2006,6.6,50.0,5
+Big River Blues,2008,8.0,1.0,5
+Double Pleasure, Double Pain,2008,8.2,2.0,5
+Futuro Perfecto,2008,6.0,3.0,5
+Tokyo Joe: The Man Who Brought Down the Chicago Mob - Mafia wo utta otoko,2008,4.4,4.0,5
+Reflections,I) (,8.2,5.0,5
+Full Circle,I) (,5.8,6.0,5
+Behind the Scenes of 'Ghost Town: The Movie',2008,7.4,7.0,5
+ Those Damn Canadians,2008,8.4,8.0,5
+Los sentidos de la muerte,2008,5.8,9.0,5
+ Bad Girls Club,2006,7.4,10.0,5
+ Bad Girls Club,2006,6.8,11.0,5
+ Großstadtrevier,1986,7.4,12.0,5
+ Großstadtrevier,1986,7.8,13.0,5
+ Notes from the Underbelly,2007,7.4,14.0,5
+ Girlfriends,2000,8.4,15.0,5
+The Calling,II) ,8.4,16.0,5
+ Extreme Makeover: Home Edition,2003,6.0,17.0,5
+ Extreme Makeover: Home Edition,2003,5.8,18.0,5
+ Extreme Makeover: Home Edition,2003,6.4,19.0,5
+ Extreme Makeover: Home Edition,2003,4.2,20.0,5
+ Wife Swap,2004,4.0,21.0,5
+ Wife Swap,2004,5.0,22.0,5
+ Wife Swap,2004,4.2,23.0,5
+ Last Comic Standing,2003,9.6,24.0,5
+ Lisa Williams: Life Among the Dead,2006,9.0,25.0,5
+ America's Best Dance Crew,2008,7.4,26.0,5
+ Siska,1998,4.6,27.0,5
+Not Fade Away,2008,9.0,28.0,5
+Under,2008,6.4,29.0,5
+ Robson Arms,2005,7.8,30.0,5
+ Robson Arms,2005,7.8,31.0,5
+ Paris enquêtes criminelles,2007,6.0,32.0,5
+ Unschuldig,2008,8.4,33.0,5
+Out in India: A Family's Journey,2008,6.2,34.0,5
+ Mind of Mencia,2005,9.0,35.0,5
+ Mind of Mencia,2005,7.8,36.0,5
+ Mind of Mencia,2005,6.8,37.0,5
+Metal Church,2008,3.8,38.0,5
+ LA Ink,2007,6.6,39.0,5
+ LA Ink,2007,7.0,40.0,5
+ Supernanny,2005,5.8,41.0,5
+The Norton Avenue All-Stars,2008,6.4,42.0,5
+ Howard Stern on Demand,2005,8.2,43.0,5
+ Don Matteo,2000,9.0,44.0,5
+Waiting for the Guards,2008,6.8,45.0,5
+ SOKO München,1978,5.8,46.0,5
+Happy dâtsu,2008,4.6,47.0,5
+ Stubbe - Von Fall zu Fall,1995,5.6,48.0,5
+ Don Matteo,2000,6.8,49.0,5
+ The Big Gay Sketch Show,2006,6.6,50.0,5
+Plan B,III),8.8,1.0,5
+American Prison: The Forgotten Jews,2009,3.2,2.0,5
+A Cricket in the Court of Akbar,2009,6.2,3.0,5
+ Beyond the Break,2006,7.4,4.0,5
+Sex, Lies, and Myspace,2009,6.4,5.0,5
+The Privateer,2009,8.2,6.0,5
+Anolkhi Hey Ghar Maze,2009,3.4,7.0,5
+Devoir d'enquête,2009,10.0,8.0,5
+Maternelle,2009,6.6,9.0,5
+Esperanza Beach,2009,9.2,10.0,5
+Breath of Courage,2009,8.2,11.0,5
+No tiene sentido... estar haciendo así­, todo el rato, sin sentido,2009,6.4,12.0,5
+Seeing Smoke,2009,7.0,13.0,5
+ Um Himmels Willen,2002,7.6,14.0,5
+The Reluctant Traveler,2009,6.0,15.0,5
+El porvenir es largo,2009,6.2,16.0,5
+Dying Days,I) (,7.2,17.0,5
+ The Alaska Experiment,2008,8.2,18.0,5
+Shayô,2009,8.2,19.0,5
+Stranger,I) (,6.6,20.0,5
+In Focus: The Hollywood Lens of Murray Garrett,2009,5.0,21.0,5
+Pocket Full of Soul: The Harmonica Documentary,2009,8.6,22.0,5
+ Extreme Makeover: Home Edition,2003,6.8,23.0,5
+ Criss Angel Mindfreak,2005,6.2,24.0,5
+Dirty Martini,I) (,7.2,25.0,5
+The Mountain Within,2009,8.6,26.0,5
+ Valentine,2008,8.4,27.0,5
+ Valentine,2008,7.0,28.0,5
+ Un flic,2007,8.0,29.0,5
+The Making of Red Mist,2009,6.4,30.0,5
+ Da kommt Kalle,2006,8.2,31.0,5
+ Die Rosenheim-Cops,2002,6.6,32.0,5
+ Banged Up Abroad,2007,6.6,33.0,5
+Sad Sack Sally,2009,6.8,34.0,5
+Whiz Kids,2009,8.2,35.0,5
+ Monday Monday,2009,7.0,36.0,5
+ Monday Monday,2009,4.8,37.0,5
+ Monday Monday,2009,6.8,38.0,5
+ The Jon Dore Television Show,2007,6.6,39.0,5
+ The Jon Dore Television Show,2007,6.4,40.0,5
+ Genie in the House,2006,5.8,41.0,5
+ Genie in the House,2006,5.8,42.0,5
+ Genie in the House,2006,6.8,43.0,5
+ Genie in the House,2006,6.4,44.0,5
+Return to Mexico City,2009,5.6,45.0,5
+ Soul,2009,2.2,46.0,5
+ Soul,2009,2.6,47.0,5
+ Rogue Nation,2009,5.0,48.0,5
+The Lost Woman,2009,7.6,49.0,5
+Skills for Actors: Circus Skills,2009,10.0,50.0,5
+Plan B,III),8.8,1.0,5
+American Prison: The Forgotten Jews,2009,3.2,2.0,5
+A Cricket in the Court of Akbar,2009,6.2,3.0,5
+ Beyond the Break,2006,7.4,4.0,5
+Sex, Lies, and Myspace,2009,6.4,5.0,5
+The Privateer,2009,8.2,6.0,5
+Anolkhi Hey Ghar Maze,2009,3.4,7.0,5
+Devoir d'enquête,2009,10.0,8.0,5
+Maternelle,2009,6.6,9.0,5
+Esperanza Beach,2009,9.2,10.0,5
+Breath of Courage,2009,8.2,11.0,5
+No tiene sentido... estar haciendo así­, todo el rato, sin sentido,2009,6.4,12.0,5
+Seeing Smoke,2009,7.0,13.0,5
+ Um Himmels Willen,2002,7.6,14.0,5
+The Reluctant Traveler,2009,6.0,15.0,5
+El porvenir es largo,2009,6.2,16.0,5
+Dying Days,I) (,7.2,17.0,5
+ The Alaska Experiment,2008,8.2,18.0,5
+Shayô,2009,8.2,19.0,5
+Stranger,I) (,6.6,20.0,5
+In Focus: The Hollywood Lens of Murray Garrett,2009,5.0,21.0,5
+Pocket Full of Soul: The Harmonica Documentary,2009,8.6,22.0,5
+ Extreme Makeover: Home Edition,2003,6.8,23.0,5
+ Criss Angel Mindfreak,2005,6.2,24.0,5
+Dirty Martini,I) (,7.2,25.0,5
+The Mountain Within,2009,8.6,26.0,5
+ Valentine,2008,8.4,27.0,5
+ Valentine,2008,7.0,28.0,5
+ Un flic,2007,8.0,29.0,5
+The Making of Red Mist,2009,6.4,30.0,5
+ Da kommt Kalle,2006,8.2,31.0,5
+ Die Rosenheim-Cops,2002,6.6,32.0,5
+ Banged Up Abroad,2007,6.6,33.0,5
+Sad Sack Sally,2009,6.8,34.0,5
+Whiz Kids,2009,8.2,35.0,5
+ Monday Monday,2009,7.0,36.0,5
+ Monday Monday,2009,4.8,37.0,5
+ Monday Monday,2009,6.8,38.0,5
+ The Jon Dore Television Show,2007,6.6,39.0,5
+ The Jon Dore Television Show,2007,6.4,40.0,5
+ Genie in the House,2006,5.8,41.0,5
+ Genie in the House,2006,5.8,42.0,5
+ Genie in the House,2006,6.8,43.0,5
+ Genie in the House,2006,6.4,44.0,5
+Return to Mexico City,2009,5.6,45.0,5
+ Soul,2009,2.2,46.0,5
+ Soul,2009,2.6,47.0,5
+ Rogue Nation,2009,5.0,48.0,5
+The Lost Woman,2009,7.6,49.0,5
+Skills for Actors: Circus Skills,2009,10.0,50.0,5
+Plan B,III),8.8,1.0,5
+American Prison: The Forgotten Jews,2009,3.2,2.0,5
+A Cricket in the Court of Akbar,2009,6.2,3.0,5
+ Beyond the Break,2006,7.4,4.0,5
+Sex, Lies, and Myspace,2009,6.4,5.0,5
+The Privateer,2009,8.2,6.0,5
+Anolkhi Hey Ghar Maze,2009,3.4,7.0,5
+Devoir d'enquête,2009,10.0,8.0,5
+Maternelle,2009,6.6,9.0,5
+Esperanza Beach,2009,9.2,10.0,5
+Breath of Courage,2009,8.2,11.0,5
+No tiene sentido... estar haciendo así­, todo el rato, sin sentido,2009,6.4,12.0,5
+Seeing Smoke,2009,7.0,13.0,5
+ Um Himmels Willen,2002,7.6,14.0,5
+The Reluctant Traveler,2009,6.0,15.0,5
+El porvenir es largo,2009,6.2,16.0,5
+Dying Days,I) (,7.2,17.0,5
+ The Alaska Experiment,2008,8.2,18.0,5
+Shayô,2009,8.2,19.0,5
+Stranger,I) (,6.6,20.0,5
+In Focus: The Hollywood Lens of Murray Garrett,2009,5.0,21.0,5
+Pocket Full of Soul: The Harmonica Documentary,2009,8.6,22.0,5
+ Extreme Makeover: Home Edition,2003,6.8,23.0,5
+ Criss Angel Mindfreak,2005,6.2,24.0,5
+Dirty Martini,I) (,7.2,25.0,5
+The Mountain Within,2009,8.6,26.0,5
+ Valentine,2008,8.4,27.0,5
+ Valentine,2008,7.0,28.0,5
+ Un flic,2007,8.0,29.0,5
+The Making of Red Mist,2009,6.4,30.0,5
+ Da kommt Kalle,2006,8.2,31.0,5
+ Die Rosenheim-Cops,2002,6.6,32.0,5
+ Banged Up Abroad,2007,6.6,33.0,5
+Sad Sack Sally,2009,6.8,34.0,5
+Whiz Kids,2009,8.2,35.0,5
+ Monday Monday,2009,7.0,36.0,5
+ Monday Monday,2009,4.8,37.0,5
+ Monday Monday,2009,6.8,38.0,5
+ The Jon Dore Television Show,2007,6.6,39.0,5
+ The Jon Dore Television Show,2007,6.4,40.0,5
+ Genie in the House,2006,5.8,41.0,5
+ Genie in the House,2006,5.8,42.0,5
+ Genie in the House,2006,6.8,43.0,5
+ Genie in the House,2006,6.4,44.0,5
+Return to Mexico City,2009,5.6,45.0,5
+ Soul,2009,2.2,46.0,5
+ Soul,2009,2.6,47.0,5
+ Rogue Nation,2009,5.0,48.0,5
+The Lost Woman,2009,7.6,49.0,5
+Skills for Actors: Circus Skills,2009,10.0,50.0,5
+Plan B,III),8.8,1.0,5
+American Prison: The Forgotten Jews,2009,3.2,2.0,5
+A Cricket in the Court of Akbar,2009,6.2,3.0,5
+ Beyond the Break,2006,7.4,4.0,5
+Sex, Lies, and Myspace,2009,6.4,5.0,5
+The Privateer,2009,8.2,6.0,5
+Anolkhi Hey Ghar Maze,2009,3.4,7.0,5
+Devoir d'enquête,2009,10.0,8.0,5
+Maternelle,2009,6.6,9.0,5
+Esperanza Beach,2009,9.2,10.0,5
+Breath of Courage,2009,8.2,11.0,5
+No tiene sentido... estar haciendo así­, todo el rato, sin sentido,2009,6.4,12.0,5
+Seeing Smoke,2009,7.0,13.0,5
+ Um Himmels Willen,2002,7.6,14.0,5
+The Reluctant Traveler,2009,6.0,15.0,5
+El porvenir es largo,2009,6.2,16.0,5
+Dying Days,I) (,7.2,17.0,5
+ The Alaska Experiment,2008,8.2,18.0,5
+Shayô,2009,8.2,19.0,5
+Stranger,I) (,6.6,20.0,5
+In Focus: The Hollywood Lens of Murray Garrett,2009,5.0,21.0,5
+Pocket Full of Soul: The Harmonica Documentary,2009,8.6,22.0,5
+ Extreme Makeover: Home Edition,2003,6.8,23.0,5
+ Criss Angel Mindfreak,2005,6.2,24.0,5
+Dirty Martini,I) (,7.2,25.0,5
+The Mountain Within,2009,8.6,26.0,5
+ Valentine,2008,8.4,27.0,5
+ Valentine,2008,7.0,28.0,5
+ Un flic,2007,8.0,29.0,5
+The Making of Red Mist,2009,6.4,30.0,5
+ Da kommt Kalle,2006,8.2,31.0,5
+ Die Rosenheim-Cops,2002,6.6,32.0,5
+ Banged Up Abroad,2007,6.6,33.0,5
+Sad Sack Sally,2009,6.8,34.0,5
+Whiz Kids,2009,8.2,35.0,5
+ Monday Monday,2009,7.0,36.0,5
+ Monday Monday,2009,4.8,37.0,5
+ Monday Monday,2009,6.8,38.0,5
+ The Jon Dore Television Show,2007,6.6,39.0,5
+ The Jon Dore Television Show,2007,6.4,40.0,5
+ Genie in the House,2006,5.8,41.0,5
+ Genie in the House,2006,5.8,42.0,5
+ Genie in the House,2006,6.8,43.0,5
+ Genie in the House,2006,6.4,44.0,5
+Return to Mexico City,2009,5.6,45.0,5
+ Soul,2009,2.2,46.0,5
+ Soul,2009,2.6,47.0,5
+ Rogue Nation,2009,5.0,48.0,5
+The Lost Woman,2009,7.6,49.0,5
+Skills for Actors: Circus Skills,2009,10.0,50.0,5
+Plan B,III),8.8,1.0,5
+American Prison: The Forgotten Jews,2009,3.2,2.0,5
+A Cricket in the Court of Akbar,2009,6.2,3.0,5
+ Beyond the Break,2006,7.4,4.0,5
+Sex, Lies, and Myspace,2009,6.4,5.0,5
+The Privateer,2009,8.2,6.0,5
+Anolkhi Hey Ghar Maze,2009,3.4,7.0,5
+Devoir d'enquête,2009,10.0,8.0,5
+Maternelle,2009,6.6,9.0,5
+Esperanza Beach,2009,9.2,10.0,5
+Breath of Courage,2009,8.2,11.0,5
+No tiene sentido... estar haciendo así­, todo el rato, sin sentido,2009,6.4,12.0,5
+Seeing Smoke,2009,7.0,13.0,5
+ Um Himmels Willen,2002,7.6,14.0,5
+The Reluctant Traveler,2009,6.0,15.0,5
+El porvenir es largo,2009,6.2,16.0,5
+Dying Days,I) (,7.2,17.0,5
+ The Alaska Experiment,2008,8.2,18.0,5
+Shayô,2009,8.2,19.0,5
+Stranger,I) (,6.6,20.0,5
+In Focus: The Hollywood Lens of Murray Garrett,2009,5.0,21.0,5
+Pocket Full of Soul: The Harmonica Documentary,2009,8.6,22.0,5
+ Extreme Makeover: Home Edition,2003,6.8,23.0,5
+ Criss Angel Mindfreak,2005,6.2,24.0,5
+Dirty Martini,I) (,7.2,25.0,5
+The Mountain Within,2009,8.6,26.0,5
+ Valentine,2008,8.4,27.0,5
+ Valentine,2008,7.0,28.0,5
+ Un flic,2007,8.0,29.0,5
+The Making of Red Mist,2009,6.4,30.0,5
+ Da kommt Kalle,2006,8.2,31.0,5
+ Die Rosenheim-Cops,2002,6.6,32.0,5
+ Banged Up Abroad,2007,6.6,33.0,5
+Sad Sack Sally,2009,6.8,34.0,5
+Whiz Kids,2009,8.2,35.0,5
+ Monday Monday,2009,7.0,36.0,5
+ Monday Monday,2009,4.8,37.0,5
+ Monday Monday,2009,6.8,38.0,5
+ The Jon Dore Television Show,2007,6.6,39.0,5
+ The Jon Dore Television Show,2007,6.4,40.0,5
+ Genie in the House,2006,5.8,41.0,5
+ Genie in the House,2006,5.8,42.0,5
+ Genie in the House,2006,6.8,43.0,5
+ Genie in the House,2006,6.4,44.0,5
+Return to Mexico City,2009,5.6,45.0,5
+ Soul,2009,2.2,46.0,5
+ Soul,2009,2.6,47.0,5
+ Rogue Nation,2009,5.0,48.0,5
+The Lost Woman,2009,7.6,49.0,5
+Skills for Actors: Circus Skills,2009,10.0,50.0,5
+Regresso a Sizalinda,2010,5.2,1.0,5
+ Deadline - Jede Sekunde zählt,2007,4.4,2.0,5
+Buried Prayers,2010,8.0,3.0,5
+Moonshine to the Finish Line: An Unofficial History of NASCAR,2010,9.4,4.0,5
+502,2010,8.6,5.0,5
+Jen,2010,9.2,6.0,5
+Beautysleep Symphony,2010,7.0,7.0,5
+ SOKO Leipzig,2001,6.8,8.0,5
+Generation Exile,2010,7.6,9.0,5
+The Debt,II) ,7.8,10.0,5
+The Platinum Peacemaker,2010,9.6,11.0,5
+The Gertrude Stein Mystery or Some Like It Art,2010,5.2,12.0,5
+Land of the Rising Fastball,2010,9.4,13.0,5
+How Would You Feel?,2010,7.0,14.0,5
+The Russian,2010,7.0,15.0,5
+ Boulevard du Palais,1999,7.2,16.0,5
+ SOKO Leipzig,2001,7.2,17.0,5
+8 Dates with Paul,2010,7.6,18.0,5
+ Tiere bis unters Dach,2010,7.6,19.0,5
+ Tiere bis unters Dach,2010,6.0,20.0,5
+Lottery Ticket,II) ,6.0,21.0,5
+The Horrible Terrible Misadventures of David Atkins,2010,4.6,22.0,5
+Noirville,2010,7.0,23.0,5
+Vanguard,2010,3.8,24.0,5
+The Tear,2010,6.2,25.0,5
+ I (Almost) Got Away with It,2010,7.6,26.0,5
+ I (Almost) Got Away with It,2010,6.6,27.0,5
+Grace Paley: Collected Shorts,2010,7.6,28.0,5
+ Caillou,1997,5.6,29.0,5
+ Ein Fall für zwei,1981,5.8,30.0,5
+dasbloghaus.tv,2010,8.2,31.0,5
+ Piers Morgan On...,2008,7.8,32.0,5
+Drug Related,2010,5.0,33.0,5
+ZedCrew,2010,5.6,34.0,5
+5 Ways to Split Apart the Day,2010,7.0,35.0,5
+ Past Life,2010,9.0,36.0,5
+Possession,II) ,6.4,37.0,5
+A Short Film,2010,7.8,38.0,5
+ATM,2010,5.6,39.0,5
+In Focus,2010,8.6,40.0,5
+ Tiere bis unters Dach,2010,6.8,41.0,5
+My Name Is Mohammed,2010,6.8,42.0,5
+The Trick,2010,8.4,43.0,5
+Ben & Jake's Big Deal,2010,5.8,44.0,5
+Romeo Must Hang,2010,7.2,45.0,5
+Blood Army,2010,9.0,46.0,5
+Dar Radeh payeh Che,2010,5.2,47.0,5
+Three Thousand Six Hundred and Fifty Days,2010,6.2,48.0,5
+ Lulu & Leon,2009,7.2,49.0,5
+ Lulu & Leon,2009,6.4,50.0,5
+Regresso a Sizalinda,2010,5.2,1.0,5
+ Deadline - Jede Sekunde zählt,2007,4.4,2.0,5
+Buried Prayers,2010,8.0,3.0,5
+Moonshine to the Finish Line: An Unofficial History of NASCAR,2010,9.4,4.0,5
+502,2010,8.6,5.0,5
+Jen,2010,9.2,6.0,5
+Beautysleep Symphony,2010,7.0,7.0,5
+ SOKO Leipzig,2001,6.8,8.0,5
+Generation Exile,2010,7.6,9.0,5
+The Debt,II) ,7.8,10.0,5
+The Platinum Peacemaker,2010,9.6,11.0,5
+The Gertrude Stein Mystery or Some Like It Art,2010,5.2,12.0,5
+Land of the Rising Fastball,2010,9.4,13.0,5
+How Would You Feel?,2010,7.0,14.0,5
+The Russian,2010,7.0,15.0,5
+ Boulevard du Palais,1999,7.2,16.0,5
+ SOKO Leipzig,2001,7.2,17.0,5
+8 Dates with Paul,2010,7.6,18.0,5
+ Tiere bis unters Dach,2010,7.6,19.0,5
+ Tiere bis unters Dach,2010,6.0,20.0,5
+Lottery Ticket,II) ,6.0,21.0,5
+The Horrible Terrible Misadventures of David Atkins,2010,4.6,22.0,5
+Noirville,2010,7.0,23.0,5
+Vanguard,2010,3.8,24.0,5
+The Tear,2010,6.2,25.0,5
+ I (Almost) Got Away with It,2010,7.6,26.0,5
+ I (Almost) Got Away with It,2010,6.6,27.0,5
+Grace Paley: Collected Shorts,2010,7.6,28.0,5
+ Caillou,1997,5.6,29.0,5
+ Ein Fall für zwei,1981,5.8,30.0,5
+dasbloghaus.tv,2010,8.2,31.0,5
+ Piers Morgan On...,2008,7.8,32.0,5
+Drug Related,2010,5.0,33.0,5
+ZedCrew,2010,5.6,34.0,5
+5 Ways to Split Apart the Day,2010,7.0,35.0,5
+ Past Life,2010,9.0,36.0,5
+Possession,II) ,6.4,37.0,5
+A Short Film,2010,7.8,38.0,5
+ATM,2010,5.6,39.0,5
+In Focus,2010,8.6,40.0,5
+ Tiere bis unters Dach,2010,6.8,41.0,5
+My Name Is Mohammed,2010,6.8,42.0,5
+The Trick,2010,8.4,43.0,5
+Ben & Jake's Big Deal,2010,5.8,44.0,5
+Romeo Must Hang,2010,7.2,45.0,5
+Blood Army,2010,9.0,46.0,5
+Dar Radeh payeh Che,2010,5.2,47.0,5
+Three Thousand Six Hundred and Fifty Days,2010,6.2,48.0,5
+ Lulu & Leon,2009,7.2,49.0,5
+ Lulu & Leon,2009,6.4,50.0,5
+Regresso a Sizalinda,2010,5.2,1.0,5
+ Deadline - Jede Sekunde zählt,2007,4.4,2.0,5
+Buried Prayers,2010,8.0,3.0,5
+Moonshine to the Finish Line: An Unofficial History of NASCAR,2010,9.4,4.0,5
+502,2010,8.6,5.0,5
+Jen,2010,9.2,6.0,5
+Beautysleep Symphony,2010,7.0,7.0,5
+ SOKO Leipzig,2001,6.8,8.0,5
+Generation Exile,2010,7.6,9.0,5
+The Debt,II) ,7.8,10.0,5
+The Platinum Peacemaker,2010,9.6,11.0,5
+The Gertrude Stein Mystery or Some Like It Art,2010,5.2,12.0,5
+Land of the Rising Fastball,2010,9.4,13.0,5
+How Would You Feel?,2010,7.0,14.0,5
+The Russian,2010,7.0,15.0,5
+ Boulevard du Palais,1999,7.2,16.0,5
+ SOKO Leipzig,2001,7.2,17.0,5
+8 Dates with Paul,2010,7.6,18.0,5
+ Tiere bis unters Dach,2010,7.6,19.0,5
+ Tiere bis unters Dach,2010,6.0,20.0,5
+Lottery Ticket,II) ,6.0,21.0,5
+The Horrible Terrible Misadventures of David Atkins,2010,4.6,22.0,5
+Noirville,2010,7.0,23.0,5
+Vanguard,2010,3.8,24.0,5
+The Tear,2010,6.2,25.0,5
+ I (Almost) Got Away with It,2010,7.6,26.0,5
+ I (Almost) Got Away with It,2010,6.6,27.0,5
+Grace Paley: Collected Shorts,2010,7.6,28.0,5
+ Caillou,1997,5.6,29.0,5
+ Ein Fall für zwei,1981,5.8,30.0,5
+dasbloghaus.tv,2010,8.2,31.0,5
+ Piers Morgan On...,2008,7.8,32.0,5
+Drug Related,2010,5.0,33.0,5
+ZedCrew,2010,5.6,34.0,5
+5 Ways to Split Apart the Day,2010,7.0,35.0,5
+ Past Life,2010,9.0,36.0,5
+Possession,II) ,6.4,37.0,5
+A Short Film,2010,7.8,38.0,5
+ATM,2010,5.6,39.0,5
+In Focus,2010,8.6,40.0,5
+ Tiere bis unters Dach,2010,6.8,41.0,5
+My Name Is Mohammed,2010,6.8,42.0,5
+The Trick,2010,8.4,43.0,5
+Ben & Jake's Big Deal,2010,5.8,44.0,5
+Romeo Must Hang,2010,7.2,45.0,5
+Blood Army,2010,9.0,46.0,5
+Dar Radeh payeh Che,2010,5.2,47.0,5
+Three Thousand Six Hundred and Fifty Days,2010,6.2,48.0,5
+ Lulu & Leon,2009,7.2,49.0,5
+ Lulu & Leon,2009,6.4,50.0,5
+Regresso a Sizalinda,2010,5.2,1.0,5
+ Deadline - Jede Sekunde zählt,2007,4.4,2.0,5
+Buried Prayers,2010,8.0,3.0,5
+Moonshine to the Finish Line: An Unofficial History of NASCAR,2010,9.4,4.0,5
+502,2010,8.6,5.0,5
+Jen,2010,9.2,6.0,5
+Beautysleep Symphony,2010,7.0,7.0,5
+ SOKO Leipzig,2001,6.8,8.0,5
+Generation Exile,2010,7.6,9.0,5
+The Debt,II) ,7.8,10.0,5
+The Platinum Peacemaker,2010,9.6,11.0,5
+The Gertrude Stein Mystery or Some Like It Art,2010,5.2,12.0,5
+Land of the Rising Fastball,2010,9.4,13.0,5
+How Would You Feel?,2010,7.0,14.0,5
+The Russian,2010,7.0,15.0,5
+ Boulevard du Palais,1999,7.2,16.0,5
+ SOKO Leipzig,2001,7.2,17.0,5
+8 Dates with Paul,2010,7.6,18.0,5
+ Tiere bis unters Dach,2010,7.6,19.0,5
+ Tiere bis unters Dach,2010,6.0,20.0,5
+Lottery Ticket,II) ,6.0,21.0,5
+The Horrible Terrible Misadventures of David Atkins,2010,4.6,22.0,5
+Noirville,2010,7.0,23.0,5
+Vanguard,2010,3.8,24.0,5
+The Tear,2010,6.2,25.0,5
+ I (Almost) Got Away with It,2010,7.6,26.0,5
+ I (Almost) Got Away with It,2010,6.6,27.0,5
+Grace Paley: Collected Shorts,2010,7.6,28.0,5
+ Caillou,1997,5.6,29.0,5
+ Ein Fall für zwei,1981,5.8,30.0,5
+dasbloghaus.tv,2010,8.2,31.0,5
+ Piers Morgan On...,2008,7.8,32.0,5
+Drug Related,2010,5.0,33.0,5
+ZedCrew,2010,5.6,34.0,5
+5 Ways to Split Apart the Day,2010,7.0,35.0,5
+ Past Life,2010,9.0,36.0,5
+Possession,II) ,6.4,37.0,5
+A Short Film,2010,7.8,38.0,5
+ATM,2010,5.6,39.0,5
+In Focus,2010,8.6,40.0,5
+ Tiere bis unters Dach,2010,6.8,41.0,5
+My Name Is Mohammed,2010,6.8,42.0,5
+The Trick,2010,8.4,43.0,5
+Ben & Jake's Big Deal,2010,5.8,44.0,5
+Romeo Must Hang,2010,7.2,45.0,5
+Blood Army,2010,9.0,46.0,5
+Dar Radeh payeh Che,2010,5.2,47.0,5
+Three Thousand Six Hundred and Fifty Days,2010,6.2,48.0,5
+ Lulu & Leon,2009,7.2,49.0,5
+ Lulu & Leon,2009,6.4,50.0,5
+Regresso a Sizalinda,2010,5.2,1.0,5
+ Deadline - Jede Sekunde zählt,2007,4.4,2.0,5
+Buried Prayers,2010,8.0,3.0,5
+Moonshine to the Finish Line: An Unofficial History of NASCAR,2010,9.4,4.0,5
+502,2010,8.6,5.0,5
+Jen,2010,9.2,6.0,5
+Beautysleep Symphony,2010,7.0,7.0,5
+ SOKO Leipzig,2001,6.8,8.0,5
+Generation Exile,2010,7.6,9.0,5
+The Debt,II) ,7.8,10.0,5
+The Platinum Peacemaker,2010,9.6,11.0,5
+The Gertrude Stein Mystery or Some Like It Art,2010,5.2,12.0,5
+Land of the Rising Fastball,2010,9.4,13.0,5
+How Would You Feel?,2010,7.0,14.0,5
+The Russian,2010,7.0,15.0,5
+ Boulevard du Palais,1999,7.2,16.0,5
+ SOKO Leipzig,2001,7.2,17.0,5
+8 Dates with Paul,2010,7.6,18.0,5
+ Tiere bis unters Dach,2010,7.6,19.0,5
+ Tiere bis unters Dach,2010,6.0,20.0,5
+Lottery Ticket,II) ,6.0,21.0,5
+The Horrible Terrible Misadventures of David Atkins,2010,4.6,22.0,5
+Noirville,2010,7.0,23.0,5
+Vanguard,2010,3.8,24.0,5
+The Tear,2010,6.2,25.0,5
+ I (Almost) Got Away with It,2010,7.6,26.0,5
+ I (Almost) Got Away with It,2010,6.6,27.0,5
+Grace Paley: Collected Shorts,2010,7.6,28.0,5
+ Caillou,1997,5.6,29.0,5
+ Ein Fall für zwei,1981,5.8,30.0,5
+dasbloghaus.tv,2010,8.2,31.0,5
+ Piers Morgan On...,2008,7.8,32.0,5
+Drug Related,2010,5.0,33.0,5
+ZedCrew,2010,5.6,34.0,5
+5 Ways to Split Apart the Day,2010,7.0,35.0,5
+ Past Life,2010,9.0,36.0,5
+Possession,II) ,6.4,37.0,5
+A Short Film,2010,7.8,38.0,5
+ATM,2010,5.6,39.0,5
+In Focus,2010,8.6,40.0,5
+ Tiere bis unters Dach,2010,6.8,41.0,5
+My Name Is Mohammed,2010,6.8,42.0,5
+The Trick,2010,8.4,43.0,5
+Ben & Jake's Big Deal,2010,5.8,44.0,5
+Romeo Must Hang,2010,7.2,45.0,5
+Blood Army,2010,9.0,46.0,5
+Dar Radeh payeh Che,2010,5.2,47.0,5
+Three Thousand Six Hundred and Fifty Days,2010,6.2,48.0,5
+ Lulu & Leon,2009,7.2,49.0,5
+ Lulu & Leon,2009,6.4,50.0,5
+Little Baby Bum,2011,9.0,1.0,5
+Phil Cobb's Dinner for Four,2011,8.0,2.0,5
+Get Real! Wise Women Speak,2011,7.2,3.0,5
+The Gadarene Swine,2011,7.4,4.0,5
+My Vietnam Your Iraq,2011,6.4,5.0,5
+Theo,I) (,8.2,6.0,5
+Snap Judgment,2011,7.2,7.0,5
+Moving Gracefully Towards the Exit,2011,7.4,8.0,5
+Who the Frak,2011,5.4,9.0,5
+El mundo que fue y el que es,2011,6.6,10.0,5
+ Empreintes criminelles,2010,7.4,11.0,5
+From a Mess to the Masses,2011,8.2,12.0,5
+Johnny Be Gone,2011,7.6,13.0,5
+You're a Wolf,2011,8.4,14.0,5
+The Naked Option: A Last Resort,2011,8.2,15.0,5
+From Place to Place,2011,8.8,16.0,5
+ Tough Love,2009,7.8,17.0,5
+The Sheets Must Be Silk,2011,8.0,18.0,5
+Pilgrimage,2011,8.8,19.0,5
+Son of None,2011,7.4,20.0,5
+Showreel,2011,6.4,21.0,5
+The Sleeping Beauty of East Finchley,2011,6.6,22.0,5
+Santiago del otro lado,2011,7.4,23.0,5
+ Tempo Final,2010,7.2,24.0,5
+ Tempo Final,2010,5.2,25.0,5
+Into the Game,2011,7.8,26.0,5
+Hoshi no furu machi,2011,6.6,27.0,5
+ Gigantic,2010,6.6,28.0,5
+ Punta Escarlata,2011,9.2,29.0,5
+Living with the Tiger,2011,9.2,30.0,5
+My Really Cool Legs!,2011,7.2,31.0,5
+Qwerty,2011,5.0,32.0,5
+ Paranormal State,2007,6.4,33.0,5
+ Paranormal State,2007,7.0,34.0,5
+No Such Thing As Color,2011,8.0,35.0,5
+Journey of a Dream,2011,6.2,36.0,5
+ House of Payne,2006,5.6,37.0,5
+Wraith Island,2011,6.0,38.0,5
+Condemned,2011,9.8,39.0,5
+The Return of Spade,2011,7.6,40.0,5
+Pledging Allegiance,2011,8.6,41.0,5
+ Il commissario Rex,2008,5.6,42.0,5
+ Il commissario Rex,2008,7.0,43.0,5
+Ordinary Average Guys,2011,7.6,44.0,5
+Terry Wogan's Ireland,2011,6.8,45.0,5
+After,IV) ,9.0,46.0,5
+Hood Life,2011,6.4,47.0,5
+Love Is Retarded,2011,9.2,48.0,5
+A Highway Called 301,2011,7.0,49.0,5
+Jackie O,2011,5.2,50.0,5
+Little Baby Bum,2011,9.0,1.0,5
+Phil Cobb's Dinner for Four,2011,8.0,2.0,5
+Get Real! Wise Women Speak,2011,7.2,3.0,5
+The Gadarene Swine,2011,7.4,4.0,5
+My Vietnam Your Iraq,2011,6.4,5.0,5
+Theo,I) (,8.2,6.0,5
+Snap Judgment,2011,7.2,7.0,5
+Moving Gracefully Towards the Exit,2011,7.4,8.0,5
+Who the Frak,2011,5.4,9.0,5
+El mundo que fue y el que es,2011,6.6,10.0,5
+ Empreintes criminelles,2010,7.4,11.0,5
+From a Mess to the Masses,2011,8.2,12.0,5
+Johnny Be Gone,2011,7.6,13.0,5
+You're a Wolf,2011,8.4,14.0,5
+The Naked Option: A Last Resort,2011,8.2,15.0,5
+From Place to Place,2011,8.8,16.0,5
+ Tough Love,2009,7.8,17.0,5
+The Sheets Must Be Silk,2011,8.0,18.0,5
+Pilgrimage,2011,8.8,19.0,5
+Son of None,2011,7.4,20.0,5
+Showreel,2011,6.4,21.0,5
+The Sleeping Beauty of East Finchley,2011,6.6,22.0,5
+Santiago del otro lado,2011,7.4,23.0,5
+ Tempo Final,2010,7.2,24.0,5
+ Tempo Final,2010,5.2,25.0,5
+Into the Game,2011,7.8,26.0,5
+Hoshi no furu machi,2011,6.6,27.0,5
+ Gigantic,2010,6.6,28.0,5
+ Punta Escarlata,2011,9.2,29.0,5
+Living with the Tiger,2011,9.2,30.0,5
+My Really Cool Legs!,2011,7.2,31.0,5
+Qwerty,2011,5.0,32.0,5
+ Paranormal State,2007,6.4,33.0,5
+ Paranormal State,2007,7.0,34.0,5
+No Such Thing As Color,2011,8.0,35.0,5
+Journey of a Dream,2011,6.2,36.0,5
+ House of Payne,2006,5.6,37.0,5
+Wraith Island,2011,6.0,38.0,5
+Condemned,2011,9.8,39.0,5
+The Return of Spade,2011,7.6,40.0,5
+Pledging Allegiance,2011,8.6,41.0,5
+ Il commissario Rex,2008,5.6,42.0,5
+ Il commissario Rex,2008,7.0,43.0,5
+Ordinary Average Guys,2011,7.6,44.0,5
+Terry Wogan's Ireland,2011,6.8,45.0,5
+After,IV) ,9.0,46.0,5
+Hood Life,2011,6.4,47.0,5
+Love Is Retarded,2011,9.2,48.0,5
+A Highway Called 301,2011,7.0,49.0,5
+Jackie O,2011,5.2,50.0,5
+Little Baby Bum,2011,9.0,1.0,5
+Phil Cobb's Dinner for Four,2011,8.0,2.0,5
+Get Real! Wise Women Speak,2011,7.2,3.0,5
+The Gadarene Swine,2011,7.4,4.0,5
+My Vietnam Your Iraq,2011,6.4,5.0,5
+Theo,I) (,8.2,6.0,5
+Snap Judgment,2011,7.2,7.0,5
+Moving Gracefully Towards the Exit,2011,7.4,8.0,5
+Who the Frak,2011,5.4,9.0,5
+El mundo que fue y el que es,2011,6.6,10.0,5
+ Empreintes criminelles,2010,7.4,11.0,5
+From a Mess to the Masses,2011,8.2,12.0,5
+Johnny Be Gone,2011,7.6,13.0,5
+You're a Wolf,2011,8.4,14.0,5
+The Naked Option: A Last Resort,2011,8.2,15.0,5
+From Place to Place,2011,8.8,16.0,5
+ Tough Love,2009,7.8,17.0,5
+The Sheets Must Be Silk,2011,8.0,18.0,5
+Pilgrimage,2011,8.8,19.0,5
+Son of None,2011,7.4,20.0,5
+Showreel,2011,6.4,21.0,5
+The Sleeping Beauty of East Finchley,2011,6.6,22.0,5
+Santiago del otro lado,2011,7.4,23.0,5
+ Tempo Final,2010,7.2,24.0,5
+ Tempo Final,2010,5.2,25.0,5
+Into the Game,2011,7.8,26.0,5
+Hoshi no furu machi,2011,6.6,27.0,5
+ Gigantic,2010,6.6,28.0,5
+ Punta Escarlata,2011,9.2,29.0,5
+Living with the Tiger,2011,9.2,30.0,5
+My Really Cool Legs!,2011,7.2,31.0,5
+Qwerty,2011,5.0,32.0,5
+ Paranormal State,2007,6.4,33.0,5
+ Paranormal State,2007,7.0,34.0,5
+No Such Thing As Color,2011,8.0,35.0,5
+Journey of a Dream,2011,6.2,36.0,5
+ House of Payne,2006,5.6,37.0,5
+Wraith Island,2011,6.0,38.0,5
+Condemned,2011,9.8,39.0,5
+The Return of Spade,2011,7.6,40.0,5
+Pledging Allegiance,2011,8.6,41.0,5
+ Il commissario Rex,2008,5.6,42.0,5
+ Il commissario Rex,2008,7.0,43.0,5
+Ordinary Average Guys,2011,7.6,44.0,5
+Terry Wogan's Ireland,2011,6.8,45.0,5
+After,IV) ,9.0,46.0,5
+Hood Life,2011,6.4,47.0,5
+Love Is Retarded,2011,9.2,48.0,5
+A Highway Called 301,2011,7.0,49.0,5
+Jackie O,2011,5.2,50.0,5
+Little Baby Bum,2011,9.0,1.0,5
+Phil Cobb's Dinner for Four,2011,8.0,2.0,5
+Get Real! Wise Women Speak,2011,7.2,3.0,5
+The Gadarene Swine,2011,7.4,4.0,5
+My Vietnam Your Iraq,2011,6.4,5.0,5
+Theo,I) (,8.2,6.0,5
+Snap Judgment,2011,7.2,7.0,5
+Moving Gracefully Towards the Exit,2011,7.4,8.0,5
+Who the Frak,2011,5.4,9.0,5
+El mundo que fue y el que es,2011,6.6,10.0,5
+ Empreintes criminelles,2010,7.4,11.0,5
+From a Mess to the Masses,2011,8.2,12.0,5
+Johnny Be Gone,2011,7.6,13.0,5
+You're a Wolf,2011,8.4,14.0,5
+The Naked Option: A Last Resort,2011,8.2,15.0,5
+From Place to Place,2011,8.8,16.0,5
+ Tough Love,2009,7.8,17.0,5
+The Sheets Must Be Silk,2011,8.0,18.0,5
+Pilgrimage,2011,8.8,19.0,5
+Son of None,2011,7.4,20.0,5
+Showreel,2011,6.4,21.0,5
+The Sleeping Beauty of East Finchley,2011,6.6,22.0,5
+Santiago del otro lado,2011,7.4,23.0,5
+ Tempo Final,2010,7.2,24.0,5
+ Tempo Final,2010,5.2,25.0,5
+Into the Game,2011,7.8,26.0,5
+Hoshi no furu machi,2011,6.6,27.0,5
+ Gigantic,2010,6.6,28.0,5
+ Punta Escarlata,2011,9.2,29.0,5
+Living with the Tiger,2011,9.2,30.0,5
+My Really Cool Legs!,2011,7.2,31.0,5
+Qwerty,2011,5.0,32.0,5
+ Paranormal State,2007,6.4,33.0,5
+ Paranormal State,2007,7.0,34.0,5
+No Such Thing As Color,2011,8.0,35.0,5
+Journey of a Dream,2011,6.2,36.0,5
+ House of Payne,2006,5.6,37.0,5
+Wraith Island,2011,6.0,38.0,5
+Condemned,2011,9.8,39.0,5
+The Return of Spade,2011,7.6,40.0,5
+Pledging Allegiance,2011,8.6,41.0,5
+ Il commissario Rex,2008,5.6,42.0,5
+ Il commissario Rex,2008,7.0,43.0,5
+Ordinary Average Guys,2011,7.6,44.0,5
+Terry Wogan's Ireland,2011,6.8,45.0,5
+After,IV) ,9.0,46.0,5
+Hood Life,2011,6.4,47.0,5
+Love Is Retarded,2011,9.2,48.0,5
+A Highway Called 301,2011,7.0,49.0,5
+Jackie O,2011,5.2,50.0,5
+Little Baby Bum,2011,9.0,1.0,5
+Phil Cobb's Dinner for Four,2011,8.0,2.0,5
+Get Real! Wise Women Speak,2011,7.2,3.0,5
+The Gadarene Swine,2011,7.4,4.0,5
+My Vietnam Your Iraq,2011,6.4,5.0,5
+Theo,I) (,8.2,6.0,5
+Snap Judgment,2011,7.2,7.0,5
+Moving Gracefully Towards the Exit,2011,7.4,8.0,5
+Who the Frak,2011,5.4,9.0,5
+El mundo que fue y el que es,2011,6.6,10.0,5
+ Empreintes criminelles,2010,7.4,11.0,5
+From a Mess to the Masses,2011,8.2,12.0,5
+Johnny Be Gone,2011,7.6,13.0,5
+You're a Wolf,2011,8.4,14.0,5
+The Naked Option: A Last Resort,2011,8.2,15.0,5
+From Place to Place,2011,8.8,16.0,5
+ Tough Love,2009,7.8,17.0,5
+The Sheets Must Be Silk,2011,8.0,18.0,5
+Pilgrimage,2011,8.8,19.0,5
+Son of None,2011,7.4,20.0,5
+Showreel,2011,6.4,21.0,5
+The Sleeping Beauty of East Finchley,2011,6.6,22.0,5
+Santiago del otro lado,2011,7.4,23.0,5
+ Tempo Final,2010,7.2,24.0,5
+ Tempo Final,2010,5.2,25.0,5
+Into the Game,2011,7.8,26.0,5
+Hoshi no furu machi,2011,6.6,27.0,5
+ Gigantic,2010,6.6,28.0,5
+ Punta Escarlata,2011,9.2,29.0,5
+Living with the Tiger,2011,9.2,30.0,5
+My Really Cool Legs!,2011,7.2,31.0,5
+Qwerty,2011,5.0,32.0,5
+ Paranormal State,2007,6.4,33.0,5
+ Paranormal State,2007,7.0,34.0,5
+No Such Thing As Color,2011,8.0,35.0,5
+Journey of a Dream,2011,6.2,36.0,5
+ House of Payne,2006,5.6,37.0,5
+Wraith Island,2011,6.0,38.0,5
+Condemned,2011,9.8,39.0,5
+The Return of Spade,2011,7.6,40.0,5
+Pledging Allegiance,2011,8.6,41.0,5
+ Il commissario Rex,2008,5.6,42.0,5
+ Il commissario Rex,2008,7.0,43.0,5
+Ordinary Average Guys,2011,7.6,44.0,5
+Terry Wogan's Ireland,2011,6.8,45.0,5
+After,IV) ,9.0,46.0,5
+Hood Life,2011,6.4,47.0,5
+Love Is Retarded,2011,9.2,48.0,5
+A Highway Called 301,2011,7.0,49.0,5
+Jackie O,2011,5.2,50.0,5
+Bridge of Names,2012,5.2,1.0,5
+Ninety Eight Percent,2012,6.4,2.0,5
+Street Apostle,2012,8.0,3.0,5
+Lost in the Crack,2012,7.8,4.0,5
+White Mouse,2012,1.2,5.0,5
+Your American Teen,2012,7.6,6.0,5
+What If People Died,2012,8.6,7.0,5
+Hear Me,2012,6.8,8.0,5
+Funks Grove,2012,9.6,9.0,5
+More Afraid of You,2012,9.2,10.0,5
+My Little Demon,2012,7.6,11.0,5
+Shi,2012,4.0,12.0,5
+Tracer Gun,2012,5.6,13.0,5
+Naked Conversations with Nude Women,2012,6.0,14.0,5
+The Shoemaker,2012,9.2,15.0,5
+El foso,2012,7.4,16.0,5
+Demon's Dilemma,2012,6.0,17.0,5
+ Venice the Series,2009,7.4,18.0,5
+The Bike Heist,2012,7.6,19.0,5
+Neighbors,I) (,4.4,20.0,5
+ Doc McStuffins,2012,6.4,21.0,5
+Keep the Party Going,2012,6.4,22.0,5
+ Doc McStuffins,2012,6.4,23.0,5
+Apple in the Rain,2012,6.2,24.0,5
+1949,2012,7.4,25.0,5
+ Woodley,2012,7.4,26.0,5
+ Woodley,2012,6.6,27.0,5
+ Woodley,2012,7.2,28.0,5
+ Woodley,2012,7.0,29.0,5
+ Doc McStuffins,2012,7.0,30.0,5
+Underwater Experts,2012,8.2,31.0,5
+Local Talent,2012,2.8,32.0,5
+House for Sale,I) (,7.2,33.0,5
+Other People,I) (,7.8,34.0,5
+How to Score Your Life,2012,6.4,35.0,5
+ Beatrix, Oranje onder Vuur,2012,7.6,36.0,5
+4 maras,2012,7.2,37.0,5
+La vita che corre,2012,5.0,38.0,5
+ Limbo,2011,6.0,39.0,5
+Rock N Roll Over,2012,9.0,40.0,5
+The Rule of Thumb,2012,5.6,41.0,5
+ Bucket and Skinner's Epic Adventures,2011,10.0,42.0,5
+A Fistful of Sandwich,2012,8.2,43.0,5
+C.R.O.M.,2012,7.8,44.0,5
+Mancrush,2012,8.0,45.0,5
+Bella Fleace Gave a Party,2012,9.6,46.0,5
+ Bucket and Skinner's Epic Adventures,2011,8.2,47.0,5
+The Actors Shrine,2012,8.4,48.0,5
+ Bloedverwanten,2010,8.0,49.0,5
+ Cold Blood,2008,7.4,50.0,5
+Bridge of Names,2012,5.2,1.0,5
+Ninety Eight Percent,2012,6.4,2.0,5
+Street Apostle,2012,8.0,3.0,5
+Lost in the Crack,2012,7.8,4.0,5
+White Mouse,2012,1.2,5.0,5
+Your American Teen,2012,7.6,6.0,5
+What If People Died,2012,8.6,7.0,5
+Hear Me,2012,6.8,8.0,5
+Funks Grove,2012,9.6,9.0,5
+More Afraid of You,2012,9.2,10.0,5
+My Little Demon,2012,7.6,11.0,5
+Shi,2012,4.0,12.0,5
+Tracer Gun,2012,5.6,13.0,5
+Naked Conversations with Nude Women,2012,6.0,14.0,5
+The Shoemaker,2012,9.2,15.0,5
+El foso,2012,7.4,16.0,5
+Demon's Dilemma,2012,6.0,17.0,5
+ Venice the Series,2009,7.4,18.0,5
+The Bike Heist,2012,7.6,19.0,5
+Neighbors,I) (,4.4,20.0,5
+ Doc McStuffins,2012,6.4,21.0,5
+Keep the Party Going,2012,6.4,22.0,5
+ Doc McStuffins,2012,6.4,23.0,5
+Apple in the Rain,2012,6.2,24.0,5
+1949,2012,7.4,25.0,5
+ Woodley,2012,7.4,26.0,5
+ Woodley,2012,6.6,27.0,5
+ Woodley,2012,7.2,28.0,5
+ Woodley,2012,7.0,29.0,5
+ Doc McStuffins,2012,7.0,30.0,5
+Underwater Experts,2012,8.2,31.0,5
+Local Talent,2012,2.8,32.0,5
+House for Sale,I) (,7.2,33.0,5
+Other People,I) (,7.8,34.0,5
+How to Score Your Life,2012,6.4,35.0,5
+ Beatrix, Oranje onder Vuur,2012,7.6,36.0,5
+4 maras,2012,7.2,37.0,5
+La vita che corre,2012,5.0,38.0,5
+ Limbo,2011,6.0,39.0,5
+Rock N Roll Over,2012,9.0,40.0,5
+The Rule of Thumb,2012,5.6,41.0,5
+ Bucket and Skinner's Epic Adventures,2011,10.0,42.0,5
+A Fistful of Sandwich,2012,8.2,43.0,5
+C.R.O.M.,2012,7.8,44.0,5
+Mancrush,2012,8.0,45.0,5
+Bella Fleace Gave a Party,2012,9.6,46.0,5
+ Bucket and Skinner's Epic Adventures,2011,8.2,47.0,5
+The Actors Shrine,2012,8.4,48.0,5
+ Bloedverwanten,2010,8.0,49.0,5
+ Cold Blood,2008,7.4,50.0,5
+Bridge of Names,2012,5.2,1.0,5
+Ninety Eight Percent,2012,6.4,2.0,5
+Street Apostle,2012,8.0,3.0,5
+Lost in the Crack,2012,7.8,4.0,5
+White Mouse,2012,1.2,5.0,5
+Your American Teen,2012,7.6,6.0,5
+What If People Died,2012,8.6,7.0,5
+Hear Me,2012,6.8,8.0,5
+Funks Grove,2012,9.6,9.0,5
+More Afraid of You,2012,9.2,10.0,5
+My Little Demon,2012,7.6,11.0,5
+Shi,2012,4.0,12.0,5
+Tracer Gun,2012,5.6,13.0,5
+Naked Conversations with Nude Women,2012,6.0,14.0,5
+The Shoemaker,2012,9.2,15.0,5
+El foso,2012,7.4,16.0,5
+Demon's Dilemma,2012,6.0,17.0,5
+ Venice the Series,2009,7.4,18.0,5
+The Bike Heist,2012,7.6,19.0,5
+Neighbors,I) (,4.4,20.0,5
+ Doc McStuffins,2012,6.4,21.0,5
+Keep the Party Going,2012,6.4,22.0,5
+ Doc McStuffins,2012,6.4,23.0,5
+Apple in the Rain,2012,6.2,24.0,5
+1949,2012,7.4,25.0,5
+ Woodley,2012,7.4,26.0,5
+ Woodley,2012,6.6,27.0,5
+ Woodley,2012,7.2,28.0,5
+ Woodley,2012,7.0,29.0,5
+ Doc McStuffins,2012,7.0,30.0,5
+Underwater Experts,2012,8.2,31.0,5
+Local Talent,2012,2.8,32.0,5
+House for Sale,I) (,7.2,33.0,5
+Other People,I) (,7.8,34.0,5
+How to Score Your Life,2012,6.4,35.0,5
+ Beatrix, Oranje onder Vuur,2012,7.6,36.0,5
+4 maras,2012,7.2,37.0,5
+La vita che corre,2012,5.0,38.0,5
+ Limbo,2011,6.0,39.0,5
+Rock N Roll Over,2012,9.0,40.0,5
+The Rule of Thumb,2012,5.6,41.0,5
+ Bucket and Skinner's Epic Adventures,2011,10.0,42.0,5
+A Fistful of Sandwich,2012,8.2,43.0,5
+C.R.O.M.,2012,7.8,44.0,5
+Mancrush,2012,8.0,45.0,5
+Bella Fleace Gave a Party,2012,9.6,46.0,5
+ Bucket and Skinner's Epic Adventures,2011,8.2,47.0,5
+The Actors Shrine,2012,8.4,48.0,5
+ Bloedverwanten,2010,8.0,49.0,5
+ Cold Blood,2008,7.4,50.0,5
+Bridge of Names,2012,5.2,1.0,5
+Ninety Eight Percent,2012,6.4,2.0,5
+Street Apostle,2012,8.0,3.0,5
+Lost in the Crack,2012,7.8,4.0,5
+White Mouse,2012,1.2,5.0,5
+Your American Teen,2012,7.6,6.0,5
+What If People Died,2012,8.6,7.0,5
+Hear Me,2012,6.8,8.0,5
+Funks Grove,2012,9.6,9.0,5
+More Afraid of You,2012,9.2,10.0,5
+My Little Demon,2012,7.6,11.0,5
+Shi,2012,4.0,12.0,5
+Tracer Gun,2012,5.6,13.0,5
+Naked Conversations with Nude Women,2012,6.0,14.0,5
+The Shoemaker,2012,9.2,15.0,5
+El foso,2012,7.4,16.0,5
+Demon's Dilemma,2012,6.0,17.0,5
+ Venice the Series,2009,7.4,18.0,5
+The Bike Heist,2012,7.6,19.0,5
+Neighbors,I) (,4.4,20.0,5
+ Doc McStuffins,2012,6.4,21.0,5
+Keep the Party Going,2012,6.4,22.0,5
+ Doc McStuffins,2012,6.4,23.0,5
+Apple in the Rain,2012,6.2,24.0,5
+1949,2012,7.4,25.0,5
+ Woodley,2012,7.4,26.0,5
+ Woodley,2012,6.6,27.0,5
+ Woodley,2012,7.2,28.0,5
+ Woodley,2012,7.0,29.0,5
+ Doc McStuffins,2012,7.0,30.0,5
+Underwater Experts,2012,8.2,31.0,5
+Local Talent,2012,2.8,32.0,5
+House for Sale,I) (,7.2,33.0,5
+Other People,I) (,7.8,34.0,5
+How to Score Your Life,2012,6.4,35.0,5
+ Beatrix, Oranje onder Vuur,2012,7.6,36.0,5
+4 maras,2012,7.2,37.0,5
+La vita che corre,2012,5.0,38.0,5
+ Limbo,2011,6.0,39.0,5
+Rock N Roll Over,2012,9.0,40.0,5
+The Rule of Thumb,2012,5.6,41.0,5
+ Bucket and Skinner's Epic Adventures,2011,10.0,42.0,5
+A Fistful of Sandwich,2012,8.2,43.0,5
+C.R.O.M.,2012,7.8,44.0,5
+Mancrush,2012,8.0,45.0,5
+Bella Fleace Gave a Party,2012,9.6,46.0,5
+ Bucket and Skinner's Epic Adventures,2011,8.2,47.0,5
+The Actors Shrine,2012,8.4,48.0,5
+ Bloedverwanten,2010,8.0,49.0,5
+ Cold Blood,2008,7.4,50.0,5
+Bridge of Names,2012,5.2,1.0,5
+Ninety Eight Percent,2012,6.4,2.0,5
+Street Apostle,2012,8.0,3.0,5
+Lost in the Crack,2012,7.8,4.0,5
+White Mouse,2012,1.2,5.0,5
+Your American Teen,2012,7.6,6.0,5
+What If People Died,2012,8.6,7.0,5
+Hear Me,2012,6.8,8.0,5
+Funks Grove,2012,9.6,9.0,5
+More Afraid of You,2012,9.2,10.0,5
+My Little Demon,2012,7.6,11.0,5
+Shi,2012,4.0,12.0,5
+Tracer Gun,2012,5.6,13.0,5
+Naked Conversations with Nude Women,2012,6.0,14.0,5
+The Shoemaker,2012,9.2,15.0,5
+El foso,2012,7.4,16.0,5
+Demon's Dilemma,2012,6.0,17.0,5
+ Venice the Series,2009,7.4,18.0,5
+The Bike Heist,2012,7.6,19.0,5
+Neighbors,I) (,4.4,20.0,5
+ Doc McStuffins,2012,6.4,21.0,5
+Keep the Party Going,2012,6.4,22.0,5
+ Doc McStuffins,2012,6.4,23.0,5
+Apple in the Rain,2012,6.2,24.0,5
+1949,2012,7.4,25.0,5
+ Woodley,2012,7.4,26.0,5
+ Woodley,2012,6.6,27.0,5
+ Woodley,2012,7.2,28.0,5
+ Woodley,2012,7.0,29.0,5
+ Doc McStuffins,2012,7.0,30.0,5
+Underwater Experts,2012,8.2,31.0,5
+Local Talent,2012,2.8,32.0,5
+House for Sale,I) (,7.2,33.0,5
+Other People,I) (,7.8,34.0,5
+How to Score Your Life,2012,6.4,35.0,5
+ Beatrix, Oranje onder Vuur,2012,7.6,36.0,5
+4 maras,2012,7.2,37.0,5
+La vita che corre,2012,5.0,38.0,5
+ Limbo,2011,6.0,39.0,5
+Rock N Roll Over,2012,9.0,40.0,5
+The Rule of Thumb,2012,5.6,41.0,5
+ Bucket and Skinner's Epic Adventures,2011,10.0,42.0,5
+A Fistful of Sandwich,2012,8.2,43.0,5
+C.R.O.M.,2012,7.8,44.0,5
+Mancrush,2012,8.0,45.0,5
+Bella Fleace Gave a Party,2012,9.6,46.0,5
+ Bucket and Skinner's Epic Adventures,2011,8.2,47.0,5
+The Actors Shrine,2012,8.4,48.0,5
+ Bloedverwanten,2010,8.0,49.0,5
+ Cold Blood,2008,7.4,50.0,5
+ Tales of the Gun,1998,8.6,1.0,5
+Citizen Lane,2013,7.6,2.0,5
+The Humdrummer,2013,8.6,3.0,5
+Diario de mi residencia en Chile: María Graham,2013,5.8,4.0,5
+Milkweed,2013,6.0,5.0,5
+Tradition Is a Temple: The Modern Masters of New Orleans,2013,8.4,6.0,5
+Awake Zion,2013,7.8,7.0,5
+Unschooled: Save Our Future,2013,8.2,8.0,5
+ Iron Chef America: The Series,2005,7.4,9.0,5
+Nostalgia: The Music of Wim Statius Muller,2013,9.4,10.0,5
+Andaaz,2013,8.6,11.0,5
+Xoxosms,2013,5.8,12.0,5
+F-3,2013,4.8,13.0,5
+Odd Man Out,II) ,5.8,14.0,5
+Meine innere Stimme,2013,9.0,15.0,5
+ Met Man en Macht,2013,5.8,16.0,5
+ Met Man en Macht,2013,6.0,17.0,5
+ Met Man en Macht,2013,7.8,18.0,5
+Homer and Penelope,2013,6.4,19.0,5
+Endless Summer,2013,4.6,20.0,5
+ BoysTown,2008,6.2,21.0,5
+A Sad State of Affairs,2013,7.8,22.0,5
+ Unsung,2008,8.4,23.0,5
+Vidas (des)Enrascadas,2013,6.4,24.0,5
+Tiny Giant,2013,9.0,25.0,5
+Solace,V) (,4.8,26.0,5
+Berlin Angels,2013,7.0,27.0,5
+ Monster Fish,2009,6.4,28.0,5
+Foxy and Marina,2013,5.8,29.0,5
+Tri raza pro eto,2013,4.4,30.0,5
+Dreams,I) (,6.8,31.0,5
+Bully Girls,2013,4.6,32.0,5
+ Wild Kratts,2011,7.0,33.0,5
+The Joint,I) (,8.0,34.0,5
+20Zwoelf,2013,6.4,35.0,5
+Julias mamma,2013,4.8,36.0,5
+The Patriot Act,2013,5.2,37.0,5
+The Pinto Edition,2013,7.4,38.0,5
+Black Rapunzel,2013,5.2,39.0,5
+The Silver Key,2013,8.0,40.0,5
+Jeu de couples,2013,5.2,41.0,5
+Criminal Behavior,2013,8.2,42.0,5
+Time of the Month,2013,3.4,43.0,5
+Harissa mon amour,2013,5.2,44.0,5
+Soulmates,2013,5.6,45.0,5
+C'est la crise,2013,5.6,46.0,5
+Haishang Meng fu,2013,6.4,47.0,5
+Crossings,I) (,9.0,48.0,5
+The Retribution,2013,6.0,49.0,5
+ Maison close,2010,6.8,50.0,5
+ Tales of the Gun,1998,8.6,1.0,5
+Citizen Lane,2013,7.6,2.0,5
+The Humdrummer,2013,8.6,3.0,5
+Diario de mi residencia en Chile: María Graham,2013,5.8,4.0,5
+Milkweed,2013,6.0,5.0,5
+Tradition Is a Temple: The Modern Masters of New Orleans,2013,8.4,6.0,5
+Awake Zion,2013,7.8,7.0,5
+Unschooled: Save Our Future,2013,8.2,8.0,5
+ Iron Chef America: The Series,2005,7.4,9.0,5
+Nostalgia: The Music of Wim Statius Muller,2013,9.4,10.0,5
+Andaaz,2013,8.6,11.0,5
+Xoxosms,2013,5.8,12.0,5
+F-3,2013,4.8,13.0,5
+Odd Man Out,II) ,5.8,14.0,5
+Meine innere Stimme,2013,9.0,15.0,5
+ Met Man en Macht,2013,5.8,16.0,5
+ Met Man en Macht,2013,6.0,17.0,5
+ Met Man en Macht,2013,7.8,18.0,5
+Homer and Penelope,2013,6.4,19.0,5
+Endless Summer,2013,4.6,20.0,5
+ BoysTown,2008,6.2,21.0,5
+A Sad State of Affairs,2013,7.8,22.0,5
+ Unsung,2008,8.4,23.0,5
+Vidas (des)Enrascadas,2013,6.4,24.0,5
+Tiny Giant,2013,9.0,25.0,5
+Solace,V) (,4.8,26.0,5
+Berlin Angels,2013,7.0,27.0,5
+ Monster Fish,2009,6.4,28.0,5
+Foxy and Marina,2013,5.8,29.0,5
+Tri raza pro eto,2013,4.4,30.0,5
+Dreams,I) (,6.8,31.0,5
+Bully Girls,2013,4.6,32.0,5
+ Wild Kratts,2011,7.0,33.0,5
+The Joint,I) (,8.0,34.0,5
+20Zwoelf,2013,6.4,35.0,5
+Julias mamma,2013,4.8,36.0,5
+The Patriot Act,2013,5.2,37.0,5
+The Pinto Edition,2013,7.4,38.0,5
+Black Rapunzel,2013,5.2,39.0,5
+The Silver Key,2013,8.0,40.0,5
+Jeu de couples,2013,5.2,41.0,5
+Criminal Behavior,2013,8.2,42.0,5
+Time of the Month,2013,3.4,43.0,5
+Harissa mon amour,2013,5.2,44.0,5
+Soulmates,2013,5.6,45.0,5
+C'est la crise,2013,5.6,46.0,5
+Haishang Meng fu,2013,6.4,47.0,5
+Crossings,I) (,9.0,48.0,5
+The Retribution,2013,6.0,49.0,5
+ Maison close,2010,6.8,50.0,5
+ Tales of the Gun,1998,8.6,1.0,5
+Citizen Lane,2013,7.6,2.0,5
+The Humdrummer,2013,8.6,3.0,5
+Diario de mi residencia en Chile: María Graham,2013,5.8,4.0,5
+Milkweed,2013,6.0,5.0,5
+Tradition Is a Temple: The Modern Masters of New Orleans,2013,8.4,6.0,5
+Awake Zion,2013,7.8,7.0,5
+Unschooled: Save Our Future,2013,8.2,8.0,5
+ Iron Chef America: The Series,2005,7.4,9.0,5
+Nostalgia: The Music of Wim Statius Muller,2013,9.4,10.0,5
+Andaaz,2013,8.6,11.0,5
+Xoxosms,2013,5.8,12.0,5
+F-3,2013,4.8,13.0,5
+Odd Man Out,II) ,5.8,14.0,5
+Meine innere Stimme,2013,9.0,15.0,5
+ Met Man en Macht,2013,5.8,16.0,5
+ Met Man en Macht,2013,6.0,17.0,5
+ Met Man en Macht,2013,7.8,18.0,5
+Homer and Penelope,2013,6.4,19.0,5
+Endless Summer,2013,4.6,20.0,5
+ BoysTown,2008,6.2,21.0,5
+A Sad State of Affairs,2013,7.8,22.0,5
+ Unsung,2008,8.4,23.0,5
+Vidas (des)Enrascadas,2013,6.4,24.0,5
+Tiny Giant,2013,9.0,25.0,5
+Solace,V) (,4.8,26.0,5
+Berlin Angels,2013,7.0,27.0,5
+ Monster Fish,2009,6.4,28.0,5
+Foxy and Marina,2013,5.8,29.0,5
+Tri raza pro eto,2013,4.4,30.0,5
+Dreams,I) (,6.8,31.0,5
+Bully Girls,2013,4.6,32.0,5
+ Wild Kratts,2011,7.0,33.0,5
+The Joint,I) (,8.0,34.0,5
+20Zwoelf,2013,6.4,35.0,5
+Julias mamma,2013,4.8,36.0,5
+The Patriot Act,2013,5.2,37.0,5
+The Pinto Edition,2013,7.4,38.0,5
+Black Rapunzel,2013,5.2,39.0,5
+The Silver Key,2013,8.0,40.0,5
+Jeu de couples,2013,5.2,41.0,5
+Criminal Behavior,2013,8.2,42.0,5
+Time of the Month,2013,3.4,43.0,5
+Harissa mon amour,2013,5.2,44.0,5
+Soulmates,2013,5.6,45.0,5
+C'est la crise,2013,5.6,46.0,5
+Haishang Meng fu,2013,6.4,47.0,5
+Crossings,I) (,9.0,48.0,5
+The Retribution,2013,6.0,49.0,5
+ Maison close,2010,6.8,50.0,5
+ Tales of the Gun,1998,8.6,1.0,5
+Citizen Lane,2013,7.6,2.0,5
+The Humdrummer,2013,8.6,3.0,5
+Diario de mi residencia en Chile: María Graham,2013,5.8,4.0,5
+Milkweed,2013,6.0,5.0,5
+Tradition Is a Temple: The Modern Masters of New Orleans,2013,8.4,6.0,5
+Awake Zion,2013,7.8,7.0,5
+Unschooled: Save Our Future,2013,8.2,8.0,5
+ Iron Chef America: The Series,2005,7.4,9.0,5
+Nostalgia: The Music of Wim Statius Muller,2013,9.4,10.0,5
+Andaaz,2013,8.6,11.0,5
+Xoxosms,2013,5.8,12.0,5
+F-3,2013,4.8,13.0,5
+Odd Man Out,II) ,5.8,14.0,5
+Meine innere Stimme,2013,9.0,15.0,5
+ Met Man en Macht,2013,5.8,16.0,5
+ Met Man en Macht,2013,6.0,17.0,5
+ Met Man en Macht,2013,7.8,18.0,5
+Homer and Penelope,2013,6.4,19.0,5
+Endless Summer,2013,4.6,20.0,5
+ BoysTown,2008,6.2,21.0,5
+A Sad State of Affairs,2013,7.8,22.0,5
+ Unsung,2008,8.4,23.0,5
+Vidas (des)Enrascadas,2013,6.4,24.0,5
+Tiny Giant,2013,9.0,25.0,5
+Solace,V) (,4.8,26.0,5
+Berlin Angels,2013,7.0,27.0,5
+ Monster Fish,2009,6.4,28.0,5
+Foxy and Marina,2013,5.8,29.0,5
+Tri raza pro eto,2013,4.4,30.0,5
+Dreams,I) (,6.8,31.0,5
+Bully Girls,2013,4.6,32.0,5
+ Wild Kratts,2011,7.0,33.0,5
+The Joint,I) (,8.0,34.0,5
+20Zwoelf,2013,6.4,35.0,5
+Julias mamma,2013,4.8,36.0,5
+The Patriot Act,2013,5.2,37.0,5
+The Pinto Edition,2013,7.4,38.0,5
+Black Rapunzel,2013,5.2,39.0,5
+The Silver Key,2013,8.0,40.0,5
+Jeu de couples,2013,5.2,41.0,5
+Criminal Behavior,2013,8.2,42.0,5
+Time of the Month,2013,3.4,43.0,5
+Harissa mon amour,2013,5.2,44.0,5
+Soulmates,2013,5.6,45.0,5
+C'est la crise,2013,5.6,46.0,5
+Haishang Meng fu,2013,6.4,47.0,5
+Crossings,I) (,9.0,48.0,5
+The Retribution,2013,6.0,49.0,5
+ Maison close,2010,6.8,50.0,5
+ Tales of the Gun,1998,8.6,1.0,5
+Citizen Lane,2013,7.6,2.0,5
+The Humdrummer,2013,8.6,3.0,5
+Diario de mi residencia en Chile: María Graham,2013,5.8,4.0,5
+Milkweed,2013,6.0,5.0,5
+Tradition Is a Temple: The Modern Masters of New Orleans,2013,8.4,6.0,5
+Awake Zion,2013,7.8,7.0,5
+Unschooled: Save Our Future,2013,8.2,8.0,5
+ Iron Chef America: The Series,2005,7.4,9.0,5
+Nostalgia: The Music of Wim Statius Muller,2013,9.4,10.0,5
+Andaaz,2013,8.6,11.0,5
+Xoxosms,2013,5.8,12.0,5
+F-3,2013,4.8,13.0,5
+Odd Man Out,II) ,5.8,14.0,5
+Meine innere Stimme,2013,9.0,15.0,5
+ Met Man en Macht,2013,5.8,16.0,5
+ Met Man en Macht,2013,6.0,17.0,5
+ Met Man en Macht,2013,7.8,18.0,5
+Homer and Penelope,2013,6.4,19.0,5
+Endless Summer,2013,4.6,20.0,5
+ BoysTown,2008,6.2,21.0,5
+A Sad State of Affairs,2013,7.8,22.0,5
+ Unsung,2008,8.4,23.0,5
+Vidas (des)Enrascadas,2013,6.4,24.0,5
+Tiny Giant,2013,9.0,25.0,5
+Solace,V) (,4.8,26.0,5
+Berlin Angels,2013,7.0,27.0,5
+ Monster Fish,2009,6.4,28.0,5
+Foxy and Marina,2013,5.8,29.0,5
+Tri raza pro eto,2013,4.4,30.0,5
+Dreams,I) (,6.8,31.0,5
+Bully Girls,2013,4.6,32.0,5
+ Wild Kratts,2011,7.0,33.0,5
+The Joint,I) (,8.0,34.0,5
+20Zwoelf,2013,6.4,35.0,5
+Julias mamma,2013,4.8,36.0,5
+The Patriot Act,2013,5.2,37.0,5
+The Pinto Edition,2013,7.4,38.0,5
+Black Rapunzel,2013,5.2,39.0,5
+The Silver Key,2013,8.0,40.0,5
+Jeu de couples,2013,5.2,41.0,5
+Criminal Behavior,2013,8.2,42.0,5
+Time of the Month,2013,3.4,43.0,5
+Harissa mon amour,2013,5.2,44.0,5
+Soulmates,2013,5.6,45.0,5
+C'est la crise,2013,5.6,46.0,5
+Haishang Meng fu,2013,6.4,47.0,5
+Crossings,I) (,9.0,48.0,5
+The Retribution,2013,6.0,49.0,5
+ Maison close,2010,6.8,50.0,5
+Edinburgh Nights,2014,6.2,1.0,5
+Dos Chicos,2014,5.8,2.0,5
+Roman Tomes: Iluze,2014,4.0,3.0,5
+Why We Cry,2014,7.4,4.0,5
+5 Acres' Digital Storytelling Experience,2014,6.8,5.0,5
+My Legacy,2014,8.6,6.0,5
+Thunderlust (and the Middle Beast),2014,7.8,7.0,5
+Ikkyû san,2014,4.4,8.0,5
+Legalize It,2014,7.2,9.0,5
+The Evolution of Stem Cell Research,2014,8.6,10.0,5
+ Iron Chef America: The Series,2005,7.6,11.0,5
+Bullseye,I) (,7.8,12.0,5
+Invitation to Dance,2014,7.2,13.0,5
+Chung-A,2014,6.4,14.0,5
+Wanda the Wonderful,2014,8.6,15.0,5
+Odd One Out,I) (,5.0,16.0,5
+The Adventures of Paul and Marian,2014,6.4,17.0,5
+ El corazón del océano,2014,8.2,18.0,5
+Visceral Brasil - As veias abertas da música,2014,7.2,19.0,5
+Golden Mean,2014,5.2,20.0,5
+Skye & Chang,2014,6.2,21.0,5
+Uberstein - Operation Wunderwaffe,2014,8.8,22.0,5
+Black Martini,2014,10.0,23.0,5
+The Battle of the Somme,2014,6.6,24.0,5
+For Serious,2014,9.2,25.0,5
+Kinder-Vileyskoe prividenie,2014,5.0,26.0,5
+Welcome to the South,2014,10.0,27.0,5
+ Venice the Series,2009,9.2,28.0,5
+The Longest Swim,2014,6.4,29.0,5
+Bernard,2014,7.4,30.0,5
+Shattered Hopes: The True Story of the Amityville Murders - Part III: Fraud & Forensics,2014,3.0,31.0,5
+The Perfect Color,2014,8.2,32.0,5
+Karma,XI) ,6.0,33.0,5
+The Man in the Chair,2014,7.6,34.0,5
+Night of the Proms,2014,8.0,35.0,5
+Bka 49-77,2014,8.0,36.0,5
+Young Mallory,2014,7.8,37.0,5
+Tasmanian Tiger,2014,8.4,38.0,5
+The Truth About You,2014,6.2,39.0,5
+Malea Beloved,2014,6.4,40.0,5
+Hands That Hold Us,2014,6.4,41.0,5
+Cottage in America,2014,5.0,42.0,5
+First Lesson in Love,2014,7.0,43.0,5
+ Sons of Guns,2011,6.0,44.0,5
+The Bathroom Diaries,I) (,7.2,45.0,5
+ Welshy Reviews,2011,6.4,46.0,5
+Z Joke,I) (,8.4,47.0,5
+Hunger in America,2014,7.4,48.0,5
+Nexos,2014,4.2,49.0,5
+Where God Likes to Be,2014,7.6,50.0,5
+Edinburgh Nights,2014,6.2,1.0,5
+Dos Chicos,2014,5.8,2.0,5
+Roman Tomes: Iluze,2014,4.0,3.0,5
+Why We Cry,2014,7.4,4.0,5
+5 Acres' Digital Storytelling Experience,2014,6.8,5.0,5
+My Legacy,2014,8.6,6.0,5
+Thunderlust (and the Middle Beast),2014,7.8,7.0,5
+Ikkyû san,2014,4.4,8.0,5
+Legalize It,2014,7.2,9.0,5
+The Evolution of Stem Cell Research,2014,8.6,10.0,5
+ Iron Chef America: The Series,2005,7.6,11.0,5
+Bullseye,I) (,7.8,12.0,5
+Invitation to Dance,2014,7.2,13.0,5
+Chung-A,2014,6.4,14.0,5
+Wanda the Wonderful,2014,8.6,15.0,5
+Odd One Out,I) (,5.0,16.0,5
+The Adventures of Paul and Marian,2014,6.4,17.0,5
+ El corazón del océano,2014,8.2,18.0,5
+Visceral Brasil - As veias abertas da música,2014,7.2,19.0,5
+Golden Mean,2014,5.2,20.0,5
+Skye & Chang,2014,6.2,21.0,5
+Uberstein - Operation Wunderwaffe,2014,8.8,22.0,5
+Black Martini,2014,10.0,23.0,5
+The Battle of the Somme,2014,6.6,24.0,5
+For Serious,2014,9.2,25.0,5
+Kinder-Vileyskoe prividenie,2014,5.0,26.0,5
+Welcome to the South,2014,10.0,27.0,5
+ Venice the Series,2009,9.2,28.0,5
+The Longest Swim,2014,6.4,29.0,5
+Bernard,2014,7.4,30.0,5
+Shattered Hopes: The True Story of the Amityville Murders - Part III: Fraud & Forensics,2014,3.0,31.0,5
+The Perfect Color,2014,8.2,32.0,5
+Karma,XI) ,6.0,33.0,5
+The Man in the Chair,2014,7.6,34.0,5
+Night of the Proms,2014,8.0,35.0,5
+Bka 49-77,2014,8.0,36.0,5
+Young Mallory,2014,7.8,37.0,5
+Tasmanian Tiger,2014,8.4,38.0,5
+The Truth About You,2014,6.2,39.0,5
+Malea Beloved,2014,6.4,40.0,5
+Hands That Hold Us,2014,6.4,41.0,5
+Cottage in America,2014,5.0,42.0,5
+First Lesson in Love,2014,7.0,43.0,5
+ Sons of Guns,2011,6.0,44.0,5
+The Bathroom Diaries,I) (,7.2,45.0,5
+ Welshy Reviews,2011,6.4,46.0,5
+Z Joke,I) (,8.4,47.0,5
+Hunger in America,2014,7.4,48.0,5
+Nexos,2014,4.2,49.0,5
+Where God Likes to Be,2014,7.6,50.0,5
+Edinburgh Nights,2014,6.2,1.0,5
+Dos Chicos,2014,5.8,2.0,5
+Roman Tomes: Iluze,2014,4.0,3.0,5
+Why We Cry,2014,7.4,4.0,5
+5 Acres' Digital Storytelling Experience,2014,6.8,5.0,5
+My Legacy,2014,8.6,6.0,5
+Thunderlust (and the Middle Beast),2014,7.8,7.0,5
+Ikkyû san,2014,4.4,8.0,5
+Legalize It,2014,7.2,9.0,5
+The Evolution of Stem Cell Research,2014,8.6,10.0,5
+ Iron Chef America: The Series,2005,7.6,11.0,5
+Bullseye,I) (,7.8,12.0,5
+Invitation to Dance,2014,7.2,13.0,5
+Chung-A,2014,6.4,14.0,5
+Wanda the Wonderful,2014,8.6,15.0,5
+Odd One Out,I) (,5.0,16.0,5
+The Adventures of Paul and Marian,2014,6.4,17.0,5
+ El corazón del océano,2014,8.2,18.0,5
+Visceral Brasil - As veias abertas da música,2014,7.2,19.0,5
+Golden Mean,2014,5.2,20.0,5
+Skye & Chang,2014,6.2,21.0,5
+Uberstein - Operation Wunderwaffe,2014,8.8,22.0,5
+Black Martini,2014,10.0,23.0,5
+The Battle of the Somme,2014,6.6,24.0,5
+For Serious,2014,9.2,25.0,5
+Kinder-Vileyskoe prividenie,2014,5.0,26.0,5
+Welcome to the South,2014,10.0,27.0,5
+ Venice the Series,2009,9.2,28.0,5
+The Longest Swim,2014,6.4,29.0,5
+Bernard,2014,7.4,30.0,5
+Shattered Hopes: The True Story of the Amityville Murders - Part III: Fraud & Forensics,2014,3.0,31.0,5
+The Perfect Color,2014,8.2,32.0,5
+Karma,XI) ,6.0,33.0,5
+The Man in the Chair,2014,7.6,34.0,5
+Night of the Proms,2014,8.0,35.0,5
+Bka 49-77,2014,8.0,36.0,5
+Young Mallory,2014,7.8,37.0,5
+Tasmanian Tiger,2014,8.4,38.0,5
+The Truth About You,2014,6.2,39.0,5
+Malea Beloved,2014,6.4,40.0,5
+Hands That Hold Us,2014,6.4,41.0,5
+Cottage in America,2014,5.0,42.0,5
+First Lesson in Love,2014,7.0,43.0,5
+ Sons of Guns,2011,6.0,44.0,5
+The Bathroom Diaries,I) (,7.2,45.0,5
+ Welshy Reviews,2011,6.4,46.0,5
+Z Joke,I) (,8.4,47.0,5
+Hunger in America,2014,7.4,48.0,5
+Nexos,2014,4.2,49.0,5
+Where God Likes to Be,2014,7.6,50.0,5
+Edinburgh Nights,2014,6.2,1.0,5
+Dos Chicos,2014,5.8,2.0,5
+Roman Tomes: Iluze,2014,4.0,3.0,5
+Why We Cry,2014,7.4,4.0,5
+5 Acres' Digital Storytelling Experience,2014,6.8,5.0,5
+My Legacy,2014,8.6,6.0,5
+Thunderlust (and the Middle Beast),2014,7.8,7.0,5
+Ikkyû san,2014,4.4,8.0,5
+Legalize It,2014,7.2,9.0,5
+The Evolution of Stem Cell Research,2014,8.6,10.0,5
+ Iron Chef America: The Series,2005,7.6,11.0,5
+Bullseye,I) (,7.8,12.0,5
+Invitation to Dance,2014,7.2,13.0,5
+Chung-A,2014,6.4,14.0,5
+Wanda the Wonderful,2014,8.6,15.0,5
+Odd One Out,I) (,5.0,16.0,5
+The Adventures of Paul and Marian,2014,6.4,17.0,5
+ El corazón del océano,2014,8.2,18.0,5
+Visceral Brasil - As veias abertas da música,2014,7.2,19.0,5
+Golden Mean,2014,5.2,20.0,5
+Skye & Chang,2014,6.2,21.0,5
+Uberstein - Operation Wunderwaffe,2014,8.8,22.0,5
+Black Martini,2014,10.0,23.0,5
+The Battle of the Somme,2014,6.6,24.0,5
+For Serious,2014,9.2,25.0,5
+Kinder-Vileyskoe prividenie,2014,5.0,26.0,5
+Welcome to the South,2014,10.0,27.0,5
+ Venice the Series,2009,9.2,28.0,5
+The Longest Swim,2014,6.4,29.0,5
+Bernard,2014,7.4,30.0,5
+Shattered Hopes: The True Story of the Amityville Murders - Part III: Fraud & Forensics,2014,3.0,31.0,5
+The Perfect Color,2014,8.2,32.0,5
+Karma,XI) ,6.0,33.0,5
+The Man in the Chair,2014,7.6,34.0,5
+Night of the Proms,2014,8.0,35.0,5
+Bka 49-77,2014,8.0,36.0,5
+Young Mallory,2014,7.8,37.0,5
+Tasmanian Tiger,2014,8.4,38.0,5
+The Truth About You,2014,6.2,39.0,5
+Malea Beloved,2014,6.4,40.0,5
+Hands That Hold Us,2014,6.4,41.0,5
+Cottage in America,2014,5.0,42.0,5
+First Lesson in Love,2014,7.0,43.0,5
+ Sons of Guns,2011,6.0,44.0,5
+The Bathroom Diaries,I) (,7.2,45.0,5
+ Welshy Reviews,2011,6.4,46.0,5
+Z Joke,I) (,8.4,47.0,5
+Hunger in America,2014,7.4,48.0,5
+Nexos,2014,4.2,49.0,5
+Where God Likes to Be,2014,7.6,50.0,5
+Edinburgh Nights,2014,6.2,1.0,5
+Dos Chicos,2014,5.8,2.0,5
+Roman Tomes: Iluze,2014,4.0,3.0,5
+Why We Cry,2014,7.4,4.0,5
+5 Acres' Digital Storytelling Experience,2014,6.8,5.0,5
+My Legacy,2014,8.6,6.0,5
+Thunderlust (and the Middle Beast),2014,7.8,7.0,5
+Ikkyû san,2014,4.4,8.0,5
+Legalize It,2014,7.2,9.0,5
+The Evolution of Stem Cell Research,2014,8.6,10.0,5
+ Iron Chef America: The Series,2005,7.6,11.0,5
+Bullseye,I) (,7.8,12.0,5
+Invitation to Dance,2014,7.2,13.0,5
+Chung-A,2014,6.4,14.0,5
+Wanda the Wonderful,2014,8.6,15.0,5
+Odd One Out,I) (,5.0,16.0,5
+The Adventures of Paul and Marian,2014,6.4,17.0,5
+ El corazón del océano,2014,8.2,18.0,5
+Visceral Brasil - As veias abertas da música,2014,7.2,19.0,5
+Golden Mean,2014,5.2,20.0,5
+Skye & Chang,2014,6.2,21.0,5
+Uberstein - Operation Wunderwaffe,2014,8.8,22.0,5
+Black Martini,2014,10.0,23.0,5
+The Battle of the Somme,2014,6.6,24.0,5
+For Serious,2014,9.2,25.0,5
+Kinder-Vileyskoe prividenie,2014,5.0,26.0,5
+Welcome to the South,2014,10.0,27.0,5
+ Venice the Series,2009,9.2,28.0,5
+The Longest Swim,2014,6.4,29.0,5
+Bernard,2014,7.4,30.0,5
+Shattered Hopes: The True Story of the Amityville Murders - Part III: Fraud & Forensics,2014,3.0,31.0,5
+The Perfect Color,2014,8.2,32.0,5
+Karma,XI) ,6.0,33.0,5
+The Man in the Chair,2014,7.6,34.0,5
+Night of the Proms,2014,8.0,35.0,5
+Bka 49-77,2014,8.0,36.0,5
+Young Mallory,2014,7.8,37.0,5
+Tasmanian Tiger,2014,8.4,38.0,5
+The Truth About You,2014,6.2,39.0,5
+Malea Beloved,2014,6.4,40.0,5
+Hands That Hold Us,2014,6.4,41.0,5
+Cottage in America,2014,5.0,42.0,5
+First Lesson in Love,2014,7.0,43.0,5
+ Sons of Guns,2011,6.0,44.0,5
+The Bathroom Diaries,I) (,7.2,45.0,5
+ Welshy Reviews,2011,6.4,46.0,5
+Z Joke,I) (,8.4,47.0,5
+Hunger in America,2014,7.4,48.0,5
+Nexos,2014,4.2,49.0,5
+Where God Likes to Be,2014,7.6,50.0,5
+ Les pouvoirs du cerveau,2015,7.2,1.0,5
+300 Million Years,2015,8.4,2.0,5
+Forced Absence,2015,9.0,3.0,5
+Zabaleen,2015,8.6,4.0,5
+ Unsung,2008,8.2,5.0,5
+ Yo Gabba Gabba!,2007,9.8,6.0,5
+Parallax,II) ,5.4,7.0,5
+ The Life,2015,7.8,8.0,5
+Bombs,2015,7.8,9.0,5
+Bon Appetit,2015,6.8,10.0,5
+The Trials of Constance Baker Motley,2015,9.2,11.0,5
+M4M: Measure for Measure,2015,5.8,12.0,5
+New Earth on the Barrens,2015,8.8,13.0,5
+Bronce,2015,8.0,14.0,5
+What's the Use?,2015,3.0,15.0,5
+Abusing Protocol,2015,7.4,16.0,5
+Love My Country,2015,8.6,17.0,5
+Laurent et Safi,2015,8.6,18.0,5
+Gone in an Instant,2015,6.4,19.0,5
+Purgot,2015,6.8,20.0,5
+The Bathroom,2015,7.0,21.0,5
+Edit > Undo,2015,8.8,22.0,5
+The Tree Widow,2015,8.0,23.0,5
+Quicksand Years,2015,9.8,24.0,5
+Lay in Wait,2015,3.6,25.0,5
+Tres Monjes Rebeldes,2015,5.2,26.0,5
+Kerb Crawlers,2015,5.8,27.0,5
+Power's War,2015,8.2,28.0,5
+Bid for My Life,2015,5.6,29.0,5
+Hamlet, Son of a Kingpin,2015,7.4,30.0,5
+Syl Johnson: Any Way the Wind Blows,2015,7.6,31.0,5
+Black August,2015,5.2,32.0,5
+Humpty,2015,6.6,33.0,5
+La fórmula del doctor Funes,2015,5.6,34.0,5
+Balance,I) (,6.2,35.0,5
+Amnesia,2015,4.0,36.0,5
+Grudge,2015,8.4,37.0,5
+By Jingo,2015,8.6,38.0,5
+De Lichtwachter,2015,8.4,39.0,5
+The Passenger,I) (,8.0,40.0,5
+The Player,2015,8.6,41.0,5
+L'espace d'un instant,2015,8.2,42.0,5
+Welcome to Bridgetown,2015,8.2,43.0,5
+Revolution of the Present,2015,7.0,44.0,5
+Let's Do It,2015,7.2,45.0,5
+The Other Side,VI) ,8.6,46.0,5
+ La dama velata,2015,7.8,47.0,5
+By Blood,2015,7.2,48.0,5
+Die Alraune und das Schwert,2015,6.0,49.0,5
+ High School USA!,2013,7.6,50.0,5
+ Les pouvoirs du cerveau,2015,7.2,1.0,5
+300 Million Years,2015,8.4,2.0,5
+Forced Absence,2015,9.0,3.0,5
+Zabaleen,2015,8.6,4.0,5
+ Unsung,2008,8.2,5.0,5
+ Yo Gabba Gabba!,2007,9.8,6.0,5
+Parallax,II) ,5.4,7.0,5
+ The Life,2015,7.8,8.0,5
+Bombs,2015,7.8,9.0,5
+Bon Appetit,2015,6.8,10.0,5
+The Trials of Constance Baker Motley,2015,9.2,11.0,5
+M4M: Measure for Measure,2015,5.8,12.0,5
+New Earth on the Barrens,2015,8.8,13.0,5
+Bronce,2015,8.0,14.0,5
+What's the Use?,2015,3.0,15.0,5
+Abusing Protocol,2015,7.4,16.0,5
+Love My Country,2015,8.6,17.0,5
+Laurent et Safi,2015,8.6,18.0,5
+Gone in an Instant,2015,6.4,19.0,5
+Purgot,2015,6.8,20.0,5
+The Bathroom,2015,7.0,21.0,5
+Edit > Undo,2015,8.8,22.0,5
+The Tree Widow,2015,8.0,23.0,5
+Quicksand Years,2015,9.8,24.0,5
+Lay in Wait,2015,3.6,25.0,5
+Tres Monjes Rebeldes,2015,5.2,26.0,5
+Kerb Crawlers,2015,5.8,27.0,5
+Power's War,2015,8.2,28.0,5
+Bid for My Life,2015,5.6,29.0,5
+Hamlet, Son of a Kingpin,2015,7.4,30.0,5
+Syl Johnson: Any Way the Wind Blows,2015,7.6,31.0,5
+Black August,2015,5.2,32.0,5
+Humpty,2015,6.6,33.0,5
+La fórmula del doctor Funes,2015,5.6,34.0,5
+Balance,I) (,6.2,35.0,5
+Amnesia,2015,4.0,36.0,5
+Grudge,2015,8.4,37.0,5
+By Jingo,2015,8.6,38.0,5
+De Lichtwachter,2015,8.4,39.0,5
+The Passenger,I) (,8.0,40.0,5
+The Player,2015,8.6,41.0,5
+L'espace d'un instant,2015,8.2,42.0,5
+Welcome to Bridgetown,2015,8.2,43.0,5
+Revolution of the Present,2015,7.0,44.0,5
+Let's Do It,2015,7.2,45.0,5
+The Other Side,VI) ,8.6,46.0,5
+ La dama velata,2015,7.8,47.0,5
+By Blood,2015,7.2,48.0,5
+Die Alraune und das Schwert,2015,6.0,49.0,5
+ High School USA!,2013,7.6,50.0,5
+ Les pouvoirs du cerveau,2015,7.2,1.0,5
+300 Million Years,2015,8.4,2.0,5
+Forced Absence,2015,9.0,3.0,5
+Zabaleen,2015,8.6,4.0,5
+ Unsung,2008,8.2,5.0,5
+ Yo Gabba Gabba!,2007,9.8,6.0,5
+Parallax,II) ,5.4,7.0,5
+ The Life,2015,7.8,8.0,5
+Bombs,2015,7.8,9.0,5
+Bon Appetit,2015,6.8,10.0,5
+The Trials of Constance Baker Motley,2015,9.2,11.0,5
+M4M: Measure for Measure,2015,5.8,12.0,5
+New Earth on the Barrens,2015,8.8,13.0,5
+Bronce,2015,8.0,14.0,5
+What's the Use?,2015,3.0,15.0,5
+Abusing Protocol,2015,7.4,16.0,5
+Love My Country,2015,8.6,17.0,5
+Laurent et Safi,2015,8.6,18.0,5
+Gone in an Instant,2015,6.4,19.0,5
+Purgot,2015,6.8,20.0,5
+The Bathroom,2015,7.0,21.0,5
+Edit > Undo,2015,8.8,22.0,5
+The Tree Widow,2015,8.0,23.0,5
+Quicksand Years,2015,9.8,24.0,5
+Lay in Wait,2015,3.6,25.0,5
+Tres Monjes Rebeldes,2015,5.2,26.0,5
+Kerb Crawlers,2015,5.8,27.0,5
+Power's War,2015,8.2,28.0,5
+Bid for My Life,2015,5.6,29.0,5
+Hamlet, Son of a Kingpin,2015,7.4,30.0,5
+Syl Johnson: Any Way the Wind Blows,2015,7.6,31.0,5
+Black August,2015,5.2,32.0,5
+Humpty,2015,6.6,33.0,5
+La fórmula del doctor Funes,2015,5.6,34.0,5
+Balance,I) (,6.2,35.0,5
+Amnesia,2015,4.0,36.0,5
+Grudge,2015,8.4,37.0,5
+By Jingo,2015,8.6,38.0,5
+De Lichtwachter,2015,8.4,39.0,5
+The Passenger,I) (,8.0,40.0,5
+The Player,2015,8.6,41.0,5
+L'espace d'un instant,2015,8.2,42.0,5
+Welcome to Bridgetown,2015,8.2,43.0,5
+Revolution of the Present,2015,7.0,44.0,5
+Let's Do It,2015,7.2,45.0,5
+The Other Side,VI) ,8.6,46.0,5
+ La dama velata,2015,7.8,47.0,5
+By Blood,2015,7.2,48.0,5
+Die Alraune und das Schwert,2015,6.0,49.0,5
+ High School USA!,2013,7.6,50.0,5
+ Les pouvoirs du cerveau,2015,7.2,1.0,5
+300 Million Years,2015,8.4,2.0,5
+Forced Absence,2015,9.0,3.0,5
+Zabaleen,2015,8.6,4.0,5
+ Unsung,2008,8.2,5.0,5
+ Yo Gabba Gabba!,2007,9.8,6.0,5
+Parallax,II) ,5.4,7.0,5
+ The Life,2015,7.8,8.0,5
+Bombs,2015,7.8,9.0,5
+Bon Appetit,2015,6.8,10.0,5
+The Trials of Constance Baker Motley,2015,9.2,11.0,5
+M4M: Measure for Measure,2015,5.8,12.0,5
+New Earth on the Barrens,2015,8.8,13.0,5
+Bronce,2015,8.0,14.0,5
+What's the Use?,2015,3.0,15.0,5
+Abusing Protocol,2015,7.4,16.0,5
+Love My Country,2015,8.6,17.0,5
+Laurent et Safi,2015,8.6,18.0,5
+Gone in an Instant,2015,6.4,19.0,5
+Purgot,2015,6.8,20.0,5
+The Bathroom,2015,7.0,21.0,5
+Edit > Undo,2015,8.8,22.0,5
+The Tree Widow,2015,8.0,23.0,5
+Quicksand Years,2015,9.8,24.0,5
+Lay in Wait,2015,3.6,25.0,5
+Tres Monjes Rebeldes,2015,5.2,26.0,5
+Kerb Crawlers,2015,5.8,27.0,5
+Power's War,2015,8.2,28.0,5
+Bid for My Life,2015,5.6,29.0,5
+Hamlet, Son of a Kingpin,2015,7.4,30.0,5
+Syl Johnson: Any Way the Wind Blows,2015,7.6,31.0,5
+Black August,2015,5.2,32.0,5
+Humpty,2015,6.6,33.0,5
+La fórmula del doctor Funes,2015,5.6,34.0,5
+Balance,I) (,6.2,35.0,5
+Amnesia,2015,4.0,36.0,5
+Grudge,2015,8.4,37.0,5
+By Jingo,2015,8.6,38.0,5
+De Lichtwachter,2015,8.4,39.0,5
+The Passenger,I) (,8.0,40.0,5
+The Player,2015,8.6,41.0,5
+L'espace d'un instant,2015,8.2,42.0,5
+Welcome to Bridgetown,2015,8.2,43.0,5
+Revolution of the Present,2015,7.0,44.0,5
+Let's Do It,2015,7.2,45.0,5
+The Other Side,VI) ,8.6,46.0,5
+ La dama velata,2015,7.8,47.0,5
+By Blood,2015,7.2,48.0,5
+Die Alraune und das Schwert,2015,6.0,49.0,5
+ High School USA!,2013,7.6,50.0,5
+ Les pouvoirs du cerveau,2015,7.2,1.0,5
+300 Million Years,2015,8.4,2.0,5
+Forced Absence,2015,9.0,3.0,5
+Zabaleen,2015,8.6,4.0,5
+ Unsung,2008,8.2,5.0,5
+ Yo Gabba Gabba!,2007,9.8,6.0,5
+Parallax,II) ,5.4,7.0,5
+ The Life,2015,7.8,8.0,5
+Bombs,2015,7.8,9.0,5
+Bon Appetit,2015,6.8,10.0,5
+The Trials of Constance Baker Motley,2015,9.2,11.0,5
+M4M: Measure for Measure,2015,5.8,12.0,5
+New Earth on the Barrens,2015,8.8,13.0,5
+Bronce,2015,8.0,14.0,5
+What's the Use?,2015,3.0,15.0,5
+Abusing Protocol,2015,7.4,16.0,5
+Love My Country,2015,8.6,17.0,5
+Laurent et Safi,2015,8.6,18.0,5
+Gone in an Instant,2015,6.4,19.0,5
+Purgot,2015,6.8,20.0,5
+The Bathroom,2015,7.0,21.0,5
+Edit > Undo,2015,8.8,22.0,5
+The Tree Widow,2015,8.0,23.0,5
+Quicksand Years,2015,9.8,24.0,5
+Lay in Wait,2015,3.6,25.0,5
+Tres Monjes Rebeldes,2015,5.2,26.0,5
+Kerb Crawlers,2015,5.8,27.0,5
+Power's War,2015,8.2,28.0,5
+Bid for My Life,2015,5.6,29.0,5
+Hamlet, Son of a Kingpin,2015,7.4,30.0,5
+Syl Johnson: Any Way the Wind Blows,2015,7.6,31.0,5
+Black August,2015,5.2,32.0,5
+Humpty,2015,6.6,33.0,5
+La fórmula del doctor Funes,2015,5.6,34.0,5
+Balance,I) (,6.2,35.0,5
+Amnesia,2015,4.0,36.0,5
+Grudge,2015,8.4,37.0,5
+By Jingo,2015,8.6,38.0,5
+De Lichtwachter,2015,8.4,39.0,5
+The Passenger,I) (,8.0,40.0,5
+The Player,2015,8.6,41.0,5
+L'espace d'un instant,2015,8.2,42.0,5
+Welcome to Bridgetown,2015,8.2,43.0,5
+Revolution of the Present,2015,7.0,44.0,5
+Let's Do It,2015,7.2,45.0,5
+The Other Side,VI) ,8.6,46.0,5
+ La dama velata,2015,7.8,47.0,5
+By Blood,2015,7.2,48.0,5
+Die Alraune und das Schwert,2015,6.0,49.0,5
+ High School USA!,2013,7.6,50.0,5
+Ivan Mosjoukine ou L'enfant du carnaval,2016,9.0,1.0,5
+Pool Fart,2016,6.6,2.0,5
+Sélection officielle,2016,4.0,3.0,5
+La belle mère,2016,6.8,4.0,5
+Envisage,2016,7.4,5.0,5
+Morality,II) ,8.6,6.0,5
+Into the Equinox,2016,6.0,7.0,5
+Sleep, Wake, Forget,2016,5.8,8.0,5
+Tulasi Dalam,2016,6.6,9.0,5
+Mamadua: Nacer en conciencia,2016,9.4,10.0,5
+Motherland,III),4.8,11.0,5
+Searchdog,2016,9.4,12.0,5
+JOB's Daughter,2016,6.8,13.0,5
+Motel fin de la route,2016,5.8,14.0,5
+Trigger Man,2016,8.8,15.0,5
+Children of the Silent Revolution,2016,9.4,16.0,5
+The Northern Paradigm,2016,5.6,17.0,5
+Keeping It 100,2016,7.2,18.0,5
+Curfew,2016,5.4,19.0,5
+Shadow of the Lotus,2016,4.0,20.0,5
+ Unsung,2008,7.4,21.0,5
+Twice Upon a Time,2016,9.0,22.0,5
+3 Mariages et un coup de foudre,2016,5.2,23.0,5
+My Friend's Rubber Ducky,2016,8.4,24.0,5
+Den magiske tiden,2016,3.8,25.0,5
+Soft Voice,2016,4.6,26.0,5
+Zoya,I) (,8.0,27.0,5
+Buffalo,2016,9.0,28.0,5
+Split,VIII,6.8,29.0,5
+Same Dance,2016,8.2,30.0,5
+The Grey Matter Archives,2016,9.0,31.0,5
+The Dark Hunger,2016,8.6,32.0,5
+The Dark Days,2016,6.2,33.0,5
+400 Miles,I) (,8.0,34.0,5
+Joselito,2016,5.0,35.0,5
+No Child,2016,7.8,36.0,5
+Realidades de humo,2016,8.2,37.0,5
+Danny Boy,2016,8.6,38.0,5
+The Wolf and the Wayfarer,2016,9.0,39.0,5
+For a Good Time,2016,6.8,40.0,5
+ 25 & Counting,2016,8.4,41.0,5
+Wintersonnenwende,2016,8.4,42.0,5
+Bullshit,2016,8.4,43.0,5
+Tales of the First People, Vol I: Spirit Tales,2016,7.0,44.0,5
+Words Unsaid,I) (,5.0,45.0,5
+Cold Kate,2016,9.2,46.0,5
+ Chiringuito de Pepe,2014,5.8,47.0,5
+Silent,I) (,7.8,48.0,5
+Red Windows,2016,6.2,49.0,5
+Blake Chandler: Psychic Investigator,2016,7.8,50.0,5
+Ivan Mosjoukine ou L'enfant du carnaval,2016,9.0,1.0,5
+Pool Fart,2016,6.6,2.0,5
+Sélection officielle,2016,4.0,3.0,5
+La belle mère,2016,6.8,4.0,5
+Envisage,2016,7.4,5.0,5
+Morality,II) ,8.6,6.0,5
+Into the Equinox,2016,6.0,7.0,5
+Sleep, Wake, Forget,2016,5.8,8.0,5
+Tulasi Dalam,2016,6.6,9.0,5
+Mamadua: Nacer en conciencia,2016,9.4,10.0,5
+Motherland,III),4.8,11.0,5
+Searchdog,2016,9.4,12.0,5
+JOB's Daughter,2016,6.8,13.0,5
+Motel fin de la route,2016,5.8,14.0,5
+Trigger Man,2016,8.8,15.0,5
+Children of the Silent Revolution,2016,9.4,16.0,5
+The Northern Paradigm,2016,5.6,17.0,5
+Keeping It 100,2016,7.2,18.0,5
+Curfew,2016,5.4,19.0,5
+Shadow of the Lotus,2016,4.0,20.0,5
+ Unsung,2008,7.4,21.0,5
+Twice Upon a Time,2016,9.0,22.0,5
+3 Mariages et un coup de foudre,2016,5.2,23.0,5
+My Friend's Rubber Ducky,2016,8.4,24.0,5
+Den magiske tiden,2016,3.8,25.0,5
+Soft Voice,2016,4.6,26.0,5
+Zoya,I) (,8.0,27.0,5
+Buffalo,2016,9.0,28.0,5
+Split,VIII,6.8,29.0,5
+Same Dance,2016,8.2,30.0,5
+The Grey Matter Archives,2016,9.0,31.0,5
+The Dark Hunger,2016,8.6,32.0,5
+The Dark Days,2016,6.2,33.0,5
+400 Miles,I) (,8.0,34.0,5
+Joselito,2016,5.0,35.0,5
+No Child,2016,7.8,36.0,5
+Realidades de humo,2016,8.2,37.0,5
+Danny Boy,2016,8.6,38.0,5
+The Wolf and the Wayfarer,2016,9.0,39.0,5
+For a Good Time,2016,6.8,40.0,5
+ 25 & Counting,2016,8.4,41.0,5
+Wintersonnenwende,2016,8.4,42.0,5
+Bullshit,2016,8.4,43.0,5
+Tales of the First People, Vol I: Spirit Tales,2016,7.0,44.0,5
+Words Unsaid,I) (,5.0,45.0,5
+Cold Kate,2016,9.2,46.0,5
+ Chiringuito de Pepe,2014,5.8,47.0,5
+Silent,I) (,7.8,48.0,5
+Red Windows,2016,6.2,49.0,5
+Blake Chandler: Psychic Investigator,2016,7.8,50.0,5
+Ivan Mosjoukine ou L'enfant du carnaval,2016,9.0,1.0,5
+Pool Fart,2016,6.6,2.0,5
+Sélection officielle,2016,4.0,3.0,5
+La belle mère,2016,6.8,4.0,5
+Envisage,2016,7.4,5.0,5
+Morality,II) ,8.6,6.0,5
+Into the Equinox,2016,6.0,7.0,5
+Sleep, Wake, Forget,2016,5.8,8.0,5
+Tulasi Dalam,2016,6.6,9.0,5
+Mamadua: Nacer en conciencia,2016,9.4,10.0,5
+Motherland,III),4.8,11.0,5
+Searchdog,2016,9.4,12.0,5
+JOB's Daughter,2016,6.8,13.0,5
+Motel fin de la route,2016,5.8,14.0,5
+Trigger Man,2016,8.8,15.0,5
+Children of the Silent Revolution,2016,9.4,16.0,5
+The Northern Paradigm,2016,5.6,17.0,5
+Keeping It 100,2016,7.2,18.0,5
+Curfew,2016,5.4,19.0,5
+Shadow of the Lotus,2016,4.0,20.0,5
+ Unsung,2008,7.4,21.0,5
+Twice Upon a Time,2016,9.0,22.0,5
+3 Mariages et un coup de foudre,2016,5.2,23.0,5
+My Friend's Rubber Ducky,2016,8.4,24.0,5
+Den magiske tiden,2016,3.8,25.0,5
+Soft Voice,2016,4.6,26.0,5
+Zoya,I) (,8.0,27.0,5
+Buffalo,2016,9.0,28.0,5
+Split,VIII,6.8,29.0,5
+Same Dance,2016,8.2,30.0,5
+The Grey Matter Archives,2016,9.0,31.0,5
+The Dark Hunger,2016,8.6,32.0,5
+The Dark Days,2016,6.2,33.0,5
+400 Miles,I) (,8.0,34.0,5
+Joselito,2016,5.0,35.0,5
+No Child,2016,7.8,36.0,5
+Realidades de humo,2016,8.2,37.0,5
+Danny Boy,2016,8.6,38.0,5
+The Wolf and the Wayfarer,2016,9.0,39.0,5
+For a Good Time,2016,6.8,40.0,5
+ 25 & Counting,2016,8.4,41.0,5
+Wintersonnenwende,2016,8.4,42.0,5
+Bullshit,2016,8.4,43.0,5
+Tales of the First People, Vol I: Spirit Tales,2016,7.0,44.0,5
+Words Unsaid,I) (,5.0,45.0,5
+Cold Kate,2016,9.2,46.0,5
+ Chiringuito de Pepe,2014,5.8,47.0,5
+Silent,I) (,7.8,48.0,5
+Red Windows,2016,6.2,49.0,5
+Blake Chandler: Psychic Investigator,2016,7.8,50.0,5
+Ivan Mosjoukine ou L'enfant du carnaval,2016,9.0,1.0,5
+Pool Fart,2016,6.6,2.0,5
+Sélection officielle,2016,4.0,3.0,5
+La belle mère,2016,6.8,4.0,5
+Envisage,2016,7.4,5.0,5
+Morality,II) ,8.6,6.0,5
+Into the Equinox,2016,6.0,7.0,5
+Sleep, Wake, Forget,2016,5.8,8.0,5
+Tulasi Dalam,2016,6.6,9.0,5
+Mamadua: Nacer en conciencia,2016,9.4,10.0,5
+Motherland,III),4.8,11.0,5
+Searchdog,2016,9.4,12.0,5
+JOB's Daughter,2016,6.8,13.0,5
+Motel fin de la route,2016,5.8,14.0,5
+Trigger Man,2016,8.8,15.0,5
+Children of the Silent Revolution,2016,9.4,16.0,5
+The Northern Paradigm,2016,5.6,17.0,5
+Keeping It 100,2016,7.2,18.0,5
+Curfew,2016,5.4,19.0,5
+Shadow of the Lotus,2016,4.0,20.0,5
+ Unsung,2008,7.4,21.0,5
+Twice Upon a Time,2016,9.0,22.0,5
+3 Mariages et un coup de foudre,2016,5.2,23.0,5
+My Friend's Rubber Ducky,2016,8.4,24.0,5
+Den magiske tiden,2016,3.8,25.0,5
+Soft Voice,2016,4.6,26.0,5
+Zoya,I) (,8.0,27.0,5
+Buffalo,2016,9.0,28.0,5
+Split,VIII,6.8,29.0,5
+Same Dance,2016,8.2,30.0,5
+The Grey Matter Archives,2016,9.0,31.0,5
+The Dark Hunger,2016,8.6,32.0,5
+The Dark Days,2016,6.2,33.0,5
+400 Miles,I) (,8.0,34.0,5
+Joselito,2016,5.0,35.0,5
+No Child,2016,7.8,36.0,5
+Realidades de humo,2016,8.2,37.0,5
+Danny Boy,2016,8.6,38.0,5
+The Wolf and the Wayfarer,2016,9.0,39.0,5
+For a Good Time,2016,6.8,40.0,5
+ 25 & Counting,2016,8.4,41.0,5
+Wintersonnenwende,2016,8.4,42.0,5
+Bullshit,2016,8.4,43.0,5
+Tales of the First People, Vol I: Spirit Tales,2016,7.0,44.0,5
+Words Unsaid,I) (,5.0,45.0,5
+Cold Kate,2016,9.2,46.0,5
+ Chiringuito de Pepe,2014,5.8,47.0,5
+Silent,I) (,7.8,48.0,5
+Red Windows,2016,6.2,49.0,5
+Blake Chandler: Psychic Investigator,2016,7.8,50.0,5
+Ivan Mosjoukine ou L'enfant du carnaval,2016,9.0,1.0,5
+Pool Fart,2016,6.6,2.0,5
+Sélection officielle,2016,4.0,3.0,5
+La belle mère,2016,6.8,4.0,5
+Envisage,2016,7.4,5.0,5
+Morality,II) ,8.6,6.0,5
+Into the Equinox,2016,6.0,7.0,5
+Sleep, Wake, Forget,2016,5.8,8.0,5
+Tulasi Dalam,2016,6.6,9.0,5
+Mamadua: Nacer en conciencia,2016,9.4,10.0,5
+Motherland,III),4.8,11.0,5
+Searchdog,2016,9.4,12.0,5
+JOB's Daughter,2016,6.8,13.0,5
+Motel fin de la route,2016,5.8,14.0,5
+Trigger Man,2016,8.8,15.0,5
+Children of the Silent Revolution,2016,9.4,16.0,5
+The Northern Paradigm,2016,5.6,17.0,5
+Keeping It 100,2016,7.2,18.0,5
+Curfew,2016,5.4,19.0,5
+Shadow of the Lotus,2016,4.0,20.0,5
+ Unsung,2008,7.4,21.0,5
+Twice Upon a Time,2016,9.0,22.0,5
+3 Mariages et un coup de foudre,2016,5.2,23.0,5
+My Friend's Rubber Ducky,2016,8.4,24.0,5
+Den magiske tiden,2016,3.8,25.0,5
+Soft Voice,2016,4.6,26.0,5
+Zoya,I) (,8.0,27.0,5
+Buffalo,2016,9.0,28.0,5
+Split,VIII,6.8,29.0,5
+Same Dance,2016,8.2,30.0,5
+The Grey Matter Archives,2016,9.0,31.0,5
+The Dark Hunger,2016,8.6,32.0,5
+The Dark Days,2016,6.2,33.0,5
+400 Miles,I) (,8.0,34.0,5
+Joselito,2016,5.0,35.0,5
+No Child,2016,7.8,36.0,5
+Realidades de humo,2016,8.2,37.0,5
+Danny Boy,2016,8.6,38.0,5
+The Wolf and the Wayfarer,2016,9.0,39.0,5
+For a Good Time,2016,6.8,40.0,5
+ 25 & Counting,2016,8.4,41.0,5
+Wintersonnenwende,2016,8.4,42.0,5
+Bullshit,2016,8.4,43.0,5
+Tales of the First People, Vol I: Spirit Tales,2016,7.0,44.0,5
+Words Unsaid,I) (,5.0,45.0,5
+Cold Kate,2016,9.2,46.0,5
+ Chiringuito de Pepe,2014,5.8,47.0,5
+Silent,I) (,7.8,48.0,5
+Red Windows,2016,6.2,49.0,5
+Blake Chandler: Psychic Investigator,2016,7.8,50.0,5
+Maxxy Rainbow ESC,2017,8.4,1.0,5
+ Nature,1982,8.6,2.0,5
+Death Van,2017,6.0,3.0,5
+Le Pigalle: Une histoire populaire de Paris,2017,5.8,4.0,5
+Pokác ft. Jakub Ondra: Hrdinský cin,2017,8.4,5.0,5
+Dust Radio: A Film About Chris Whitley,2017,8.2,6.0,5
+ Close Up,2011,8.6,7.0,5
+The Runner,I) (,6.4,8.0,5
+ Made in Hollywood,2005,8.0,9.0,5
+Scrambled,I) (,8.4,10.0,5
+After Love,2017,7.6,11.0,5
+Fear and Love,2017,8.8,12.0,5
+The 12 Lives of Sissy Carlyle,2017,9.0,13.0,5
+Out of Frame,II) ,8.0,14.0,5
+Capgras,2017,5.2,15.0,5
+Thirst,VII),9.2,16.0,5
+The Last Game,I) (,6.8,17.0,5
+We're Doing Fine,2017,9.0,18.0,5
+Never Came Back,2017,5.2,19.0,5
+ Family Values,2015,5.0,20.0,5
+Noi siamo ombre,2017,6.2,21.0,5
+28 Minute Epic,2017,9.6,22.0,5
+The Power of Glove,2017,7.4,23.0,5
+Aggregate,2017,7.8,24.0,5
+The Genius of a Place,2017,9.0,25.0,5
+Momma Knows Best... Right?,2017,5.8,26.0,5
+Til Death,III),5.0,27.0,5
+Spitball,2017,10.0,28.0,5
+High Low Forty,2017,4.0,29.0,5
+ Crimi Clowns,2012,8.8,30.0,5
+Devil Dogs,2017,5.8,31.0,5
+Clash of the Vampires,2017,4.6,32.0,5
+God's Speed,2017,8.2,33.0,5
+Lake of Betrayal: The Story of Kinzua Dam,2017,9.4,34.0,5
+The Lyme Lyte,2017,3.2,35.0,5
+El dulce sabor del limón,2017,5.4,36.0,5
+Sinterklaas is nog niet jarig,2017,8.4,37.0,5
+Doll Murder Spree,2017,5.2,38.0,5
+ Lookin' at Books,2014,7.4,39.0,5
+Preso,2017,6.0,40.0,5
+Streets,2017,7.6,41.0,5
+ What We Once Were,2015,2.8,42.0,5
+Bagnini & Bagnanti,2017,7.4,43.0,5
+Gender Troubles: The Butches,2017,6.6,44.0,5
+Incendio,2017,8.6,45.0,5
+Teal Soldiers,2017,10.0,46.0,5
+The Passage,2017,4.8,47.0,5
+Femme Brutal,2017,8.0,48.0,5
+Stranger,IV) ,8.0,49.0,5
+Mac Daddy's Vegas Adventure,2017,5.4,50.0,5
+Maxxy Rainbow ESC,2017,8.4,1.0,5
+ Nature,1982,8.6,2.0,5
+Death Van,2017,6.0,3.0,5
+Le Pigalle: Une histoire populaire de Paris,2017,5.8,4.0,5
+Pokác ft. Jakub Ondra: Hrdinský cin,2017,8.4,5.0,5
+Dust Radio: A Film About Chris Whitley,2017,8.2,6.0,5
+ Close Up,2011,8.6,7.0,5
+The Runner,I) (,6.4,8.0,5
+ Made in Hollywood,2005,8.0,9.0,5
+Scrambled,I) (,8.4,10.0,5
+After Love,2017,7.6,11.0,5
+Fear and Love,2017,8.8,12.0,5
+The 12 Lives of Sissy Carlyle,2017,9.0,13.0,5
+Out of Frame,II) ,8.0,14.0,5
+Capgras,2017,5.2,15.0,5
+Thirst,VII),9.2,16.0,5
+The Last Game,I) (,6.8,17.0,5
+We're Doing Fine,2017,9.0,18.0,5
+Never Came Back,2017,5.2,19.0,5
+ Family Values,2015,5.0,20.0,5
+Noi siamo ombre,2017,6.2,21.0,5
+28 Minute Epic,2017,9.6,22.0,5
+The Power of Glove,2017,7.4,23.0,5
+Aggregate,2017,7.8,24.0,5
+The Genius of a Place,2017,9.0,25.0,5
+Momma Knows Best... Right?,2017,5.8,26.0,5
+Til Death,III),5.0,27.0,5
+Spitball,2017,10.0,28.0,5
+High Low Forty,2017,4.0,29.0,5
+ Crimi Clowns,2012,8.8,30.0,5
+Devil Dogs,2017,5.8,31.0,5
+Clash of the Vampires,2017,4.6,32.0,5
+God's Speed,2017,8.2,33.0,5
+Lake of Betrayal: The Story of Kinzua Dam,2017,9.4,34.0,5
+The Lyme Lyte,2017,3.2,35.0,5
+El dulce sabor del limón,2017,5.4,36.0,5
+Sinterklaas is nog niet jarig,2017,8.4,37.0,5
+Doll Murder Spree,2017,5.2,38.0,5
+ Lookin' at Books,2014,7.4,39.0,5
+Preso,2017,6.0,40.0,5
+Streets,2017,7.6,41.0,5
+ What We Once Were,2015,2.8,42.0,5
+Bagnini & Bagnanti,2017,7.4,43.0,5
+Gender Troubles: The Butches,2017,6.6,44.0,5
+Incendio,2017,8.6,45.0,5
+Teal Soldiers,2017,10.0,46.0,5
+The Passage,2017,4.8,47.0,5
+Femme Brutal,2017,8.0,48.0,5
+Stranger,IV) ,8.0,49.0,5
+Mac Daddy's Vegas Adventure,2017,5.4,50.0,5
+Maxxy Rainbow ESC,2017,8.4,1.0,5
+ Nature,1982,8.6,2.0,5
+Death Van,2017,6.0,3.0,5
+Le Pigalle: Une histoire populaire de Paris,2017,5.8,4.0,5
+Pokác ft. Jakub Ondra: Hrdinský cin,2017,8.4,5.0,5
+Dust Radio: A Film About Chris Whitley,2017,8.2,6.0,5
+ Close Up,2011,8.6,7.0,5
+The Runner,I) (,6.4,8.0,5
+ Made in Hollywood,2005,8.0,9.0,5
+Scrambled,I) (,8.4,10.0,5
+After Love,2017,7.6,11.0,5
+Fear and Love,2017,8.8,12.0,5
+The 12 Lives of Sissy Carlyle,2017,9.0,13.0,5
+Out of Frame,II) ,8.0,14.0,5
+Capgras,2017,5.2,15.0,5
+Thirst,VII),9.2,16.0,5
+The Last Game,I) (,6.8,17.0,5
+We're Doing Fine,2017,9.0,18.0,5
+Never Came Back,2017,5.2,19.0,5
+ Family Values,2015,5.0,20.0,5
+Noi siamo ombre,2017,6.2,21.0,5
+28 Minute Epic,2017,9.6,22.0,5
+The Power of Glove,2017,7.4,23.0,5
+Aggregate,2017,7.8,24.0,5
+The Genius of a Place,2017,9.0,25.0,5
+Momma Knows Best... Right?,2017,5.8,26.0,5
+Til Death,III),5.0,27.0,5
+Spitball,2017,10.0,28.0,5
+High Low Forty,2017,4.0,29.0,5
+ Crimi Clowns,2012,8.8,30.0,5
+Devil Dogs,2017,5.8,31.0,5
+Clash of the Vampires,2017,4.6,32.0,5
+God's Speed,2017,8.2,33.0,5
+Lake of Betrayal: The Story of Kinzua Dam,2017,9.4,34.0,5
+The Lyme Lyte,2017,3.2,35.0,5
+El dulce sabor del limón,2017,5.4,36.0,5
+Sinterklaas is nog niet jarig,2017,8.4,37.0,5
+Doll Murder Spree,2017,5.2,38.0,5
+ Lookin' at Books,2014,7.4,39.0,5
+Preso,2017,6.0,40.0,5
+Streets,2017,7.6,41.0,5
+ What We Once Were,2015,2.8,42.0,5
+Bagnini & Bagnanti,2017,7.4,43.0,5
+Gender Troubles: The Butches,2017,6.6,44.0,5
+Incendio,2017,8.6,45.0,5
+Teal Soldiers,2017,10.0,46.0,5
+The Passage,2017,4.8,47.0,5
+Femme Brutal,2017,8.0,48.0,5
+Stranger,IV) ,8.0,49.0,5
+Mac Daddy's Vegas Adventure,2017,5.4,50.0,5
+Maxxy Rainbow ESC,2017,8.4,1.0,5
+ Nature,1982,8.6,2.0,5
+Death Van,2017,6.0,3.0,5
+Le Pigalle: Une histoire populaire de Paris,2017,5.8,4.0,5
+Pokác ft. Jakub Ondra: Hrdinský cin,2017,8.4,5.0,5
+Dust Radio: A Film About Chris Whitley,2017,8.2,6.0,5
+ Close Up,2011,8.6,7.0,5
+The Runner,I) (,6.4,8.0,5
+ Made in Hollywood,2005,8.0,9.0,5
+Scrambled,I) (,8.4,10.0,5
+After Love,2017,7.6,11.0,5
+Fear and Love,2017,8.8,12.0,5
+The 12 Lives of Sissy Carlyle,2017,9.0,13.0,5
+Out of Frame,II) ,8.0,14.0,5
+Capgras,2017,5.2,15.0,5
+Thirst,VII),9.2,16.0,5
+The Last Game,I) (,6.8,17.0,5
+We're Doing Fine,2017,9.0,18.0,5
+Never Came Back,2017,5.2,19.0,5
+ Family Values,2015,5.0,20.0,5
+Noi siamo ombre,2017,6.2,21.0,5
+28 Minute Epic,2017,9.6,22.0,5
+The Power of Glove,2017,7.4,23.0,5
+Aggregate,2017,7.8,24.0,5
+The Genius of a Place,2017,9.0,25.0,5
+Momma Knows Best... Right?,2017,5.8,26.0,5
+Til Death,III),5.0,27.0,5
+Spitball,2017,10.0,28.0,5
+High Low Forty,2017,4.0,29.0,5
+ Crimi Clowns,2012,8.8,30.0,5
+Devil Dogs,2017,5.8,31.0,5
+Clash of the Vampires,2017,4.6,32.0,5
+God's Speed,2017,8.2,33.0,5
+Lake of Betrayal: The Story of Kinzua Dam,2017,9.4,34.0,5
+The Lyme Lyte,2017,3.2,35.0,5
+El dulce sabor del limón,2017,5.4,36.0,5
+Sinterklaas is nog niet jarig,2017,8.4,37.0,5
+Doll Murder Spree,2017,5.2,38.0,5
+ Lookin' at Books,2014,7.4,39.0,5
+Preso,2017,6.0,40.0,5
+Streets,2017,7.6,41.0,5
+ What We Once Were,2015,2.8,42.0,5
+Bagnini & Bagnanti,2017,7.4,43.0,5
+Gender Troubles: The Butches,2017,6.6,44.0,5
+Incendio,2017,8.6,45.0,5
+Teal Soldiers,2017,10.0,46.0,5
+The Passage,2017,4.8,47.0,5
+Femme Brutal,2017,8.0,48.0,5
+Stranger,IV) ,8.0,49.0,5
+Mac Daddy's Vegas Adventure,2017,5.4,50.0,5
+Maxxy Rainbow ESC,2017,8.4,1.0,5
+ Nature,1982,8.6,2.0,5
+Death Van,2017,6.0,3.0,5
+Le Pigalle: Une histoire populaire de Paris,2017,5.8,4.0,5
